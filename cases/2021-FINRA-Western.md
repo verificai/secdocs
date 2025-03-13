@@ -1,0 +1,60 @@
+# Western International Securities - Regulation Best Interest Enforcement Case
+
+## Case Identification
+This case represents one of the early enforcement actions related to Regulation Best Interest.
+
+**Respondent**: Western International Securities, Inc. and Five Registered Representatives
+**Date**: June 2022
+**Case Type**: SEC Administrative Proceeding
+
+## Violations
+
+Western International Securities, Inc. and five of its registered representatives were charged with violating Regulation Best Interest by the SEC. This was the SEC's first litigated Regulation Best Interest enforcement action.
+
+## Facts and Context
+
+1. The five registered representatives recommended and sold an unrated, high-risk debt security known as L Bonds to retail customers.
+
+2. The L Bonds were issued by GWG Holdings, Inc. and were high-risk, illiquid products that were only suitable for customers with substantial financial resources.
+
+3. The representatives sold approximately $13.3 million in L Bonds to retail customers, many of whom were retirees or near retirement and had moderate risk tolerances and investment objectives.
+
+4. The recommendations were made between July 2020 and April 2021, after Regulation Best Interest went into effect.
+
+5. In January 2022, GWG Holdings missed interest payments on the L Bonds and subsequently filed for bankruptcy in April 2022, causing significant losses to investors.
+
+## Care Obligation Violations
+
+The SEC alleged that Western and its representatives violated the "Care Obligation" component of Regulation Best Interest by:
+
+1. Failing to exercise reasonable diligence, care, and skill to understand the potential risks, rewards, and costs associated with the L Bonds.
+
+2. Recommending the L Bonds without a reasonable basis to believe they were in the best interest of their retail customers based on their investment profiles.
+
+3. Disregarding the product's high risk and illiquidity when making recommendations to customers with moderate risk tolerances and preservation of capital objectives.
+
+4. Failing to adequately consider readily available alternative investments with similar yields but lower risks.
+
+## Disclosure Obligation Violations
+
+The SEC also alleged violations of the "Disclosure Obligation" component of Regulation Best Interest for failing to adequately disclose:
+
+1. The significant risks associated with the L Bonds, including their speculative nature and illiquidity
+
+2. Material facts about the conflicts of interest associated with the recommendations, including the significant commissions received for selling the L Bonds
+
+## Significance
+
+This case is particularly significant because:
+
+1. It was the SEC's first litigated enforcement action under Regulation Best Interest, showing the agency's commitment to enforcing the new standard
+
+2. It focused on recommendations of high-risk, complex products to retail investors with moderate risk profiles
+
+3. It highlighted the importance of proper product due diligence and alignment between product characteristics and customer investment profiles
+
+4. It demonstrated that both broker-dealers and individual representatives can be held liable under Regulation Best Interest
+
+5. It emphasized the need for proper disclosure of product risks and potential conflicts of interest when making recommendations
+
+This case serves as an important precedent for how regulators will apply Regulation Best Interest to recommendations of complex, high-risk products to retail customers with moderate risk profiles.

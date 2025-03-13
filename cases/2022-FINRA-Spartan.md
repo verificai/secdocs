@@ -1,0 +1,67 @@
+# Spartan Securities - Regulation Best Interest Enforcement Case
+
+## Case Identification
+This case represents one of the significant early enforcement actions related to Regulation Best Interest.
+
+**Respondent**: Spartan Securities Group, Ltd.
+**Date**: December 2022
+**Form**: FINRA Acceptance, Waiver & Consent (AWC)
+
+## Violations
+
+Spartan Securities was found to have violated multiple obligations under Regulation Best Interest, including the Compliance Obligation, Disclosure Obligation, and Care Obligation.
+
+## Facts and Context
+
+1. After the June 30, 2020 implementation date of Regulation Best Interest, Spartan Securities failed to adequately update its policies, procedures, and practices to comply with the new regulation.
+
+2. The firm made recommendations to retail customers regarding complex products, including leveraged and inverse ETFs, without conducting sufficient due diligence to understand the products' features and risks.
+
+3. The firm failed to consider reasonable alternatives that might be in the best interest of retail customers when making recommendations.
+
+4. Spartan did not provide adequate disclosures regarding material facts and conflicts of interest related to its recommendations.
+
+5. The firm's registered representatives recommended complex products to retail customers without a reasonable basis to believe the recommendations were in those customers' best interests.
+
+## Multiple Obligation Violations
+
+Spartan Securities violated several components of Regulation Best Interest:
+
+### Compliance Obligation Violations
+1. Failed to establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest
+2. Continued to rely primarily on pre-Reg BI suitability-based procedures
+3. Did not implement adequate supervisory systems to monitor compliance with Regulation Best Interest
+
+### Disclosure Obligation Violations
+1. Failed to provide required disclosures about material facts related to the scope and terms of the relationship
+2. Did not disclose all material facts relating to conflicts of interest associated with recommendations
+3. Failed to deliver Form CRS to certain retail customers by the required deadline
+
+### Care Obligation Violations
+1. Failed to exercise reasonable diligence, care, and skill when making recommendations of complex products
+2. Did not have a reasonable basis to believe recommendations of leveraged and inverse ETFs were in customers' best interests
+3. Failed to consider the potential risks, rewards, and costs of recommendations in light of customers' investment profiles
+
+## Sanctions
+
+Spartan Securities agreed to:
+- A significant monetary fine
+- Undertake a comprehensive review and revision of its policies and procedures
+- Implement enhanced training for all registered representatives
+- Conduct a lookback review to identify and remediate potential customer harm
+
+## Significance
+
+This case is significant because:
+
+1. It demonstrates FINRA's willingness to pursue violations across multiple obligations of Regulation Best Interest in a single enforcement action.
+
+2. It focuses on complex products like leveraged and inverse ETFs, which have been a regulatory priority due to their potential risks for retail investors.
+
+3. It highlights the enhanced due diligence requirements for recommendations of complex products under Regulation Best Interest.
+
+4. It emphasizes that firms must consider reasonable available alternatives when making recommendations to retail customers.
+
+5. It shows that firms cannot simply rebrand their suitability procedures as Regulation Best Interest procedures without substantive changes.
+
+The case serves as an important reminder that Regulation Best Interest imposes heightened obligations across multiple dimensions of the broker-dealer/customer relationship, requiring comprehensive compliance programs that address each component of the regulation.
