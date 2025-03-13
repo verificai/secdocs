@@ -1,0 +1,320 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021071134401
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Jose M. Candelario Padilla (Respondent)
+General Securities Representative
+CRD No. 4847560
+
+Pursuant to FINRA Rule 9216, Respondent Jose M. Candelario Padilla submits this Letter of
+Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Candelario Padilla first became registered with FINRA in 2004. Since September 2016,
+he has been registered as a General Securities Representative through an association with
+Nationwide Planning Associates Inc. (CRD No. 31029). 1
+OVERVIEW
+Between March 2020 and October 2020, Candelario Padilla recommended retail
+customers purchase leveraged and inverse exchange-traded funds (NT-ETFs) without
+having a sufficient understanding of the risks and features associated with the products,
+thereby failing to have a reasonable basis to make those recommendations. As a result,
+Candelario Padilla willfully violated the Care Obligation under Rule 15l-1 of the
+Securities Exchange Act of 1934 (Regulation BI or Reg BI) and violated FINRA Rules
+2111 and 2010.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from an examination of Nationwide Planning Associates.
+
+1
+
+For more information about the respondent, visit BrokerCheck® at www.finra.org/brokercheck.
+
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation BI under the Securities Exchange Act of 1934. Reg BI requires a broker,
+dealer, or a natural person associated with a broker or dealer, when making a
+recommendation of any securities transaction or investment strategy involving securities
+(including account recommendations) to a retail customer, to act in the best interest of
+that retail customer at the time the recommendation is made, without placing the financial
+or other interest of the broker, dealer, or associated person ahead of the interest of the
+retail customer. Reg BI’s Care Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(ii),
+requires broker-dealers and their associated persons to exercise reasonable diligence,
+care, and skill to, among other things, understand the potential risks, rewards, and costs
+associated with a recommendation, and have a reasonable basis to believe that the
+recommendation could be in the best interest of at least some retail customers. Reg BI’s
+Adopting Release provides that what constitutes “reasonable diligence, care and skill”
+depends on, among other things, the complexity of, and risks associated with, the
+recommended security. 2
+Prior to June 30, 2020, FINRA Rule 2111 required members and associated persons to
+have a reasonable basis to believe that a recommended transaction or investment strategy
+involving a security or securities is suitable for the retail customer. Rule 2111
+Supplementary Material .05(a) defines the reasonable-basis obligation to require
+members and their associated persons perform reasonable diligence to have an
+understanding of the potential risks and rewards associated with the recommended
+security or strategy, and to have a reasonable basis to believe, based on that reasonable
+diligence, that the recommendation is suitable for at least some investors.
+A violation of Reg BI or FINRA Rule 2111 also is a violation of FINRA Rule 2010,
+which requires associated persons to “observe high standards of commercial honor and
+just and equitable principles of trade” in the conduct of their business.
+NT-ETFs are designed to return a multiple of an underlying index or benchmark, the
+inverse of that benchmark, or both, over only the course of one trading session—usually a
+single day. NT-ETFs typically rebalance their portfolios on a daily basis (also known as
+the daily reset). As a result, due to the effects of compounding of daily returns during the
+holding period, the performance of NT-ETFs over periods longer than a single trading
+session can differ significantly from the performance of their underlying index or
+benchmark during the same period of time. In Regulatory Notice 09-31, FINRA advised
+its members that before recommending the purchase of an NT-ETF, a firm and its
+associated persons must understand the terms and features of the funds, including, in part,
+the effect that a customer’s intended holding period will have on the funds’ performance.
+This Notice also advises that NT-ETFs “typically are not suitable for retail investors who
+plan to hold them for more than one trading session, particularly in volatile markets.”
+Between March 2020 and October 2020, Candelario Padilla recommended that retail
+customers at Nationwide Planning Associates purchase NT-ETFs. When he made those
+2
+Regulation Best Interest: The Broker-Dealer Standard of Conduct, Exchange Act Release No. 86031, 84 FR
+33318 at 33376 (July 12, 2019).
+
+2
+
+recommendations, Candelario Padilla did not have a sufficient understanding of the
+features and risks associated with NT-ETFs—including, for example, that losses in NTETFs can be compounded because of the daily reset function. As a result, Candelario
+Padilla did not have a reasonable basis to believe that NT-ETFs could be suitable for or in
+the best interest of any retail customers.
+At Candelario Padilla’s recommendation, nine retail customers held a total of 14 NT-ETF
+positions for periods ranging from 14 to 65 days. These customers suffered net losses
+from NT-ETF trading of approximately $26,000.
+Therefore, Candelario Padilla willfully violated Exchange Act Rule 15l-1 (for conduct on
+and after June 30, 2020), FINRA Rule 2111 (for conduct prior to June 30, 2020), and
+FINRA Rule 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a three-month suspension from associating with any FINRA member in all
+capacities;
+
+
+
+a $2,500 fine; and
+
+
+
+restitution of $26,422 plus interest as described below.
+
+Respondent agrees to pay the monetary sanctions upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which he proposes to pay the fine
+imposed.
+Restitution is ordered to be paid to the customers listed on Attachment A to this AWC
+(Eligible Customers) in the total amount of $26,422, plus interest at the rate set forth in
+Section 6621(a)(2) of the Internal Revenue Code, 26 U.S.C. § 6621(a)(2), from October
+13, 2020 until the date this AWC is accepted by the National Adjudicatory Council
+(NAC).
+Respondent shall submit satisfactory proof of payment of restitution and interest
+(separately specifying the date and amount of each paid to each Eligible Customer) or of
+reasonable and documented efforts undertaken to effect restitution. Such proof shall be
+submitted by email to EnforcementNotice@FINRA.org. The email must identify
+Respondent and the case number and include a copy of the check, money order, or other
+method of payment. This proof shall be provided by email to
+EnforcementNotice@FINRA.org no later than 120 days after the date of the notice of
+acceptance of the AWC.
+The restitution amount plus interest to be paid to each Eligible Customer shall be treated
+by the Respondent as the Eligible Customer’s property for purposes of state escheatment,
+unclaimed property, abandoned property, and similar laws. If after reasonable and
+documented efforts undertaken to effect restitution Respondent is unable to pay all
+Eligible Customers within 120 days after the date of the notice of acceptance of the
+3
+
+AWC, Respondent shall submit to FINRA in the manner described above a list of the
+unpaid Eligible Customers and a description of Respondent’s plan, not unacceptable to
+FINRA, to comply with the applicable escheatment, unclaimed property, abandoned
+property, or similar laws for each such Eligible Customer.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanctions imposed in this
+matter.
+The imposition of a restitution order or any other monetary sanctions in this AWC, and
+the timing of such ordered payments, does not preclude customers from pursuing their
+own actions to obtain restitution or other remedies.
+Respondent understands that if he is barred or suspended from associating with any
+FINRA member, he becomes subject to a statutory disqualification as that term is defined
+in Article III, Section 4 of FINRA’s By-Laws, incorporating Section 3(a)(39) of the
+Securities Exchange Act of 1934. Accordingly, he may not be associated with any
+FINRA member in any capacity, including clerical or ministerial functions, during the
+period of the bar or suspension. See FINRA Rules 8310 and 8311.
+Respondent understands that this settlement includes a finding that he willfully violated
+Rule 15l-1 of the Securities Exchange Act of 1934 and that under Article III, Section 4 of
+FINRA’s By-Laws, this makes him subject to a statutory disqualification with respect to
+association with a member.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against him;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the NAC and then to the U.S. Securities and
+Exchange Commission and a U.S. Court of Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+4
+
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+5
+
+D.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that he may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+Respondent certifies that he has read and understands all of the provisions of this AWC and has
+been given a full opportunity to ask questions about it; Respondent has agreed to the AWC’s
+provisions voluntarily; and no offer, threat, inducement, or promise of any kind, other than the
+terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has been
+made to induce him to submit this AWC.
+
+
+
+
+Date
+
+Jose M. Candelario Padilla
+Respondent
+
+Reviewed by:
+__________________________
+Max Schatzow
+Counsel for Respondent
+RIA Lawyers
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+
+
+Date
+
+
+
+Matthew M. Ryan
+Principal Counsel
+FINRA
+Department of Enforcement
+1601 Market St., Suite 2700
+Philadelphia, PA 19103-2339
+
+6
+
+ATTACHMENT A
+TO LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+MATTER NO. 2021071134401
+
+Customer No.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Restitution Amount
+$7,078
+$4,001
+$1,050
+$4,468
+$3,572
+$3,226
+$1,382
+$1,206
+$439
+
+2
+
+

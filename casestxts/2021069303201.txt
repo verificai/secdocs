@@ -1,0 +1,374 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021069303201
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Signet Securities, LLC (Respondent)
+Member Firm
+CRD No. 154198
+
+Pursuant to FINRA Rule 9216, Respondent Signet Securities, LLC submits this Letter of
+Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Signet Securities, LLC has been a FINRA member since January 2011. It is a whollyowned subsidiary of Signet Capital, an investment banking and structured finance
+services firm. Since 2020, the firm’s business has primarily been the sale of private
+placement securities offerings to customers including retail investors. The firm is
+headquartered in Columbus, Ohio and has 18 registered representatives. 1
+OVERVIEW
+From June 30, 2020, through the present, Signet Securities failed to maintain, and enforce
+written policies and procedures, and failed to maintain a supervisory system reasonably
+designed to achieve compliance with the firm’s obligation under Regulation Best Interest
+(Reg BI) to conduct reasonable due diligence of private placement offerings so as to
+ensure it had a reasonable basis to believe the recommendation could be in the best
+interest of at least some retail investors. As a result, the firm willfully violated Rule 15l1(a)(1) of the Securities Exchange Act of 1934 and violated FINRA Rules 3110 and
+2010.
+From January 2020 through the present, the firm failed to maintain and enforce a
+supervisory system reasonably designed to achieve compliance with FINRA rules
+
+1
+
+For more information about the firm, visit BrokerCheck® at www.finra.org/brokercheck.
+
+governing outside business activities (OBAs). As a result, Signet Securities violated
+FINRA Rules 3110, 3270.01, and 2010.
+From June 30, 2020, through April 14, 2022, the firm failed to deliver a customer
+relationship summary (Form CRS) to its customers. Between April 14, 2022, and the
+present, the firm delivered Form CRS to new customers but failed to deliver Form CRS
+to existing customers. By failing to deliver Form CRS to customers, Signet Securities
+willfully violated Section 17(a)(1) and Rule 17a-14 of the Exchange Act, and FINRA
+Rule 2010.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from a FINRA examination of Signet Securities.
+Private Placement Due Diligence
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation BI under the Securities Exchange Act of 1934. Rule 15l-1(a)(1) of Reg
+BI requires a broker, dealer, or a natural person associated with a broker or dealer, when
+making a recommendation of any securities transaction or investment strategy involving
+securities (including account recommendations) to a retail customer, to act in the best
+interest of that retail customer at the time the recommendation is made, without placing
+the financial or other interest of the broker, dealer, or associated person ahead of the
+interest of the retail customer. Reg BI’s Care Obligation, set forth at Exchange Act Rule
+15l-1(a)(2)(ii), requires broker-dealers and their associated persons to exercise reasonable
+diligence, care, and skill to, among other things, understand the potential risks, rewards,
+and costs associated with a recommendation. Reg BI’s Adopting Release provides that
+what constitutes “reasonable diligence” depends on, among other things, the complexity
+of, and risks associated with, the recommended security. 2 The Care Obligation requires
+broker-dealers and their associated persons to have a reasonable basis to believe that the
+recommendation could be in the best interest of at least some retail investors.
+Additionally, Reg BI’s Compliance Obligation, set forth at Exchange Act Rule 15l1(a)(2)(iv), requires broker-dealers to establish, maintain, and enforce written policies
+and procedures reasonably designed to achieve compliance with Reg BI, including the
+Care Obligation. The Adopting Release provides that broker-dealers should consider the
+nature of that firm’s operations and how to design such policies and procedures to
+prevent violations from occurring, detect violations that have occurred, and to correct
+promptly any violations that have occurred. 3
+As it relates specifically to private placement securities offerings made under Regulation
+D, FINRA issued Regulatory Notice 10-22 (April 20, 2010) to remind firms of their
+obligation to conduct a reasonable investigation of the issuer and the securities they
+Regulation Best Interest: The Broker-Dealer Standard of Conduct, Exchange Act Release No. 86031, 84 FR 33318
+at 33376 (July 12, 2019)
+3
+Adopting Release at 33397.
+2
+
+2
+
+recommend in connection with such offerings. Firms may not rely solely upon the issuer
+for information concerning the issuer and while firms are not expected to have the same
+knowledge as an issuer or its management, they are required to conduct a reasonable
+investigation that independently verifies an issuer’s material representations and claims.
+To satisfy its obligations, a firm should, at minimum, conduct a reasonable investigation
+of the issuer and its management; the business prospects of the issuer; the assets held by
+or to be acquired by the issuer; the claims being made; and the intended use of the
+proceeds of the offering. Furthermore, to demonstrate that it has performed a reasonable
+investigation, a firm should retain records documenting both the process and results of its
+investigation. FINRA issued Regulatory Notice 23-08 (May 9, 2023) to reiterate and
+expand upon these principals in light of firms’ obligations under Reg BI.
+FINRA Rule 3110 requires member firms to establish, maintain, and enforce a
+supervisory system, including written procedures, to supervise the activities of each
+associated person that is reasonably designed to achieve compliance with applicable
+securities laws, regulations, and FINRA rules.
+Violations of Reg BI or FINRA Rule 3110 also are violations of FINRA Rule 2010,
+which requires member firms, in the conduct of their business, to observe high standards
+of commercial honor and just and equitable principles of trade.
+From June 30, 2020, to the present, Signet Securities has recommended sales totaling
+$140 million to investors in 13 Regulation D private placement offerings. Some of these
+sales were to accredited retail investors. At all times, the firm maintained written
+procedures requiring the firm, when engaging in Regulation D offerings, to conduct a
+reasonable investigation of the issuer and its management.
+Despite these requirements, Signet Securities’ due diligence for some of the private
+placement offerings that the firm recommended and sold between June 30, 2020, and the
+present was not reasonable. All 13 offerings were sold by affiliates of a commercial real
+estate investment company (Company A). The firm’s diligence review for these offerings
+was limited to documents provided by Company A.
+Therefore, Signet Securities willfully violated Exchange Act Rule 15l-1(a)(1), and
+violated FINRA Rules 3110 and 2010.
+Outside Business Activity Supervision
+FINRA Rule 3270 prohibits registered persons from engaging in an OBA unless they
+provide prior written notice to the member firm, in such form as specified by the
+member. Supplementary Material .01 to FINRA Rule 3270 (Rule 3270.01) defines the
+obligations of a member upon receiving such notice and establishes express requirements
+for firms to analyze the proposed OBA and document the analysis:
+Upon receipt of a written notice under Rule 3270, a member shall
+consider whether the proposed activity will: (1) interfere with or
+otherwise compromise the registered person’s responsibilities to
+3
+
+the member and/or the member’s customers or (2) be viewed by
+customers or the public as part of the member’s business based
+upon, among other factors, the nature of the proposed activity and
+the manner in which it will be offered. Based on the member’s
+review of such factors, the member must evaluate the advisability
+of imposing specific conditions or limitations on a registered
+person’s outside business activity, including where circumstances
+warrant, prohibiting the activity.
+A violation of FINRA Rule 3270.01 is also a violation of FINRA Rule 2010.
+In January 2020, four registered representatives who were also employed by an affiliate
+of Company A became registered with Signet Securities. The firm and its principals were
+aware at all relevant times that these four registered representatives were engaged in
+outside business activities, including outside activities with Company A. They also knew
+that these activities could create a potential conflict of interest because the firm
+recommended and sold securities offered by Company A to its customers. However, until
+September 2021, Signet Securities did not require these representatives to provide written
+notice of the OBA. Therefore, between January 2020 and September 2021, the firm failed
+to reasonably supervise the outside business activities of its registered representatives.
+In August and September 2021, Signet Securities required all four registered
+representatives to provide written notice of the OBA, which was reviewed and signed by
+one of the firm’s supervisory principals. A fifth registered representative employed by the
+Company A affiliate became registered with the firm in February 2022 and also provided
+written notice which was reviewed and approved by one of the firm’s supervisory
+principals. For all five registered representatives, the firm did not adequately document
+that it reasonably considered the factors set forth in Rule 3270.01 during its review of
+these disclosures. Specifically, although the firm acknowledged that the outside activities
+might be viewed by customers or the public as part of the firm’s business and that they
+may involve giving advice or directing investments in securities, they did not consider
+whether conditions or limitations should be imposed on those outside activities in order
+to mitigate any potential conflict of interest or customer confusion.
+Therefore, Signet Securities violated FINRA Rules 3110, 3270.01 and 2010.
+Form CRS
+On June 5, 2019, the Securities and Exchange Commission (SEC) adopted Form CRS
+and rules creating new requirements—which include requirements to prepare and deliver
+the Form CRS—for SEC-registered broker-dealers offering services to a retail investor.
+The compliance date for Form CRS was June 30, 2020.
+Form CRS provides customers with information about the types of services the firm
+offers; the fees, costs, conflicts of interest, and required standard of conduct associated
+with those services; whether the firm and its investment professionals have reportable
+legal or disciplinary history; and how to get more information about the firm.
+4
+
+Form CRS also includes required “conversation starters” to help begin a discussion with
+a broker-dealer about the relationship, including their services, fees, costs, conflicts, and
+disciplinary information.
+Section 17(a)(1) of the Exchange Act requires registered broker-dealers to make and keep
+for prescribed periods such records, furnish such copies thereof, and make and
+disseminate such reports as the Commission deems “necessary or appropriate in the
+public interest, for the protection of investors or otherwise in furtherance of the purposes
+of” the Exchange Act. Exchange Act Rule 17a-14—titled “Form CRS, for preparation,
+filing and delivery of Form CRS”—requires broker-dealers offering services to a retail
+investor to prepare a Form CRS in accordance with the instructions in Form CRS, and to
+comply with requirements related to filing, amending, delivering, and posting the Form
+CRS to the firm’s public website.
+A violation of Exchange Act Section 17(a)(1) and Rule 17a-14 is also a violation of
+FINRA Rule 2010.
+As of June 30, 2020, Signet Securities implemented written supervisory procedures for
+delivering Form CRS to its customers. However, between June 30, 2020, and April 14,
+2022, the firm failed to deliver Form CRS to any of the 282 retail customers who
+purchased securities through the firm during that time period. After April 14, 2022, the
+firm began delivering Form CRS to customers but failed to deliver Form CRS to any of
+the firm’s existing customers.
+Therefore, Signet Securities willfully violated Exchange Act Section 17(a)(1) and Rule
+17a-14 and FINRA Rule 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a censure
+
+
+
+a $100,000 fine
+
+
+
+an undertaking that, within 60 days of the date of the notice of acceptance of this
+AWC, a member of Respondent’s senior management who is a registered
+principal of the firm, shall certify in writing that, as of the date of the certification,
+the firm has remediated the issues identified in this AWC and implemented a
+supervisory system, including written supervisory procedures, reasonably
+designed to achieve compliance with Exchange Act Rule 15l-1(a)(1), and FINRA
+Rules 3110, 3270.01, regarding the issues identified in this AWC. The
+certification shall include a narrative description and supporting exhibits
+sufficient to demonstrate Respondent’s remediation and implementation. FINRA
+staff may request further evidence of Respondent’s remediation and
+implementation, and Respondent agrees to provide such evidence, if requested.
+Respondent shall submit the certification to Catherine L. Hoge, Counsel, FINRA
+Department of Enforcement, 200 Liberty Street, New York, NY 10281,
+5
+
+Catherine.Hoge@finra.org, with a copy to EnforcementNotice@finra.org. Upon
+written request showing good cause, FINRA staff may extend this deadline.
+Respondent agrees to pay the monetary sanction upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which it proposes to pay the fine
+imposed.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanction imposed in this
+matter.
+Respondent understands that this settlement includes a finding that it willfully violated
+Section 17(a)(1) and Rules 17a-14 and 15l-1(a)(1) of the Securities Exchange Act of
+1934 and that under Article III, Section 4 of FINRA’s By-Laws, this makes Respondent
+subject to a statutory disqualification with respect to membership.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against it;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+6
+
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+4.
+
+D.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that it may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+7
+
+The undersigned, on behalf of Respondent, certifies that a person duly authorized to act on
+Respondent’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Respondent has agreed to the AWC’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+the terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has
+been made to induce Respondent to submit this AWC.
+September 23, 2024
+
+Date
+
+____________________________________
+Signet Securities, LLC
+Respondent
+Print Name:
+Title:
+
+David Fumi
+
+President
+
+Reviewed by:
+_______________________
+Joseph S. Simms
+Counsel for Respondent
+Reminger Co., L.P.A.
+200 Public Square
+Suite 1200
+Cleveland, OH 44114
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+October 3, 2024
+
+Date
+
+Catherine L. Hoge
+Counsel
+FINRA
+Department of Enforcement
+Brookfield Place
+200 Liberty Street
+New York, NY 10281
+
+8
+
+

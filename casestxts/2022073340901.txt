@@ -1,0 +1,310 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2022073340901
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Justin W. Pagel (Respondent)
+Former General Securities Representative
+CRD No. 2554168
+
+Pursuant to FINRA Rule 9216, Respondent Justin W. Pagel submits this Letter of Acceptance,
+Waiver, and Consent (AWC) for the purpose of proposing a settlement of the alleged rule
+violations described below. This AWC is submitted on the condition that, if accepted, FINRA
+will not bring any future actions against Respondent alleging violations based on the same
+factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Pagel entered the securities industry in 1994. After associations with four member firms,
+he was registered with FINRA through Feltl & Company as a General Securities
+Representative from August 2011 to May 2024. According to the Uniform Termination
+Notice of Securities Industry Registration (Form U5) filed by Feltl & Company, the firm
+discharged Pagel on May 2, 2024 for failing to follow firm policies. While Pagel is not
+currently associated with a member firm, he remains subject to FINRA’s jurisdiction
+under Article V, Section 4(a)(i) of FINRA’s By-Laws. 1
+OVERVIEW
+Between January 2014 and August 2023, while associated with Feltl & Company, Pagel
+recommended that four customers invest all or a significant portion of their assets at the
+firm in speculative, high-risk stocks, or engage in short-term trading, that was not in the
+customers’ best interest or was unsuitable. By this conduct, Pagel willfully violated Rule
+15l-1(a)(1) of the Securities Exchange Act of 1934 (Regulation BI) (for activity on or
+after June 30, 2020) and violated FINRA Rule 2111 (for activity prior to June 30, 2020)
+and FINRA Rule 2010.
+In addition, from July 2019 through December 2023, Pagel exercised discretion when
+effecting 360 trades in 47 customer accounts without obtaining written authorization
+
+1
+
+For more information about the respondent, visit BrokerCheck® at www.finra.org/brokercheck.
+
+from the customers and from his member firm to treat the accounts as discretionary, in
+violation of FINRA Rules 3260(b) and 2010. Further, from April 2013 to January 2022,
+Pagel mismarked 587 solicited trades as unsolicited in over 50 customer accounts,
+including the 47 customer accounts in which he exercised discretion without
+authorization, in violation of FINRA Rules 4511 and 2010.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from FINRA’s cycle exam of Feltl & Company.
+Pagel made recommendations that were not in his customers’ best interest or were
+unsuitable.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation BI under the Securities Exchange Act of 1934. Rule 15l-1(a)(1) of
+Regulation BI requires a broker, dealer, or a natural person associated with a broker or
+dealer, when making a recommendation of any securities transaction or investment
+strategy involving securities (including account recommendations) to a retail customer, to
+act in the best interest of that retail customer at the time the recommendation is made,
+without placing the financial or other interest of the broker, dealer, or associated person
+ahead of the interest of the retail customer. Regulation BI’s Care Obligation, set forth at
+Exchange Act Rule 15l-1(a)(2)(ii), requires broker-dealers and their associated persons to
+exercise reasonable diligence, care, and skill to, among other things, have a reasonable
+basis to believe that the recommendation is in the best interest of a particular retail
+customer based on that retail customer’s investment profile and the potential risks,
+rewards, and costs associated with the recommendation. Regulation BI defines a “retail
+customer investment profile” to include, but not be limited to, the customer’s age, other
+investments, financial situation and needs, tax status, investment objectives, investment
+experience, investment time horizon, liquidity needs, risk tolerance, and any other
+information the customer may disclose to the member or associated person in connection
+with such recommendation.
+Prior to June 30, 2020, FINRA Rule 2111 required members and associated persons to
+have a reasonable basis to believe that a recommended transaction or investment strategy
+involving a security or securities is suitable for the customer, based on the information
+obtained through the reasonable diligence of the member or associated person to ascertain
+the customer's investment profile. FINRA Rule 2111 is still in effect, but as of June 30,
+2020, it no longer applies to recommendations that are subject to Regulation BI. FINRA
+Rule 2111 defines a customer’s investment profile to include the same information as
+under the Care Obligation.
+A violation of Regulation BI and FINRA Rule 2111 are also a violation of FINRA Rule
+2010, which requires associated persons to “observe high standards of commercial honor
+and just and equitable principles of trade” in the conduct of their business.
+In 2014, Customers A and B opened accounts with Pagel at Feltl & Company. In 2016,
+Customer C opened an account with Pagel at Feltl & Company. Each of these customers
+
+2
+
+was a single parent with dependent children facing financial hardship. The funds each
+customer invested were obtained through inheritances or charitable gifts to their family.
+The customers had no prior investment experience and little to no other assets. When
+opening their accounts with Pagel, each customer instructed Pagel to invest the money
+conservatively and informed him that they planned to use the money for anticipated
+upcoming expenses, such as a home down payment or a child’s college tuition. Pagel
+nevertheless instructed each of them to select an investment objective of speculation and
+a high or maximum risk tolerance for their account in account opening documents so that
+he could invest their accounts in speculative securities.
+At Pagel’s recommendation, Customers A, B, and C invested all, or a significant portion
+of, their assets at the firm in low-priced stocks or other speculative securities. The trading
+activity in Customer A’s account occurred between January 2014 and December 2015.
+For Customer B’s account, the activity occurred between March 2014 and September
+2014. For Customer C’s account, the activity occurred between August 2016 and
+February 2019. The trading activity in these three accounts was inconsistent with the
+customers’ investment profiles and resulted in losses and customer complaints from all
+three customers. In connection with two of the complaints, Pagel and the firm made
+payments totaling $26,000.
+Additionally, in November 2022, another customer, Customer D, opened two accounts
+with Pagel at Feltl & Company, one of which was an individual retirement account. On
+his new account forms, Customer D, who was self-employed, identified an annual
+income of less than $50,000, which was the lowest option on the form, and a net worth of
+less than $100,000, which was also the lowest option on the form. For both accounts,
+Customer D selected an investment objective of balanced growth with moderate risk
+tolerance, defined on the forms as a willingness to accept modest returns for some
+fluctuation in value. Customer D had no prior investment experience and no other assets
+held outside of the firm. He informed Pagel that he wanted to make only safe
+investments. However, between November 2022 and August 2023, Pagel recommended
+that Customer D purchase positions in low-priced stocks and other speculative securities
+inconsistent with Customer D’s investment profile.
+By making recommendations to Customers A, B, and C that that were not suitable, Pagel
+violated FINRA Rules 2111 and 2010. In addition, by making recommendations to
+Customer D that were not in his best interest, Pagel willfully violated Exchange Act Rule
+15l-1(a)(1) as well as FINRA Rule 2010.
+Pagel exercised discretion without written authorization.
+FINRA Rule 3260(b) prohibits a registered representative from exercising discretionary
+power in a customer’s account without prior written authorization from the customer and
+written acceptance from the member firm. A violation of FINRA Rule 3260 is also a
+violation of FINRA Rule 2010.
+
+3
+
+Pagel did not have written authority from his customers or written acceptance from Feltl
+& Company to exercise discretion in any customer accounts. Nonetheless, from July
+2019 through December 2023, Pagel exercised discretion in connection with 360 trades
+in 47 customer accounts. As a result, Pagel violated FINRA Rules 3260(b) and 2010.
+Pagel mismarked solicited trades as unsolicited.
+FINRA Rule 4511 requires that members “make and preserve books and records as
+required under the FINRA rules, the Exchange Act and the applicable Exchange Act
+rules.” Exchange Act Rule 17a-3(a)(6) requires a record of “each brokerage order, and of
+any other instruction, given or received for the purchase or sale of a security … whether
+executed or unexecuted.” This record “shall show the terms and conditions of the order or
+instructions.” Inherent in the obligation to make and preserve books and books is the
+requirement that they be accurate. An associated person who mismarks a solicited order
+as unsolicited causes his member firm to create an inaccurate record in violation of
+FINRA Rule 4511. A violation of FINRA Rule 4511 is also a violation of FINRA Rule
+2010.
+Between April 2013 and January 2022, Pagel mismarked 587 solicited trades as
+unsolicited in over 50 customer accounts, including the 47 accounts in which he
+exercised discretion without authorization. As a result, he violated FINRA Rules 4511
+and 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a ten-month suspension from associating with any FINRA member in all
+capacities.
+
+Respondent has submitted a statement of financial condition and demonstrated an
+inability to pay. In light of Respondent’s financial status, no monetary sanctions have
+been imposed.
+Respondent understands that if he is barred or suspended from associating with any
+FINRA member, he becomes subject to a statutory disqualification as that term is defined
+in Article III, Section 4 of FINRA’s By-Laws, incorporating Section 3(a)(39) of the
+Securities Exchange Act of 1934. Accordingly, he may not be associated with any
+FINRA member in any capacity, including clerical or ministerial functions, during the
+period of the bar or suspension. See FINRA Rules 8310 and 8311.
+Respondent understands that this settlement includes a finding that he willfully violated
+Rule 15l-1(a)(1) of the Securities Exchange Act of 1934 and that under Article III,
+Section 4 of FINRA’s By-Laws, this makes him subject to a statutory disqualification
+with respect to association with a member.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+
+4
+
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against him;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+5
+
+C.
+
+D.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that he may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+6
+
+Respondent certifies that he has read and understands alt of the provisions of thisAWC and has
+been given a full opportunity to ask questions about it; Respondent has agreed to the AWC's
+provisions voluntarily; and no offer, threat, inducement, or promise of any kind, other than the
+terms set forth .in this A WC and the prospect of avoiding the issuance of a complaint, has been
+made to induce him to submit this AWC.
+
+Date
+
+R
+s~
+
+l~~~ olC
+
+Donald R. McNeil, Esq. ( zo<:P<--1
+Counsel for Respondent
+Heley; Duncan & Melander PLLP
+8500 Normandale Lake Blvd.
+Minneapolis, MN 55437
+
+o)
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+
+01/17/2025
+Date
+
+Jeffrey E. Baldwin
+Senior Counsel
+FINRA
+Departme nfof Enforcement ·
+160 l Market Street
+Suite 2700
+Philadelphia, PA 19103
+
+7
+
+

@@ -1,0 +1,27 @@
+{
+  "Demographics": {
+    "Age": "Multiple customers, including seniors (76, 68) and others (42)",
+    "Employment": "Various (including retirees and self-employed)",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+    "InvestmentPurpose": "Various (growth, aggressive growth, speculation)",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "Various (including IRA)"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "$235,494 in total realized losses",
+    "FeesCommissionsPaid": "$444,176 total trading costs, including $343,416 in commissions",
+    "ImpactOnPortfolio": "Severe"
+  },
+  "BreachType": {
+    "CareObligationViolation": "Yes",
+    "DisclosureObligationViolation": "Yes",
+    "ConflictofInterestViolation": "Yes",
+    "ComplianceObligationViolation": "Yes"
+  },
+  "Overall summary": "Tory A. Duggins excessively traded the accounts of eight customers (including three seniors) from December 2016 through April 2022. His trading resulted in extremely high cost-to-equity ratios (ranging from 58% to 289%) and turnover rates (ranging from 14.36 to 63.24), generating $444,176 in total trading costs (including $343,416 in commissions) while causing $235,494 in realized losses. For example, he recommended 305 transactions in a 68-year-old retiree's IRA over three years, resulting in a 59% cost-to-equity ratio and causing $92,995 in realized losses. Duggins exercised de facto control over the accounts as customers relied on and routinely followed his recommendations. Additionally, Duggins willfully failed to disclose a customer complaint seeking $17,500 in compensatory damages on his Form U4. He was suspended for 18 months with no monetary sanctions due to his financial situation."
+}

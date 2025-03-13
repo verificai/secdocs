@@ -1,0 +1,27 @@
+{
+  "Demographics": {
+    "Age": "Senior",
+    "Employment": "Business owner",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+    "InvestmentPurpose": "NOTSPECIFIED",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "NOTSPECIFIED"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "$41,017 in realized losses",
+    "FeesCommissionsPaid": "$96,496 total trading costs, including $92,847 in commissions",
+    "ImpactOnPortfolio": "Severe"
+  },
+  "BreachType": {
+    "CareObligationViolation": "Yes",
+    "DisclosureObligationViolation": "NOTSPECIFIED",
+    "ConflictofInterestViolation": "Yes",
+    "ComplianceObligationViolation": "Yes"
+  },
+  "Overall summary": "Jesse D. Krapf excessively traded a senior business owner's account between October 2019 and April 2022. He recommended 58 transactions resulting in an annualized turnover rate of 23 and an annualized cost-to-equity ratio of 104%, meaning the customer's account would need to appreciate by 104% annually just to break even. Krapf's trading generated $96,496 in total trading costs (including $92,847 in commissions) while causing $41,017 in realized losses. Krapf frequently engaged in in-and-out trading, including recommending nearly $180,000 in biotechnology stock that he then recommended selling just two days later (charging $7,800 in commissions), and recommending $82,000 in semiconductor stock that he recommended selling the same day at a loss (charging $2,000 in commissions). The customer relied on and routinely followed Krapf's recommendations, giving him de facto control of the account. Krapf was suspended for five months with no monetary sanctions due to his financial situation."
+}

@@ -1,0 +1,464 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021069460001
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Independent Financial Group, LLC (Respondent)
+Member Firm
+CRD No. 7717
+
+Pursuant to FINRA Rule 9216, Respondent Independent Financial Group, LLC (IFG) submits
+this Letter of Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement
+of the alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+IFG, along with its predecessor firms, has been a FINRA member firm and registered
+with the Municipal Securities Rulemaking Board (MSRB) since 1978. IFG is
+headquartered in San Diego, California. IFG has approximately 650 registered
+representatives and 380 branch offices.1
+OVERVIEW
+From September 2015 to the present, IFG failed to establish and maintain a supervisory
+system reasonably designed to supervise registered representatives’ recommendations to
+customers that they rollover 529 savings plan investments from one state plan to another.
+Specifically, IFG did not have policies or procedures regarding available sales charge
+waivers or special share classes that decreased the cost of 529 plan rollover transactions.
+Although IFG revised its written supervisory procedures in May 2022 to address 529 plan
+rollover transactions, the procedures failed to articulate the firm’s policy for providing
+customers with available sales charge waivers or special share classes. Further, although
+IFG initiated training in 2023 on the potential availability of 529 plan rollover sales
+charge waivers, the training similarly failed to articulate the firm’s policy for providing
+customers with those waivers. Some customers who were eligible for waivers did not
+
+1
+For more information about the firm, including prior regulatory events, visit BrokerCheck® at
+www.finra.org/brokercheck.
+
+1
+
+receive them. Therefore, Respondent violated MSRB Rule G-27. As of June 30, 2020,
+Respondent also violated Exchange Act Rule 15l-1(a)(1) (“Reg BI”), specifically, Reg
+BI’s Compliance Obligation.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from a FINRA review of whether eligible customers who rolled
+their 529 plans from one state plan to another were receiving available front-end sales
+charge waivers or Class AR shares.
+Background—529 Plans
+529 plans are tax-advantaged municipal securities that are designed to encourage saving
+for the future educational expenses of a designated beneficiary.2 529 plans are sponsored
+by states, state agencies, or educational institutions. All fifty states and the District of
+Columbia sponsor at least one type of 529 plan. States offer 529 plans either directly,
+through designated broker-dealers, or both.
+Shares of 529 plans are sold in different classes with different fee structures.3 Class A
+shares typically impose a front-end sales charge but charge lower annual fees compared
+to other classes. Class C shares typically impose no front-end sales charge but impose
+higher annual fees than Class A shares.
+Some 529 plan product sponsors waive sales charges for investors who roll their current
+529 plan from one state’s 529 plan into another state’s 529 plan, either by waiving the
+sales charges on Class A shares or by offering a special share class, Class AR, which is
+meant specifically for 529 plan state-to-state rollovers and has no upfront sales charge.
+Class AR shares are subject to a contingent deferred sales charge within the first year
+and, initially, have annual fees similar to a Class C share but convert to Class A shares
+after a predefined length of time, usually one year.
+The different sales charges, waivers, and fees associated with 529 plans affect customers’
+investment returns. If a customer qualifies for a Class A sales charge waiver or a Class
+AR share as a result of a rollover, he or she would not pay the front-end sales charge
+traditionally associated with new Class A share purchases. In contrast, a purchase of a
+Class C share of the same fund will be subject to higher ongoing fees. Therefore, if a
+rollover customer qualifies for a Class A sales charge waiver or a Class AR share, there
+likely would be no justification for that customer to purchase a class of shares that has a
+sales load and/or higher annual expenses.
+
+2
+
+529 plans are named after Section 529 of the Internal Revenue Code (26 U.S.C. § 529), which grants tax-exempt
+status to qualified education expenses.
+
+3
+
+A 529 plan is structured as a trust. A customer purchases “units” in the trust. For purposes of this AWC, the terms
+“unit” and “share” are used interchangeably.
+
+2
+
+The Applicable Rules Relating to 529 Plan Share-Class Recommendations
+Because 529 plans are municipal securities, the sales of 529 plans are governed by the
+rules of the MSRB.
+Prior to June 30, 2020, MSRB Rule G-19 required a broker, dealer or municipal
+securities dealer to have a reasonable basis to believe that a recommended transaction
+was suitable for the customer based on the customer’s investment profile, which included
+a customer’s investment objectives. As of June 30, 2020, Rule G-19 applies only to
+recommendations to which Reg BI does not apply.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Reg BI. Exchange Act Rule 15l-1(a)(1) requires a broker, dealer, or a natural person
+associated with a broker or dealer, when making a recommendation of any securities
+transaction or investment strategy involving securities (including account
+recommendations) to a retail customer, to act in the best interest of that retail customer at
+the time the recommendation is made, without placing the financial or other interest of
+the broker, dealer, or associated person ahead of the interest of the retail customer. Reg
+BI’s Care Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(ii), requires brokerdealers and their associated persons to exercise reasonable diligence, care, and skill to,
+among other things, understand the potential risks, rewards, and costs associated with a
+recommendation.
+MSRB Rule G-27(a) requires brokers, dealers, and municipal securities dealers to
+supervise the conduct of their municipal securities activities to ensure compliance with
+MSRB rules and applicable provisions of the Securities Exchange Act of 1934 and
+Exchange Act rules. MSRB Rule G-27(b) requires brokers, dealers, and municipal
+securities dealers to establish and maintain a system to supervise the municipal securities
+activities of each registered representative, registered principal, and other associated
+person that is reasonably designed to achieve compliance with applicable securities laws
+and regulations, and with applicable MSRB rules. MSRB Rule G-27(c) requires brokers,
+dealers, and municipal securities dealers to adopt, maintain, and enforce written
+supervisory procedures reasonably designed to ensure compliance with MSRB Rule G27(a).
+Additionally, Reg BI’s Compliance Obligation, set forth at Exchange Act Rule
+15l-1(a)(2)(iv), requires broker-dealers to establish, maintain, and enforce written policies
+and procedures reasonably designed to achieve compliance with Reg BI, including the
+Care Obligation. The Adopting Release provides that broker-dealers should consider the
+nature of that firm’s operations and how to design such policies and procedures to
+prevent violations from occurring, detect violations that have occurred, and to correct
+promptly any violations that have occurred.4
+
+4
+
+Adopting Release at 33397.
+
+3
+
+Respondent’s 529 Plan Rollover Supervision Was Not Reasonable
+From September 2015 through the present, Respondent’s system for supervising
+representatives’ 529 plan rollover recommendations was not reasonably designed. Since
+at least September 2015, Respondent made available to customers numerous 529 plans,
+each of which, at some time during that time period, implemented a Class A sales charge
+waiver for state-to-state rollovers.
+From September 2015 through May 2022, Respondent’s policies and procedures,
+including its written supervisory procedures, did not alert registered representatives who
+recommended 529 plan state-to-state rollovers of the potential availability of Class A
+sales charge waivers or Class AR shares for 529 plan rollovers. The firm also did not
+offer training to registered representatives regarding sales charge waivers or the
+availability of Class AR shares. Further, Respondent failed to provide supervisors with
+guidance or training on how to review recommended 529 plan rollover transactions to
+identify instances where there might have been an available Class A sales charge waivers
+or Class AR shares.
+In May 2022, Respondent revised its written supervisory procedures to address the
+potential availability of Class A sales charge waivers and Class AR shares for 529 plan
+rollovers. Although these revised procedures direct representatives to confirm with the
+applicable plan sponsor if a client is entitled to a sales charge waiver or Class AR share
+when completing a 529 plan state-to-state rollover, they fail to articulate the firm’s policy
+regarding whether to provide customers with a sales charge waiver or Class AR share.
+Further, the revised written supervisory procedures do not establish any system for
+monitoring and reviewing the application of available sales charge waivers or Class AR
+shares for eligible customers. Starting in 2023, the firm first provided training that
+apprised representatives of the potential availability of sales charge waivers for 529 plan
+rollovers. However, the training materials did not address the firm’s policy or information
+regarding whether to provide customers with a sales charge waiver or Class AR share.
+As a result, from September 2015 through the present, Respondent failed to consistently
+apply available sales charge waivers, impacting at least 18 customers in which total
+rollover dollars totaled at least $837,000. This resulted in at least $17,000 in sales charges
+and fees that, had the waiver been granted, would not have been charged.
+Therefore, from September 2015 to the present, Respondent violated MSRB Rule G-27.
+From June 30, 2020 to the present, Respondent violated Exchange Act Rule 15l-1.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a censure;
+
+
+
+a $75,000 fine ($50,000 of which pertains to the violation of MSRB Rule G-27);
+
+
+
+the firm will pay restitution plus interest to current and former customers who,
+from September 1, 2015, to the date of the acceptance of this AWC, qualified for,
+4
+
+but did not receive, the applicable sales charge waivers or Class AR shares in
+connection with recommended state-to-state 529 rollovers (“Eligible Customers”)
+in an amount to be determined by a Third-Party Consultant as described below;
+and
+
+
+an undertaking to do the following:
+a. Continue to retain, at its own expense, the Third-Party Consultant5 to
+conclude performance of the following tasks:
+i. Conduct a comprehensive review of the adequacy of Respondent’s
+compliance with MSRB Rule G-27 and Reg BI’s Compliance Obligation,
+including but not limited to a review of Respondent’s written supervisory
+procedures, controls and training related to the application of sales charge
+waivers or Class AR shares in connection with 529 plan rollover
+recommendations;
+ii. Identify which customers are Eligible Customers as defined above; and
+iii. Calculate the amount of restitution owed to each Eligible Customer.
+b. Cooperate with the Third-Party Consultant in all respects, including providing
+the Third-Party Consultant with access to Respondent’s files, books, records,
+and personnel, as reasonably requested for the above-mentioned review.
+Respondent shall require the Third-Party Consultant to report to FINRA on its
+activities as FINRA may request and shall place no restrictions on the ThirdParty Consultant’s communications with FINRA. Further, upon request,
+Respondent shall make available to FINRA any and all communications
+between the Third-Party Consultant and Respondent and documents examined
+by the Third-Party Consultant in connection with this review.
+c. Refrain from terminating the relationship with the Third-Party Consultant
+without FINRA’s written approval. Respondent shall not be in and shall not
+have an attorney-client relationship with the Third-Party Consultant and shall
+not seek to invoke the attorney-client privilege or other doctrine or privilege to
+prevent the Third-Party Consultant from transmitting any information, reports,
+or documents to FINRA.
+d. Require the Third-Party Consultant to submit an initial written report to
+Respondent and FINRA at the conclusion of the Third-Party Consultant’s
+review, which shall be no more than 120 days after the date of the notice of
+acceptance of this AWC. The initial report shall, at a minimum: (i) evaluate
+
+5
+
+Respondent has already engaged a third-party outside consultant (the Third-Party Consultant) to review the
+adequacy of Respondent’s compliance with MSRB Rule G-27 and Reg BI’s Compliance Obligation (including but
+not limited to Respondent’s written supervisory procedures, controls and training related to sales charge waivers or
+Class AR shares in connection with 529 plan rollover recommendations), identify Eligible Customers, and calculate
+the amount of restitution owed to Eligible Customers.
+
+5
+
+and address the adequacy of Respondent’s written supervisory procedures,
+controls, and training concerning sales charge waivers or Class AR shares on
+529 plan rollovers; (ii) provide a description of the review performed and the
+conclusions reached; (iii) make recommendations as may be needed regarding
+how Respondent should modify or supplement its processes, controls,
+policies, systems, procedures, and training to manage its regulatory and other
+risks in relation to compliance with MSRB Rule G-27 and Reg BI’s
+Compliance Obligation; (iv) identify the Eligible Customers (as defined
+above); and (v) calculate the amount of restitution owed to each Eligible
+Customer using a methodology not unacceptable to FINRA.
+i. Within 60 days after delivery of the initial report, Respondent shall adopt
+and implement the recommendations of the Third-Party Consultant or, if
+Respondent considers a recommendation to be, in whole or in part, unduly
+burdensome or impractical, propose alternative recommendations to the
+Third-Party Consultant designed to achieve the same objective.
+Respondent shall submit such proposed alternative recommendations in
+writing simultaneously to the Third-Party Consultant and FINRA.
+ii. Respondent shall require that, within 30 days of Respondent’s submission
+of any proposed alternative procedure, the Third-Party Consultant: (A)
+reasonably evaluate the alternative procedure and determine whether it
+will achieve the same objective as the Third-Party Consultant’s original
+recommendation; and (B) provide Respondent and FINRA with a written
+report reflecting the Third-Party Consultant’s evaluation and
+determination. In the event the Third-Party Consultant and Respondent are
+unable to agree, Respondent must abide by the Third-Party Consultant’s
+ultimate determination with respect to any proposed alternative procedure
+and must adopt and implement all recommendations deemed appropriate
+by the Third-Party Consultant.
+Implementation of Third-Party Consultant’s Supervisory
+Recommendations
+iii. Within 60 days after the issuance of the later of the Third-Party
+Consultant’s initial report or the Third-Party Consultant’s ultimate
+determination with respect to any proposed alternative recommendation,
+Respondent shall provide the Third-Party Consultant and FINRA with a
+written implementation report, certified by an officer of Respondent,
+attesting to, containing documentation of, and setting forth the details of
+Respondent’s implementation of the Third-Party Consultant’s
+recommendations. The certification shall identify the undertakings,
+provide written evidence of compliance in the form of a narrative, and be
+supported by exhibits sufficient to demonstrate compliance. FINRA may
+make reasonable requests for further evidence of compliance, and
+Respondent agrees to provide such evidence.
+6
+
+Payment of Restitution to Eligible Customers
+iv. Within 60 days after the issuance of the later of the Third-Party
+Consultant’s initial report or the Third-Party Consultant’s ultimate
+determination with respect to any proposed alternative recommendation,
+the Firm shall remit to each Eligible Customer restitution consistent with
+the Third-Party Consultant’s initial report or ultimate determination with
+respect to any proposed alternative recommendation, plus interest at the
+rate set forth in Section 6621(a)(2) of the Internal Revenue Code, 26
+U.S.C. § 6621(a)(2), with interest amounts to be calculated based on the
+date that the excess charges and fees for each respective customer were
+incurred until the date of the acceptance of the AWC.
+v. A registered principal on behalf of Respondent shall submit satisfactory
+proof of payment of restitution and interest (separately specifying the date
+and amount of each paid to each Eligible Customer) or of reasonable and
+documented efforts undertaken to effect restitution. Such proof shall be
+submitted to Elissa Meth Kestin either (1) by letter that identifies
+Respondent and the case number and includes copies of the checks, money
+orders or other methods of payment or (2) by e-mail, with .pdf copies of
+the payment documentation, from a work-related account of a registered
+principal of Respondent to EnforcementNotice@FINRA.org. This proof
+shall be provided to the FINRA staff member listed above no later than 60
+days from the date on which the firm issued the restitution payments to
+Eligible Customers.
+vi. The restitution amount plus interest to be paid to each Eligible Customer
+shall be treated by the Respondent as the Eligible Customer’s property for
+purposes of state escheatment, unclaimed property, abandoned property,
+and similar laws. If after reasonable and documented efforts undertaken to
+effect restitution Respondent is unable to pay all Eligible Customers
+within 120 days after the issuance of the later of the Third-Party
+Consultant’s initial report or the Third-Party Consultant’s ultimate
+determination with respect to any proposed alternative recommendation,
+Respondent shall submit to FINRA in the manner described above a list of
+the unpaid Eligible Customers and a description of Respondent’s plan, not
+unacceptable to FINRA, to comply with the applicable escheatment,
+unclaimed property, abandoned property, or similar laws for each such
+Eligible Customer.
+e. Upon written request showing good cause, FINRA may extend any of the
+procedural dates set forth above.
+Respondent agrees to pay the monetary sanctions upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+7
+
+Election of Payment form showing the method by which it proposes to pay the fine
+imposed.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanctions imposed in this
+matter.
+The imposition of a restitution order or any other monetary sanction in this AWC, and the
+timing of such ordered payments, does not preclude customers from pursuing their own
+actions to obtain restitution or other remedies.
+Restitution payments to customers shall be preceded or accompanied by a letter, not
+unacceptable to FINRA, describing the reason for the payment and the fact that the
+payment is being made pursuant to a settlement with FINRA and as a term of this AWC.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against it;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+8
+
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+
+D.
+
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that it may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+9
+
+The undersigned, on behalf of Respondent Independent Financial Group, LLC, certifies that a
+person duly authorized to act on its behalf has read and understands all of the provisions of this
+AWC and has been given a full opportunity to ask questions about it; that IFG has agreed to the
+AWC’s provisions voluntarily; and that no offer, threat, inducement, or promise of any kind,
+other than the terms set forth in this AWC and the prospect of avoiding the issuance of a
+complaint, has been made to induce Independent Financial Group, LLC to submit this AWC.
+
+
+Date
+
+____________________________________
+Independent Financial Group, LLC
+Respondent
+ 
+
+Print Name:
+Title:
+
+10
+
+   
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+
+
+Date
+
+Anne Cowman, Esq.
+Honors Associate
+FINRA
+Department of Enforcement
+1700 K Street, NW
+Washington, DC 20006
+
+11
+
+

@@ -1,0 +1,299 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2022076103701
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Axos Invest LLC (Respondent)
+Member Firm
+CRD No. 172393
+
+Pursuant to FINRA Rule 9216, Respondent Axos Invest LLC submits this Letter of Acceptance,
+Waiver, and Consent (AWC) for the purpose of proposing a settlement of the alleged rule
+violations described below. This AWC is submitted on the condition that, if accepted, FINRA
+will not bring any future actions against Respondent alleging violations based on the same
+factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Axos Invest LLC became a FINRA member firm in 2015. The firm, which is
+headquartered in Las Vegas, Nevada, has two branch offices and 15 registered
+representatives. Axos Invest LLC’s primary business consists of self-directed accounts
+for retail investors. 1
+OVERVIEW
+From June 30, 2020, to February 6, 2023, Axos Invest LLC falsely responded “No” to the
+question on the firm’s customer relationship summary (Form CRS) concerning legal or
+disciplinary history. The firm was required to respond “Yes,” because a control affiliate
+of the firm, and two of the firm’s registered representatives, had prior legal or
+disciplinary history. By filing and delivering to customers two versions of its Form CRS
+(an initial version and an amended version) containing inaccurate information, Axos
+Invest LLC willfully violated Section 17(a)(1) of the Securities Exchange Act of 1934,
+Exchange Act Rule 17a-14, and FINRA Rule 2010.
+
+1
+
+For more information about the firm, visit BrokerCheck® at www.finra.org/brokercheck.
+
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from a FINRA cause examination.
+On June 5, 2019, the Securities and Exchange Commission (SEC) adopted Form CRS
+and rules creating new requirements—which include requirements to prepare, file, and
+deliver the Form CRS—for SEC-registered broker-dealers offering services to a retail
+investor. The compliance date for Form CRS was June 30, 2020.
+Form CRS provides customers with information about the types of services the firm
+offers; the fees, costs, conflicts of interest, and required standard of conduct associated
+with those services; whether the firm and its investment professionals have reportable
+legal or disciplinary history; and how to get more information about the firm.
+Form CRS also includes required “conversation starters” to help begin a discussion with
+a broker-dealer about the relationship, including their services, fees, costs, conflicts, and
+disciplinary information.
+Section 17(a)(1) of the Securities Exchange Act of 1934 requires registered brokerdealers to make and keep for prescribed periods such records, furnish such copies thereof,
+and make and disseminate such reports as the Commission deems “necessary or
+appropriate in the public interest, for the protection of investors or otherwise in
+furtherance of the purposes of” the Exchange Act. Exchange Act Rule 17a-14—titled
+“Form CRS, for preparation, filing and delivery of Form CRS”—requires broker-dealers
+offering services to a retail investor to prepare a Form CRS in accordance with the
+instructions in Form CRS, and to comply with requirements related to filing, amending,
+delivering, and posting the Form CRS to the firm’s public website.
+A violation of Exchange Act § 17(a)(1) and Exchange Act Rule 17a-14 also is a violation
+of FINRA Rule 2010, which requires member firms to observe high standards of
+commercial honor and just and equitable principles of trade in the conduct of their
+business.
+Form CRS contains the heading, “Do you or your financial professionals have legal or
+disciplinary history?” The instructions to Form CRS state that a firm must respond “Yes”
+if it or any of its financial professionals discloses, or is required to disclose, legal or
+disciplinary history on specified regulatory disclosure forms, such as Forms BD, U4, U5,
+and U6. 2 Legal or disciplinary history that is required to be disclosed on those forms
+2
+These forms are submitted to the Central Registration Depository by member firms or regulators. Broker-dealers
+file Form BD (Uniform Application for Broker-Dealer Regulation) to become registered with the U.S. Securities and
+Exchange Commission, FINRA, other self-regulatory organizations, and jurisdictions (e.g., U.S. states and
+territories); Form U4 (Uniform Application for Securities Industry Registration or Transfer) is used to elicit
+employment history, disciplinary, and other information about individuals, to register them with FINRA, other selfregulatory organizations, or jurisdictions; Form U5 (Uniform Termination Notice for Securities Industry
+Registration) is used to terminate individuals’ registrations with FINRA, other self-regulatory organizations, or
+jurisdictions, and to elicit details regarding the reasons for termination; and Form U6 is used by regulators to report
+disclosure events and disciplinary actions against individuals and organizations, and to report final FINRA
+arbitration awards against broker-dealers and associated persons.
+
+2
+
+includes criminal history, regulatory actions, civil judicial actions, and specified financial
+events (e.g., bankruptcies, judgments, and liens). Because a firm must disclose on Form
+BD not only its own legal or disciplinary history, but also that of its “control affiliates,” 3
+a firm must respond “Yes” to the Form CRS question concerning legal or disciplinary
+history if any of its control affiliates has legal or disciplinary history. 4
+Axos Invest LLC falsely responded “No” to the question concerning legal or disciplinary
+history on the initial Form CRS it filed on June 29, 2020, and on the amended Form CRS
+it filed on April 22, 2022. The firm was required to respond “Yes” on both Forms CRS.
+At the time the firm filed its initial Form CRS, a control affiliate and one of the firm’s
+registered representatives had prior legal or disciplinary history. At the time the firm filed
+its amended Form CRS, the affiliate and two of the firm’s registered representatives had
+prior legal or disciplinary history.
+Before filing these Forms CRS, regulatory disclosures reflecting the affiliate’s and
+registered representatives’ legal or disciplinary history had already been made by, or
+were available to, the firm in FINRA’s Central Registration Depository (CRD) and in
+BrokerCheck®. Specifically, the firm had already disclosed on its Form BD that the
+affiliate had been the subject of disciplinary actions. This affiliate had been the subject of
+13 disciplinary actions, which occurred between 2004 and 2019 (when the affiliate was
+under different ownership), and which included findings for failing to file suspicious
+activity reports relating to the deposit and sale of low-priced securities, failing to develop
+and implement a written anti-money laundering program reasonably designed to achieve
+compliance with the Bank Secrecy Act, failing to provide customers with margin interest
+rate disclosures, and failing to comply with Regulation SHO’s close-out requirements for
+short sales. In addition, a Form U4 filing for one of the firm’s registered representatives
+disclosed a bankruptcy filing, and Form U4 and U5 filings for the other registered
+representative disclosed a customer complaint. Despite having disclosed the affiliate’s
+legal or disciplinary history on its Form BD—and despite its knowledge of its registered
+representatives’ legal or disciplinary history—Axos Invest LLC incorrectly responded
+“No” to the Form CRS question concerning legal or disciplinary history. 5
+Therefore, Axos Invest LLC willfully violated Exchange Act § 17(a)(1), Exchange Act
+Rule 17a-14, and FINRA Rule 2010.
+
+According to Form BD, a “control affiliate” includes any individual or organization that directly or indirectly
+controls, is under common control with, or is controlled by, a firm.
+3
+
+See U.S. Securities and Exchange Commission, Frequently Asked Questions on Form CRS, available at
+https://www.sec.gov/investment/form-crs-faq.
+
+4
+
+Following FINRA’s investigation, Axos Invest LLC updated its Form CRS, effective February 6, 2023, to respond
+“Yes” to the question concerning legal or disciplinary history.
+
+5
+
+3
+
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a censure and
+
+
+
+a $75,000 fine.
+
+Respondent agrees to pay the monetary sanction upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which it proposes to pay the fine
+imposed.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanction imposed in this
+matter.
+Respondent understands that this settlement includes a finding that it willfully violated
+Section 17(a)(1) of the Securities Exchange Act of 1934 and Rule 17a-14 thereunder, and
+that under Article III, Section 4 of FINRA’s By-Laws, this makes Respondent subject to
+a statutory disqualification with respect to membership.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against it;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+4
+
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+
+D.
+
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that it may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+5
+
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+The undersigned, on behalf of Respondent, certifies that a person duly authorized to act on
+Respondent’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Respondent has agreed to the AWC’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+the terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has
+been made to induce Respondent to submit this AWC.
+May 9, 2023
+
+Date
+
+____________________________________
+Axos Invest LLC
+Respondent
+Print Name:
+Title:
+
+Derrick Walsh
+
+CFO
+
+Reviewed by:
+
+_______________________
+Daniel M. Hawke
+Counsel for Respondent
+Arnold & Porter
+601 Massachusetts Ave, NW
+Washington, DC 20001
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+
+May 19, 2023
+
+Date
+
+Rebecca Segrest
+Senior Counsel
+FINRA
+Department of Enforcement
+303 Perimeter Center North, Suite 550
+Atlanta, GA 30346
+
+6
+
+

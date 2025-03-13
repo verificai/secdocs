@@ -1,0 +1,257 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021069335701
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Robert Spaulding Gleason Jr. (Respondent)
+Former General Securities Representative
+CRD No. 1415067
+
+Pursuant to FINRA Rule 9216, Respondent Robert Spaulding Gleason Jr. submits this Letter of
+Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Gleason first became registered with FINRA as a General Securities Representative
+(GSR) through an association with a FINRA member firm in 1985. In November 2016,
+Gleason became registered as a GSR through an association with former FINRA member
+Cantella & Co., Inc. On December 23, 2021, Cantella filed a Uniform Termination
+Notice for Securities Industry Registration (Form U5) disclosing that it had terminated
+Gleason’s association due to “[c]oncerns regarding the origin of notations added to firmrequested Active Account and Concentration client letters.” In February 2022, Gleason
+became registered as a GSR through an association with a different FINRA member firm.
+On May 6, 2022, that FINRA member filed a Form U5 disclosing that it had terminated
+Gleason’s association because his “[t]rading practices exceed firm’s risk appetite.”
+Although Gleason is not currently registered or associated with a FINRA member,
+FINRA has jurisdiction over him pursuant to Article V, Section 4(a)(i) of FINRA’s ByLaws. 1
+OVERVIEW
+Between July 2020 and June 2021, while associated with Cantella, Gleason willfully
+violated the Best Interest Obligation under Rule 15l-1(a)(1) of the Securities Exchange
+
+1
+
+For more information about the respondent, visit BrokerCheck® at www finra.org/brokercheck.
+
+Act of 1934 and violated FINRA Rule 2010 by recommending a series of transactions in
+the account of a retail customer that was excessive in light of the customer’s investment
+profile and, therefore, was not in the customer’s best interest.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from FINRA’s cycle exam of Cantella.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation BI under the Securities Exchange Act of 1934. Rule 15l-1(a)(1) of Reg
+BI requires a broker, dealer, or a natural person associated with a broker or dealer, when
+making a recommendation of any securities transaction or investment strategy involving
+securities (including account recommendations) to a retail customer, to act in the best
+interest of that retail customer at the time the recommendation is made, without placing
+the financial or other interest of the broker, dealer, or associated person ahead of the
+interest of the retail customer. Reg BI’s Care Obligation, set forth at Exchange Act Rule
+15l-1(a)(2)(ii), requires broker-dealers and their associated persons to exercise reasonable
+diligence, care, and skill to, among other things, have a reasonable basis to believe that a
+series of recommended transactions, even if in the retail customer’s best interest when
+viewed in isolation, is not excessive and is in the retail customer’s best interest in light of
+the retail customer’s investment profile.
+No single test defines when trading is excessive, but factors such as the turnover rate, the
+cost-to-equity ratio, and the use of in-and-out trading in a customer’s account are relevant
+to determining whether a member firm or associated person has excessively traded a
+customer’s account in violation of Reg BI. The turnover rate represents the number of
+times that a portfolio of securities is exchanged for another portfolio of securities. The
+cost-to-equity ratio measures the amount an account must appreciate just to cover
+commissions and other expenses. In other words, it is the break-even point where a
+customer may begin to see a return. A turnover rate of six or more, or a cost-to-equity
+ratio above 20 percent, generally indicates that a series of recommended transactions was
+excessive.
+A violation of Reg BI also is a violation of FINRA Rule 2010, which requires associated
+persons to “observe high standards of commercial honor and just and equitable principles
+of trade” in the conduct of their business.
+Gleason recommended to a retail customer (Customer A) a series of transactions that
+were excessive in light of the customer’s investment profile. In so doing, Gleason placed
+his interests ahead of the interests of the customer. At the time of the trading, the
+customer was in her early sixties, and had an investment profile reflecting an income of
+$50,000 and a liquid net worth of $700,000. Gleason’s recommendations for the
+customer involved a pattern of in-and-out, short-term trading, and Gleason failed to
+consider the cumulative costs of his trading.
+Between July 2020 and June 2021, Gleason effected 91 trades in Customer A’s account.
+Collectively, these trades resulted in a cost-to-equity ratio exceeding 28%—meaning that
+2
+
+Customer A’s account would have had to grow by more than 28% during the 11-month
+period just to break even—and a turnover rate of 12.93. Although Customer A’s average
+account balance during this period was approximately $101,000, Gleason effected the
+purchase of approximately $1.3 million in securities. Customer A paid more than $28,000
+in commissions and trade costs. 2
+Therefore, Gleason willfully violated Exchange Act Rule 15l-1(a)(1) and violated FINRA
+Rule 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a three-month suspension from associating with any FINRA member in all
+capacities and
+
+
+
+a $5,000 fine.
+
+The fine shall be due and payable either immediately upon reassociation with a member
+firm or prior to any application or request for relief from any statutory disqualification
+resulting from this or any other event or proceeding, whichever is earlier.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanction imposed in this
+matter.
+Respondent understands that if he is barred or suspended from associating with any
+FINRA member, he becomes subject to a statutory disqualification as that term is defined
+in Article III, Section 4 of FINRA’s By-Laws, incorporating Section 3(a)(39) of the
+Securities Exchange Act of 1934. Accordingly, he may not be associated with any
+FINRA member in any capacity, including clerical or ministerial functions, during the
+period of the bar or suspension. See FINRA Rules 8310 and 8311.
+Respondent understands that this settlement includes a finding that he willfully violated
+Rule 15l-1 of the Securities Exchange Act of 1934 and that under Article III, Section 4 of
+FINRA’s By-Laws, this makes him subject to a statutory disqualification with respect to
+association with a member.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+2
+
+To have a complaint issued specifying the allegations against him;
+
+Gleason settled with Customer A through voluntary mediation.
+
+3
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+4
+
+D.
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that he may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+5
+
+Respondent certifies that he has read and understands all of the provisions of this AWC and has
+been given a full opportunity to ask questions about it; Respondent has agreed to the AWC’s
+provisions voluntarily; and no offer, threat, inducement, or promise of any kind, other than the
+terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has been
+made to induce him/ to submit this AWC.
+April 2, 2024
+
+Date
+
+Robert Spaulding Gleason Jr.
+Respondent
+
+Reviewed by:
+__________________________
+James. P. Catalano
+The Catalano Firm, PLC
+PO Box 681267
+Franklin, TN 37068-1267
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+April 5, 2024
+
+Date
+
+Chandana Kolavala
+Principal Counsel
+FINRA
+Department of Enforcement
+300 S. Grand Avenue, Suite 1600
+Los Angeles, CA 90071
+
+6
+
+

@@ -1,0 +1,539 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021070851501
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Network 1 Financial Securities, Inc. (Respondent)
+Member Firm
+CRD No. 13577
+Michael Molinaro (Respondent)
+General Securities Principal
+CRD No. 2358346
+
+Pursuant to FINRA Rule 9216, Respondents Network 1 Financial Securities, Inc. and Michael
+Molinaro submit this Letter of Acceptance, Waiver, and Consent (AWC) for the purpose of
+proposing a settlement of the alleged rule violations described below. This AWC is submitted on
+the condition that, if accepted, FINRA will not bring any future actions against Respondents
+alleging violations based on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondents accept and consent to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Network 1 has been a FINRA member firm since 1983. The firm, which is headquartered
+in Red Bank, New Jersey, has 14 branch offices and approximately 100 registered
+representatives.
+Molinaro first registered with FINRA in 1993. In February 2014, Molinaro registered as a
+General Securities Representative and General Securities Principal, among other
+registrations, through an association with Network 1. Beginning in July 2017, Molinaro
+was Network 1’s chief compliance officer.
+In 2015, Molinaro entered into an AWC in which he consented to findings, including that
+he failed to enforce a reasonably designed supervisory system with respect to private
+placements while associated with another broker-dealer. The AWC suspended Molinaro
+from association with any FINRA member firm in any principal capacity for 45 days.
+In 2009, the State of Idaho entered an Order and Agreement finding that Molinaro, while
+associated with another broker-dealer, had failed to disclose on a Uniform Application
+
+for Securities Industry Registration or Transfer (Form U4) registering another employee
+in Idaho, an Iowa order establishing heightened supervision for that employee. The Order
+and Agreement cautioned Molinaro to refrain from violating the Idaho Uniform
+Securities Act of 2004 and also mandated that in the future he comply with the provisions
+of the Act. 1
+OVERVIEW
+From January 2016 through March 2022, Network 1 did not establish, maintain, and
+enforce a supervisory system, including written supervisory procedures (WSPs),
+reasonably designed to achieve compliance with the suitability requirements of FINRA
+Rule 2111 and the Care Obligation of Rule 15l-1 of the Securities Exchange Act of 1934
+(Regulation BI or Reg BI) 2 as they pertain to excessive trading in violation of FINRA
+Rules 3110 and 2010. As of June 30, 2020, Network 1 also violated Reg BI’s Compliance
+Obligation by not establishing, maintaining, and enforcing WSPs reasonably designed to
+achieve compliance with Reg BI.
+Additionally, from July 2017 through March 2022, Molinaro violated FINRA Rules 3110
+and 2010 by not establishing, maintaining, and enforcing a supervisory system, including
+WSPs, reasonably designed to achieve compliance with FINRA Rule 2111 and, as of
+June 30, 2020, Reg BI, as they pertain to excessive trading.
+FACTS AND VIOLATIVE CONDUCT
+A. The Applicable Rules.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Reg BI. Reg BI requires a broker, dealer, or a natural person associated with a
+broker or dealer, when making a recommendation of any securities transaction or
+investment strategy involving securities (including account recommendations) to a retail
+customer, to act in the best interest of that retail customer at the time the recommendation
+is made, without placing the financial or other interest of the broker, dealer, or associated
+person ahead of the interest of the retail customer. Reg BI’s Care Obligation, set forth at
+Exchange Act Rule 15l-1(a)(2)(ii), requires broker-dealers and their associated persons to
+exercise reasonable diligence, care, and skill to, among other things, have a reasonable
+basis to believe that a series of recommended transactions, even if in the retail customer’s
+best interest when viewed in isolation, is not excessive and is in the retail customer’s best
+interest in light of the retail customer’s investment profile.
+Prior to June 30, 2020, FINRA Rule 2111 required members and associated persons to
+have a reasonable basis to believe that a recommended transaction or investment strategy
+For more information about the Respondents, including prior regulatory events, visit BrokerCheck® at
+www.finra.org/brokercheck.
+
+1
+
+The compliance date for Reg BI was June 30, 2020. Also, effective June 30, 2020, FINRA amended Rule 2111 to
+state that Rule 2111 will not apply to recommendations subject to Reg BI.
+
+2
+
+2
+
+involving a security or securities is suitable for the customer. Under Rule 2111
+Supplementary Material .05(c), members and associated persons with actual or de facto
+control over an account were required to have a reasonable basis for believing that a
+series of recommended transactions, even if suitable when viewed in isolation, are not
+excessive and unsuitable for the customer in light of the customer’s investment profile.
+No single test defines when trading is excessive, but factors such as the turnover rate, the
+cost-to-equity ratio, and the use of in-and-out trading in a customer’s account are relevant
+to determining whether a member firm or associated person has excessively traded a
+customer’s account in violation of Reg BI or FINRA Rule 2111. The turnover rate
+represents the number of times that a portfolio of securities is exchanged for another
+portfolio of securities. The cost-to-equity ratio measures the amount an account must
+appreciate just to cover commissions and other expenses. In other words, it is the breakeven point where a customer may begin to see a return. A turnover rate of six or a costto-equity ratio above 20 percent generally indicates that a series of recommended
+transactions was excessive and not in the retail customer’s best interest.
+Additionally, Reg BI’s Compliance Obligation, set forth at Exchange Act Rule 15l1(a)(2)(iv), requires broker-dealers to establish, maintain, and enforce written policies
+and procedures reasonably designed to achieve compliance with Reg BI, including the
+Care Obligation. Reg BI’s Adopting Release provides that broker-dealers should consider
+the nature of that firm’s operations and how to design such policies and procedures to
+prevent violations from occurring, detect violations that have occurred, and to correct
+promptly any violations that have occurred. 3
+FINRA Rule 3110(a) requires a member firm to establish and maintain a system to
+supervise the activities of each associated person that is reasonably designed to achieve
+compliance with applicable securities laws and regulations, and with applicable FINRA
+rules. FINRA Rule 3110(b) requires a member firm to establish, maintain, and enforce
+written procedures to supervise the types of business in which it engages and the
+activities of its associated persons that are reasonably designed to achieve compliance
+with applicable securities laws and regulations, and with applicable FINRA Rules. The
+duty to supervise under Rule 3110 also includes the responsibility for firms and their
+designated supervisors to reasonably investigate red flags of potential misconduct and to
+act upon the results of their investigation.
+A violation of Exchange Act Rule 15l-1 and FINRA Rule 3110 also constitutes a
+violation of FINRA Rule 2010, which requires that member firms and associated persons
+“observe high standards of commercial honor and just and equitable principles of trade”
+in the conduct of their business.
+
+3
+
+Adopting Release at 33397.
+
+3
+
+B. Network 1 and Molinaro did not establish, maintain, and enforce WSPs
+reasonably designed to achieve compliance with FINRA Rule 2111 and the Care
+Obligation of Reg BI as they pertain to excessive trading.
+From January 2016 through March 2022, Network 1’s WSPs were not reasonably
+designed to achieve compliance with FINRA Rule 2111 and the Care Obligation of Reg
+BI as they pertain to trading. Beginning in July 2017, the firm’s WSPs designated
+Molinaro as the principal responsible for developing supervisory procedures for Network
+1 with respect to all “products, services, or line functions that need to be the subject of
+written compliance policies and written supervisory procedures.”
+Prior to June 30, 2020, the firm’s WSPs were not reasonably designed to achieve
+compliance with the suitability requirements of FINRA Rule 2111 with respect to
+excessive trading. First, the WSPs did not set forth how the firm’s supervisors should
+apply certain listed factors to identify potentially excessively traded accounts.
+Significantly, the WSPs did not identify what cost-to-equity ratio or turnover rate was
+suggestive of excessive trading. Moreover, the WSPs did not provide supervisors with
+reasonable guidance about what steps they should take after identifying an excessively
+traded account. For example, the WSPs did not specify when, or in what circumstances,
+the supervisor should contact customers with actively traded accounts. The WSPs also
+did not specify whether, or in what circumstances, supervisors should consider restricting
+the commissions that could be charged in a customer’s account.
+Network 1’s WSPs also were not reasonably designed to achieve compliance with Reg
+BI. Beginning in 2019, prior to Reg BI’s effective date of June 30, 2020, Network 1
+developed revised procedures and issued written guidance to the firm’s representatives
+about complying with Reg BI as it was expected to relate to excessive trading. In
+particular, the firm issued guidance about the level of commissions that could be charged
+in customers’ accounts, and the firm began to restrict the commissions that could be
+charged in certain accounts. Network 1 and Molinaro also provided trainings in 2019 and
+2020 about Reg BI’s requirement that registered representatives not place their own
+interest ahead of those of their customers. But Network 1 and Molinaro did not revise the
+firm’s WSPs to reference Reg BI until March 1, 2021, eight months after Reg BI’s
+effective date. Moreover, even after Molinaro revised the firm’s WSPs in March 2021,
+Network 1’s WSPs continued to provide only general background information about Reg
+BI’s component obligations. The revised WSPs provided no guidance about what steps
+the firm’s principals or representatives should take to prevent, detect, or promptly correct
+violations of Reg BI or to otherwise achieve compliance with Reg BI.
+As a result, from January 2016 through March 2022, Network 1 violated FINRA Rules
+3110(b) and 2010, and from June 30, 2020 through March 2022, the firm also violated
+Reg BI’s Compliance Obligation. Additionally, from July 2017 through March 2022,
+Molinaro violated FINRA Rules 3110(b) and 2010.
+
+4
+
+C. Network 1 and Molinaro did not establish and maintain a reasonably designed
+supervisory system and did not identify and respond to red flags of excessive
+trading.
+Network 1’s system for identifying excessively traded accounts was not reasonably
+designed. Network 1 received exception reports from its clearing firm that were relevant
+to identifying excessive trading—including a monthly report that flagged accounts with
+high cost-to-equity ratios. However, from January 2016 through June 2018, the firm did
+not review those reports. Instead, the firm limited its reviews to an internal report
+identifying the 100 accounts with the largest year-to-date aggregate commissions. That
+report, however, excluded smaller accounts that, even if they were not among the 100
+accounts with the largest aggregate commissions, had high commission amounts relative
+to their equity value. For example:
+•
+
+Network 1 received an active account report dated July 31, 2016, that showed
+Customer A had been charged more than $18,000 in commissions in the prior 12
+months, resulting in a cost-to-equity ratio of more than 45 percent. Because the
+firm did not review that report, it did not identify excessive trading in Customer
+A’s account and took no steps to address it. Customer A was charged more than
+$20,000 in additional commissions between August 2016 and March 2018, by
+which time the recommended trades in Customer A’s account resulted in an
+annualized cost-to-equity ratio of more than 52 percent.
+
+Moreover, even when Network 1 identified an excessively traded account, the firm did
+not take steps to further investigate the excessive trading and to act upon the results of the
+investigation. Molinaro, who beginning in July 2017 was the designated principal
+responsible for determining what actions the firm took upon identifying red flags of
+excessive trading, did not require Network 1 to take any steps, such as restricting the
+commissions that representatives could charge in accounts, until April 2019. As a result,
+in some instances, representatives continued charging high commissions even after the
+firm was on notice that the account was being excessively traded. Moreover, even after
+Network 1 began restricting the commissions that representatives could charge on
+individual trades in certain accounts, the restrictions the firm imposed often were not
+effective because they did not limit the number or frequency of trades or aggregate costs
+and commissions that could be charged to the affected accounts. As a result, after a
+restriction was in effect limiting the commissions that could be charged for each
+individual trade, representatives were not prevented from placing frequent trades in a
+customer’s account, thus earning commissions on a higher number of trades. For
+example:
+•
+
+Network 1 received an active account report on February 28, 2021, showing that
+Customer B had been charged more than $26,000 in commissions over the prior
+month, resulting in an annualized cost-to-equity ratio of 20 percent. In response,
+the firm restricted the commissions that could be charged on individual trades in
+that account, lifted the commission restriction after only two months, then
+reimposed it one month later. By November 30, 2021, Customer B had been
+5
+
+charged an additional $116,865 in commissions, despite the commission
+restrictions, resulting in an annualized cost-to-equity ratio of 26 percent.
+•
+
+Network 1 received an active account report on October 31, 2020, showing that
+Customer C had been charged $16,805 in commissions over the prior 12 months,
+resulting in an annualized cost-to-equity ratio of more than 27 percent and an
+annualized turnover rate of 10. The following month, on November 30, 2021,
+Network 1 received another active account report showing an additional $9,485 in
+commissions charged to Customer C, resulting in an increased annualized cost-toequity ratio of 34 percent and an annualized turnover rate of 11. Network 1 twice
+restricted the commissions that could be charged on individual trades in Customer
+C’s account—first limiting individual trade commissions to one and a half
+percent, then limiting them further to one percent. Nevertheless, over the next 12
+months, Customer C was charged more than $125,000 in commissions. The active
+account report Network 1 received on November 31, 2021, showed that the
+annualized cost-to-equity ratio in Customer C’s account remained at an excessive
+rate of 23 percent, and the annualized turnover rate increased to 12.
+
+•
+
+Network 1 received an active account report on July 31, 2021, showing that
+Customer D had been charged $20,750 in commissions since opening his account
+on February 11, 2021, resulting in an annualized cost-to-equity ratio of more than
+21 percent and an annualized turnover rate of 6. Network 1 restricted the
+individual trade commissions charged in Customer D’s account to one and a half
+percent but, over the next three months, Customer D was charged an additional
+$8,400 in commissions. Notwithstanding the commission restrictions imposed,
+the account’s annualized cost-to-equity ratio increased over that same time to 23
+percent and the annualized turnover rate increased to 9.
+
+As a result of these supervisory failures, Network 1 did not identify or address red flags
+of excessive trading in eight customer accounts. In each account, Network 1’s
+representatives recommended that the customers place frequent trades, and the customers
+routinely relied on those recommendations. The level of trading in each account, which
+resulted in a cost-to-equity ratio in excess of 20 percent, and in some cases cost-to-equity
+ratios in excess of 50 percent, was inconsistent with the customers’ investment profiles
+and was not in the customers’ best interest. Collectively, the recommended trading
+caused these eight customers to pay more than $533,500 in commissions and trading
+costs.
+Therefore, from January 2016 through March 2022, Network 1 violated FINRA Rules
+3110(a) and 2010. In addition, from July 2017 through March 2022, Molinaro violated
+FINRA Rules 3110(a) and 2010.
+B.
+
+Respondents also consent to the imposition of the following sanctions:
+For Network 1:
+
+
+a censure;
+6
+
+
+
+a $200,000 fine;
+
+
+
+restitution of $533,587 plus interest as described below; and
+
+
+
+an undertaking that within 90 days of the date of the notice of acceptance of this
+AWC, a member of Network 1’s senior management who is a registered principal
+of the firm shall certify in writing that, as of the date of the certification, the firm
+has remediated the issues identified in this AWC and implemented a supervisory
+system, including WSPs, reasonably designed to achieve compliance with Reg BI
+and FINRA Rules 3110 and 2010 regarding the issues identified in this AWC.
+The certification shall include a narrative description and supporting exhibits
+sufficient to demonstrate the firm’s remediation and implementation. FINRA staff
+may request further evidence of the firm’s remediation and implementation, and
+Respondents agree to provide such evidence. Network 1 shall submit the
+certification to Jena Levin, Counsel, FINRA Department of Enforcement, 55
+West Monroe, Suite 2600, Chicago, Illinois 60603 (jena.levin@finra.org), with a
+copy to EnforcementNotice@finra.org. Upon written request showing good cause,
+FINRA staff may extend this deadline.
+
+For Molinaro:
+
+
+a three-month suspension from association with any FINRA member in all
+principal capacities; and
+
+
+
+a $5,000 fine.
+
+Respondents agree to pay the monetary sanctions upon notice that this AWC has been
+accepted and that such payment is due and payable. Each Respondent has submitted an
+Election of Payment form showing the method by which it or he proposes to pay the fine
+imposed.
+Restitution is ordered to be paid to the customers listed on Attachment A to this AWC
+(Eligible Customers) in the total amount of $533,587, plus interest at the rate set forth in
+Section 6621(a)(2) of the Internal Revenue Code, 26 U.S.C. § 6621(a)(2), from March
+31, 2022, until the date this AWC is accepted by the National Adjudicatory Council
+(NAC).
+A registered principal on behalf of Network 1 shall submit satisfactory proof of payment
+of restitution and interest (separately specifying the date and amount of each paid to each
+Eligible Customer) or of reasonable and documented efforts undertaken to effect
+restitution. Such proof shall be submitted by email to EnforcementNotice@FINRA.org
+from a work-related account of the registered principal of Respondent. The email must
+identify Respondent and the case number and include a copy of the check, money order,
+or other method of payment. This proof shall be provided by email to
+EnforcementNotice@FINRA.org no later than 120 days after the date of the notice of
+acceptance of the AWC.
+
+7
+
+The restitution amount plus interest to be paid to each Eligible Customer shall be treated
+by Network 1 as the Eligible Customer’s property for purposes of state escheatment,
+unclaimed property, abandoned property, and similar laws. If after reasonable and
+documented efforts undertaken to effect restitution Network 1 is unable to pay all
+Eligible Customers within 120 days after the date of the notice of acceptance of the
+AWC, Network 1 shall submit to FINRA in the manner described above a list of the
+unpaid Eligible Customers and a description of Network 1’s plan, not unacceptable to
+FINRA, to comply with the applicable escheatment, unclaimed property, abandoned
+property, or similar laws for each such Eligible Customer.
+Respondents specifically and voluntarily waive any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanctions imposed in this
+matter.
+The imposition of a restitution order or any other monetary sanctions in this AWC, and
+the timing of such ordered payments, does not preclude customers from pursuing their
+own actions to obtain restitution or other remedies.
+Restitution payments to customers shall be preceded or accompanied by a letter, not
+unacceptable to FINRA, describing the reason for the payment and the fact that the
+payment is being made pursuant to a settlement with FINRA and as a term of this AWC.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondents specifically and voluntarily waive the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against them;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the NAC and then to the U.S. Securities and
+Exchange Commission and a U.S. Court of Appeals.
+
+Further, Respondents specifically and voluntarily waive any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+8
+
+Respondents further specifically and voluntarily waive any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondents understand that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondents; and
+
+C.
+
+If accepted:
+
+D.
+
+1.
+
+this AWC will become part of Respondents’ permanent disciplinary
+records and may be considered in any future action brought by FINRA or
+any other regulator against Respondents;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondents may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondents may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondents’ right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondents’ testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondents may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondents understand that they may not deny the charges or make any
+9
+
+statement that is inconsistent with the AWC in this statement. This statement does
+not constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+The undersigned, on behalf of Network 1, certifies that a person duly authorized to act on
+Respondent's behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Network 1 has agreed to the AWC's
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+the terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has
+been made to induce Network 1 to submit this AWC,
+Dater 1
+
+Ne ork 1 Financial S curities
+Re pondent
+
+Print Name: (A//J..v/ Y'I?�\,
+Title:
+
+;J;}/e<;.1 D.t-ef
+V
+
+f<.
+
+f/op,r
+
+/t!,�2)
+
+.:JA__
+
+I
+
+Molinaro certifies that he has read and understands all of the provisions of this AWC and has
+been given a full opportunity to ask questions about it; Molinaro has agreed to the AWC's
+provisions voluntarily; and no offer, threat, inducement, or promise of any kind, other than the
+tenns set forth in this AWC and the prospect of avoiding the issuance of a complaint, has been
+made to induce him to submit this AWC.
+
+Date
+
+�<Si
+TimohyFei,8sq,
+
+Counsel for Respondents
+Carmel, Milazzo & Feil LLP
+425 Broadhollow Road, Suite 300
+Melville, NY 11747
+
+Michael Molinaro
+Respondent
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+
+Date
+
+Jena Levin
+Counsel
+FINRA
+Department of Enforcement
+55 W. Monroe Street, Suite 2600
+Chicago, IL 60603
+
+11
+
+ATTACHMENT A
+CUSTOMER
+Customer A
+Customer B
+Customer C
+Customer D
+Customer E
+Customer F
+Customer G
+Customer H
+Total
+
+RESTITUTION
+$23,283
+$103,768
+$131,331
+$30,688
+$28,471
+$65,816
+$112,065
+$38,165
+$533,587
+
+Acceptance, Waiver, and Consent
+Network 1 Financial Securities, Inc., Matter NO. 2021070851501
+Corrective Action Statement
+
+This Corrective Action Statement is submitted by Network 1 Financial Securities, Inc., the
+Respondent in this AWC. This Corrective Action Statement does not constitute factual or legal
+findings by FINRA, nor does it reflect the views of FINRA, or its staff:
+Corrective Action Taken by Network 1:
+In the firm’s efforts to align its policies and procedures for trading in accounts that it deems to
+be “actively traded” with SEC Regulation Best Interest (pp. 297-302), Network 1 amends
+Section 9 of its Written Supervisory Procedures (WSPs), which Section deals with SEC
+Regulation Best Interest, incorporating procedures that were developed by the firm in 2019
+governing actively traded accounts, which procedures include additional heightened review of
+those accounts.
+
+

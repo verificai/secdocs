@@ -1,0 +1,662 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2019064935602
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Kayan Securities, Inc. (Respondent)
+Member Firm
+CRD No. 156175
+Yong Soo Kim (Respondent)
+General Securities Principal
+CRD No. 1747849
+
+Pursuant to FINRA Rule 9216, Respondents Kayan Securities and Yong Soo Kim (Kim) submit
+this Letter of Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement
+of the alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondents alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondents accept and consent to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Kayan has been a FINRA member firm since November 2011. Headquartered in Los
+Angeles, California, the firm has two branch offices and 14 registered representatives.
+The firm engages in a general securities business.
+Kim first became associated with a FINRA member firm in 1987. Since November 2011,
+Kim has been registered with FINRA as a General Securities Representative and General
+Securities Principal through an association with Kayan. Kim is the Chief Executive
+Officer and Chief Compliance Officer of Kayan. In December 1998, Kim entered into an
+AWC with NASD and agreed to pay a $2,500 fine jointly and severally with a prior firm
+regarding violations of NASD Rules 1120(b) and 2110 for training and continuing
+education lapses by the firm. In April 2013, Kim entered into an AWC with FINRA and
+agreed to pay a $5,000 fine regarding violations of NASD Rule 2420 and FINRA Rule
+2010 for sharing commissions with an unregistered person. In January 2020, a customer
+won a FINRA arbitration award against Kim, who was found jointly and severally liable
+for the customer’s losses, and ordered to pay $12,757 after the customer made allegations
+
+of breach of contract, errors/charges, negligence, breach of fiduciary duty, churning, lack
+of suitability, unauthorized trading, and indemnification. 1
+OVERVIEW
+From January 2018 through at least April 2021, Kayan and Kim failed to establish,
+maintain, and enforce a supervisory system, including written supervisory procedures
+(WSPs), reasonably designed to achieve compliance with the suitability requirements of
+FINRA Rule 2111 and the Care Obligation of Rule 15l-1 of the Securities Exchange Act
+of 1934 (Regulation BI or Reg BI) 2 as they pertain to excessive trading, in violation of
+FINRA Rules 3110 and 2010. As of June 30, 2020, Kayan also violated Reg BI’s
+Compliance Obligation by not establishing, maintaining, and enforcing WSPs reasonably
+designed to achieve compliance with Reg BI.
+From January 2018 through April 2021, Kayan and Kim also failed to reasonably
+supervise a former firm registered representative (Representative 1), by failing to respond
+to red flags that Representative 1 had engaged in unauthorized and excessive trading in
+three customers’ accounts, in violation of FINRA Rules 3110 and 2010. 3
+From September 2019 through the present, Kayan also failed to disclose to FINRA two
+written customer complaints regarding Representative 1 and the firm’s conclusion that
+Representative 1 had violated FINRA rules, in violation of FINRA Rules 4530 and 2010.
+From September 2019 through the present, the firm also failed to update Representative
+1’s Forms U4 and U5 regarding three written customer complaints, in violation of Article
+V, Sections 2(c) and 3(b) of FINRA’s By-Laws and FINRA Rules 1122 and 2010.
+FACTS AND VIOLATIVE CONDUCT
+A. Kayan and Kim failed to establish, maintain, and enforce a supervisory system
+and WSPs reasonably designed to achieve compliance with SEC and FINRA
+rules regarding excessive trading.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Reg BI. Rule 15l-1(a)(1) of Reg BI requires a broker, dealer, or a natural person
+associated with a broker or dealer, when making a recommendation of any securities
+transaction or investment strategy involving securities (including account
+recommendations) to a retail customer, to act in the best interest of that retail customer at
+the time the recommendation is made, without placing the financial or other interest of
+the broker, dealer, or associated person ahead of the interest of the retail customer.
+For more information about Respondents Kayan and Kim, including prior regulatory events involving Kim, visit
+BrokerCheck® at www finra.org/brokercheck.
+
+1
+
+The compliance date for Reg BI was June 30, 2020. Also, effective June 30, 2020, FINRA amended Rule 2111 to
+state that Rule 2111 will not apply to recommendations subject to Reg BI.
+
+2
+
+3
+In April 2021, Representative 1 entered into an AWC with FINRA in which he was barred for unauthorized trading
+and providing false information to FINRA, in violation of FINRA Rules 2010 and 8210.
+
+2
+
+Reg BI’s Care Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(ii), requires
+broker-dealers and their associated persons to exercise reasonable diligence, care, and
+skill to, among other things, have a reasonable basis to believe that a series of
+recommended transactions, even if in the retail customer’s best interest when viewed in
+isolation, is not excessive and is in the retail customer’s best interest in light of the retail
+customer’s investment profile.
+Prior to June 30, 2020, FINRA Rule 2111 required members and associated persons to
+have a reasonable basis to believe that a recommendation of a transaction or investment
+strategy involving a security or securities to any customer is suitable for the customer.
+Under Rule 2111.05(c), members and associated persons with actual or de facto control
+over an account were required to have a reasonable basis for believing that a series of
+recommended transactions, even if suitable when viewed in isolation, are not excessive
+and unsuitable for the customer in light of the customer's investment profile. FINRA
+Rule 2111 is still in effect, but as of June 30, 2020, it no longer applies to
+recommendations that are subject to Reg BI, and the element of control was removed
+from the quantitative suitability component.
+No single test defines when trading is excessive, but factors such as the turnover rate, the
+cost-to-equity ratio, and the use of in-and-out trading in a customer’s account are relevant
+to determining whether a member firm or associated person has excessively traded a
+customer’s account in violation of Reg BI or FINRA Rule 2111. The turnover rate
+represents the number of times that a portfolio of securities is exchanged for another
+portfolio of securities. The cost-to-equity ratio measures the amount an account must
+appreciate just to cover commissions and other expenses. In other words, it is the breakeven point where a customer may begin to see a return. A turnover rate of six or more, or
+a cost-to-equity ratio above 20 percent, generally indicates that a series of recommended
+transactions was excessive.
+Additionally, Reg BI’s Compliance Obligation, set forth at Exchange Act
+Rule 15l-1(a)(2)(iv), requires broker-dealers to establish, maintain, and enforce written
+policies and procedures reasonably designed to achieve compliance with Reg BI,
+including the Care Obligation. Reg BI’s Adopting Release provides that broker-dealers
+should consider the nature of that firm’s operations and how to design such policies and
+procedures to prevent violations from occurring, detect violations that have occurred, and
+to correct promptly any violations that have occurred. 4
+FINRA Rule 3110 requires member firms to establish, maintain, and enforce a
+supervisory system, including written procedures, to supervise the activities of each
+associated person that is reasonably designed to achieve compliance with applicable
+securities laws, regulations, and FINRA rules.
+
+Regulation Best Interest: The Broker-Dealer Standard of Conduct, Exchange Act Release No. 86031, 84 FR 33318
+at 33397 (July 12, 2019).
+4
+
+3
+
+Violations of Reg BI or FINRA Rule 3110 also are violations of FINRA Rule 2010,
+which requires associated persons to “observe high standards of commercial honor and
+just and equitable principles of trade” in the conduct of their business.
+From January 2018 through at least April 2021, Kayan’s supervisory system and WSPs
+were not reasonably designed to achieve compliance with FINRA Rule 2111 or the Care
+Obligation of Reg BI as they pertain to excessive trading. The firm’s WSPs during this
+period identified Kim as the designated principal responsible for supervising for
+potentially unsuitable and excessive trading.
+During this period, Kayan’s supervisory system for detecting and investigating potential
+excessive trading consisted of Kim reviewing representatives’ daily order logs and
+monthly active trading reports he received from Kayan’s clearing firm. The monthly
+active trading reports included information about account turnover rates and commissionto-equity ratios.
+Until September 2018, Kayan’s WSPs required Kim to monitor for undefined
+“questionable” or “exceptional” activity to identify excessive trading, among other types
+of trading misconduct, without describing any process for doing so, for example by
+referencing the turnover rate or cost/commission-to-equity ratio. The firm’s WSPs during
+this period also required Kim to send letters to customers if he detected undefined
+“exceptions.” These letters were to identify the trading activities which triggered the
+issuance of the letter and to confirm the customer’s awareness of those activities;
+however, the firm’s letters failed to do either of those things. In September 2018 and July
+2019, respectively, the firm added commission-to-equity ratio and turnover rate
+benchmarks to its WSPs regarding excessive trading monitoring. The WSPs further
+required that Kim was required to send a letter to a customer and have them sign an
+“Active Trading Account Review” form whenever trading in their account exceeded the
+turnover rate or commission-to-equity ratio benchmarks. However, the letter and related
+form did not identify any transactions or confirm the customers’ awareness about any
+specific trading activity.
+In July 2020, the firm updated its WSPs to add sections regarding Reg BI and the Care
+Obligation, but did not add to or revise its WSPs regarding excessive trading supervision.
+Therefore, from January 2018 through at least April 2021, Kayan and Kim violated
+FINRA Rules 3110 and 2010, and from June 30, 2020 through at least April 2021, Kayan
+also violated Exchange Act Rule 15l-1(a)(1).
+B. Kayan and Kim failed to reasonably supervise Representative 1.
+The duty to supervise under Rule 3110 requires member firms and their principals to
+reasonably investigate red flags that suggest misconduct may be occurring and to act
+upon the results of such investigation.
+
+4
+
+Unauthorized trading occurs when a registered representative effects trades in a
+customer’s non-discretionary account without first obtaining the customer’s authorization
+or consent. Unauthorized trading is a violation of FINRA Rule 2010.
+Between January 2018 through April 2021, Kim was Representative 1’s direct supervisor
+and was responsible for reviewing and supervising his trading activity. As described
+below, Kayan and Kim identified, or should have identified, red flags indicating that
+Representative 1 was engaged in unauthorized and excessive trading in the accounts of
+Customer 1, Customer 2 (who was a senior), and Customer 3, but failed to reasonably
+respond to these red flags.
+Specifically, Kayan and Kim were aware of, or should have been aware of, the following
+red flags of Representative 1’s potentially unauthorized and excessive trading:
+•
+•
+•
+
+•
+•
+•
+•
+
+Kayan’s clearing firm designated Customer 1’s account as a “pattern day trader”
+account, suggesting a high volume of daily trading.
+Kayan’s clearing firm’s active trading reports in 2018, 2019 and 2020 indicated
+that the three customers’ accounts had turnover rates above the recognized
+excessive trading benchmark of six.
+Representative 1 consistently executed in-and-out trading in the three customers’
+accounts in 2018, 2019 and 2020, which is a pattern of buying and selling the
+same security multiple times in a short period of time. Further, he engaged in such
+trading in primarily the same single stock in the accounts of Customer 1 and
+Customer 3 in 2018 and 2019, and in a different single stock in Customer 2’s
+account in 2020.
+Representative 1 designated nearly all of the transactions at issue in the three
+customers’ accounts as “unsolicited,” indicating that the three customers had
+asked Representative 1 to execute all the specific transactions in their accounts.
+Customer 1 lost $393,969 as a result of Representative 1’s trading activity.
+Customer 1 complained about Representative 1’s unauthorized trading to the firm
+in June 2019.
+Customer 2 complained about Representative 1’s unauthorized trading to the firm
+in September 2020.
+
+Kayan and Kim failed to reasonably respond to these red flags. Kim never contacted
+Customer 1 or Customer 3. After Customer 1 complained about Representative 1’s
+trading to the firm in June 2019, Kayan and Kim did not reasonably investigate the
+trading activity.
+When Representative 1 engaged in similar trading in Customer 3’s account in 2019, Kim
+only had Representative 1 obtain a revised account application from Customer 3,
+changing the investment objective and risk tolerance to conform to the trading. Then,
+when Representative 1 engaged in similar trading in Customer 2’s account in 2020, Kim
+waited until the account appeared on three monthly active account reports with a turnover
+rate above six before sending a letter to Customer 2 regarding his account activity, to
+which Customer 2 immediately responded and complained about unauthorized trading.
+5
+
+In September 2020, after Representative 1 admitted to Kim that he had engaged in
+unauthorized trading in Customer 1’s and Customer 2’s accounts, the firm fined
+Representative 1 for unauthorized trading in Customer 2’s account. The firm, however,
+conducted no further investigation and allowed Representative 1 to continue to trade in
+other customers’ accounts until he was barred by FINRA in April 2021. After
+Representative 1 was barred, Customer 3 notified the firm that Representative 1 had
+engaged in unauthorized trading in his account as well.
+Based on the foregoing, from January 2018 through April 2021, Kayan and Kim failed to
+reasonably supervise the trading activities of Representative 1 by failing to reasonably
+respond to red flags indicative of unauthorized and excessive trading.
+Therefore, Kayan and Kim violated FINRA Rules 3110 and 2010.
+C. Kayan failed to disclose to FINRA two customer complaints or its conclusion
+that Representative 1 had engaged in unauthorized trading.
+FINRA Rule 4530(d) requires each member firm to “report to FINRA statistical and
+summary information regarding written customer complaints . . . by the 15th day of the
+month following the calendar quarter in which customer complaints are received by the
+member.” 5 FINRA Rule 4530(b) requires that member firms report to FINRA “not later
+than 30 calendar days, after the member has concluded or reasonably should have
+concluded that an associated person of the member or the member itself has violated any
+securities-, insurance-, commodities-, financial- or investment-related laws, rules,
+regulations or standards of conduct of any domestic or foreign regulatory body or selfregulatory organization.” FINRA uses the information received pursuant to Rule 4530 for
+regulatory purposes to identify and initiate investigations of member firms, associated
+persons, and others that may pose a risk to investors.
+A violation of Rule 4530 also is a violation of FINRA Rule 2010.
+In September 2019, Customer 1 sent a written complaint to Kayan regarding
+Representative 1’s trading activities in his account. In January 2021, Customer 2 also sent
+a written complaint to Kayan regarding Representative 1’s trading activities in his
+account. Both complaints met the requirements for mandatory reporting under
+Rule 4530(d). However, Kayan never reported to FINRA either of these customers’
+complaints.
+Moreover, in September 2020, Kayan concluded that Representative 1 had engaged in
+unauthorized trading in Customer 1 and 2’s account, based, in part, on Representative 1’s
+admission that he had done so. However, Kayan failed to report to FINRA that it had
+concluded Representative 1 had engaged in unauthorized trading in at least two
+customers’ accounts over a period of approximately three years.
+To comply with Rule 4530(d), members must report any written grievance by a customer if the grievance concerns
+the member or an associated person of the member. FINRA Rule 4530 Supplementary Material .08.
+
+5
+
+6
+
+Therefore, Kayan violated FINRA Rules 4530 and 2010.
+D. Kayan failed to update Representative 1’s Form U4 and Form U5.
+Pursuant to Article V, Section 2 of FINRA’s By-Laws, when any person applies to be
+registered with FINRA, the member firm must file a Form U4 containing certain
+disclosures, such as customer complaints involving the person. Article V, Section 2(c) of
+FINRA’s By-Laws requires that member firms keep every Form U4 filed with FINRA
+current at all times by filing amendments no later than 30 days after learning of facts or
+circumstances giving rise to the amendment. Article V, Section 3 of FINRA’s By-Laws
+requires each member firm, not later than 30 days after termination of the association of
+any person, to give notice to FINRA of such termination by filing a Form U5. Article V,
+Section 3(b) of FINRA’s By-Laws requires that member firms, in the event they learn of
+facts or circumstances causing any information in a Form U5 filed with FINRA to
+become inaccurate or incomplete, to file amendments no later than 30 days after learning
+of facts or circumstances giving rise to the amendment. FINRA Rule 1122 also prohibits
+member firms from filing with FINRA information with respect to registration that is
+incomplete or inaccurate so as to be misleading or could in any way tend to mislead and
+requires member firms to correct any such filing. Failing to amend or to timely amend
+Forms U4 or U5 to disclose reportable investment-related customer complaints violates
+Article V, Section 2 and 3 of FINRA’s By-Laws, and FINRA Rules 1122.
+A violation of Article V, Sections 2 and 3 of FINRA’s By-Laws and FINRA Rule 1122
+also constitutes a violation of FINRA Rule 2010.
+Question 14I(3) of Form U4, and Question 7E(3) of Form U5, require disclosure of any
+written customer complaint that alleges that the person was involved in sales practice
+violations and which contain a claim for compensatory damages of at least $5,000. 6
+Nonetheless, Kayan failed to update Representative 1’s Form U4 and Form U5 to report
+three written customer complaints alleging Representative 1’s involvement in sales
+practice violations, specifically: (1) Customer 1’s written complaint in September 2019;
+(2) Customer 2’s written complaint in January 2021; and (3) a second written complaint
+by Customer 2 in April 2021.
+Therefore, Kayan violated Article V, Section 2(c) and 3(b) of FINRA’s By-Laws, and
+FINRA Rules 1122 and 2010.
+B.
+
+Respondents also consent to the imposition of the following sanctions:
+
+
+Kayan consents to:
+o a censure;
+
+If no damage amount is alleged, the complaint must be reported unless the firm has made a good faith
+determination that the damages from the alleged conduct would be less than $5,000.
+
+6
+
+7
+
+o partial restitution of $50,000, 7 plus interest, as described below; and
+o an undertaking that, within 90 days of the date of the Notice of Acceptance of
+this AWC, a member of Kayan’s senior management who is a registered
+principal of the firm shall certify in writing that, as of the date of the
+certification, the firm has reviewed and remediated the issues identified in the
+AWC, and implemented a supervisory system, including written supervisory
+procedures, reasonably designed to achieve compliance with SEC and FINRA
+rules regarding excessive trading. The certification shall include a narrative
+description and supporting exhibits sufficient to demonstrate Kayan’s
+remediation and implementation. FINRA staff may request further evidence of
+Kayan’s remediation and implementation, and Kayan agrees to provide such
+evidence. Kayan shall submit the certification to John Sheehan, Senior
+Counsel, FINRA Department of Enforcement, at 100 Pine Street, Suite 1800,
+San Francisco, CA 94111, or electronically to John.Sheehan@finra.org, with a
+copy to EnforcementNotice@finra.org. Upon written request showing good
+cause, FINRA staff may extend this deadline.
+
+
+Kim consents to:
+o a two-month suspension from associating with any FINRA member in all
+principal capacities;
+o a $5,000 fine; and
+o an undertaking that within 90 days of the Notice of Acceptance of this AWC,
+Kim will attend and satisfactorily complete 20 hours of continuing education
+concerning supervisory responsibilities, including supervision relating to
+unauthorized and excessive trading, by a provider not unacceptable to FINRA.
+Kim will notify John Sheehan, Senior Counsel, of the name and contact
+information of the provider of the continuing education at least 10 days prior
+to attending the continuing education. Within 30 days following the
+completion of the continuing education, Kim will submit written proof that the
+continuing education program was satisfactorily completed to John Sheehan at
+John.Sheehan@finra.org. All correspondence must identify Kim and the case
+number 2019064935602. Upon written request showing good cause, FINRA
+may extend any of the deadlines related to the continuing education
+component of the sanction.
+
+Respondent Kayan is ordered to pay partial restitution to the customer listed on
+Attachment A to this AWC (Eligible Customer) in the total amount of $50,000, plus
+interest at the rate set forth in Section 6621(a)(2) of the Internal Revenue Code, 26 U.S.C.
+§ 6621(a)(2), starting from the date this AWC is accepted by the National Adjudicatory
+Council (NAC) until payment is made.
+7
+
+Pursuant to the General Principles Applicable to all Sanction Determinations contained in FINRA’s Sanction
+Guidelines, FINRA imposed partial restitution and no fine after considering, among other things, Kayan’s revenues
+and financial resources.
+
+8
+
+A registered principal on behalf of Kayan has submitted a statement of financial
+condition and demonstrated an inability to pay full restitution immediately upon issuance
+of the AWC. In light of the financial status of Kayan, restitution to the Eligible Customer
+shall be payable on the schedule and in the amounts listed on Attachment A, commencing
+with the first payment to be made on the 15th day of the month following the notice of
+acceptance of the AWC.
+A registered principal on behalf of Kayan shall submit satisfactory proof of payment of
+restitution and interest (separately specifying the date and amount of each paid to the
+Eligible Customer) or of reasonable and documented efforts undertaken to effect
+restitution after each payment due under the installment plan. Such proof shall be
+submitted by email to EnforcementNotice@FINRA.org. from a work-related account of
+the registered principal of Kayan. The email must identify Kayan and the case number
+and include a copy of the check, money order, or other method of payment. This proof
+shall be provided by email to EnforcementNotice@FINRA.org no later than 15 days after
+each payment is due.
+The restitution amount plus interest to be paid to the Eligible Customer shall be treated
+by Kayan as the Eligible Customer’s property for purposes of state escheatment,
+unclaimed property, abandoned property, and similar laws. If after reasonable and
+documented efforts undertaken to effect restitution Kayan is unable to pay the Eligible
+Customer within 15 days after each payment is due, Kayan shall submit to FINRA in the
+manner described above a description of Kayan’s plan, not unacceptable to FINRA, to
+comply with the applicable escheatment, unclaimed property, abandoned property, or
+similar laws for the Eligible Customer.
+The imposition of a restitution order or any other monetary sanction in this AWC, and the
+timing of such ordered payments, does not preclude customers from pursuing their own
+actions to obtain restitution or other remedies.
+Restitution payments to customers shall be preceded or accompanied by a letter, not
+unacceptable to FINRA, describing the reason for the payment and the fact that the
+payment is being made pursuant to a settlement with FINRA and as a term of this AWC.
+Respondents Kayan and Kim agree to pay the monetary sanctions upon notice that this
+AWC has been accepted and that such payment is due and payable. Kim has submitted an
+Election of Payment form showing the method by which he proposes to pay the fine
+imposed.
+Respondents Kayan and Kim specifically and voluntarily waive any right to claim an
+inability to pay, now or at any time after the execution of this AWC, the monetary
+sanctions imposed in this matter.
+Respondent Kim understands that if he is barred or suspended from associating with any
+FINRA member in a principal capacity, he becomes subject to a statutory disqualification
+as that term is defined in Article III, Section 4 of FINRA’s By-Laws, incorporating
+9
+
+Section 3(a)(39) of the Securities Exchange Act of 1934. Accordingly, Kim may not be
+associated with any FINRA member in any principal capacity, during the period of the
+bar or suspension. See FINRA Rules 8310 and 8311. Furthermore, because Kim is
+subject to a statutory disqualification during the suspension, if he remains associated with
+a member firm in a non-suspended capacity, an application to continue that association
+may be required.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondents specifically and voluntarily waive the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against them;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondents specifically and voluntarily waive any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondents further specifically and voluntarily waive any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondents understand that:
+
+10
+
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA
+Rule 9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondents; and
+
+C.
+
+If accepted:
+
+D.
+
+1.
+
+this AWC will become part of Respondents’ permanent disciplinary
+records and may be considered in any future action brought by FINRA or
+any other regulator against Respondents;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondents may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondents may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondents’ rights to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondents’ testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondents may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondents understand that they may not deny the charges or make any
+statement that is inconsistent with the AWC in this statement. This statement does
+not constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+The undersigned, on behalf of Respondent Kayan, certifies that a person duly authorized to act
+on Kayan’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Kayan has agreed to the AWC’s provisions
+voluntarily; and that no offer, threat, inducement, or promise of any kind, other than the terms set
+forth in this AWC and the prospect of avoiding the issuance of a complaint, has been made to
+induce Kayan to submit this AWC.
+
+11
+
+Respondent Kim certifies that he has read and understands all of the provisions of this AWC and
+has been given a full opportunity to ask questions about it; he has agreed to the AWC’s
+provisions voluntarily; and no offer, threat, inducement, or promise of any kind, other than the
+terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has been
+made to induce him to submit this AWC.
+April 25, 2024
+
+Date
+
+____________________________________
+Kayan Securities, Inc.
+Respondent
+Print Name:
+Title:
+
+April 26, 2024
+
+Date
+
+Yong Soo Kim
+
+President
+
+____________________________________
+Yong Soo Kim
+Respondent
+
+Reviewed by:
+_______________________
+John Seong Kim
+Counsel for Respondents
+3470 Wilshire Blvd., Suite 626
+Los Angeles, CA 90010
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+May 16, 2024
+
+Date
+
+John Sheehan
+Senior Counsel
+FINRA
+Department of Enforcement
+100 Pine Street, Suite 1800
+San Francisco, CA 94111
+
+12
+
+ATTACHMENT A
+To Letter of Acceptance, Waiver and Consent
+Kayan Securities, Inc. and Yong Soo Kim, Matter No. 2019064935602
+Restitution Installment Plan - Customer 1 - $50,000
+Installment
+Payment No.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+Total Payment
+
+Payment Due Date 1
+
+$2,173.91 2
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+$2,173.91
+Interest at the rate set forth in
+Section 6621(a)(2) of the Internal
+Revenue Code. 3
+
+15 days after the AWC is approved.
+30 days after payment no. 1
+30 days after payment no. 2
+30 days after payment no. 3
+30 days after payment no. 4
+30 days after payment no. 5
+30 days after payment no. 6
+30 days after payment no. 7
+30 days after payment no. 8
+30 days after payment no. 9
+30 days after payment no. 10
+30 days after payment no. 11
+30 days after payment no. 12
+30 days after payment no. 13
+30 days after payment no. 14
+30 days after payment no. 15
+30 days after payment no. 16
+30 days after payment no. 17
+30 days after payment no. 18
+30 days after payment no. 19
+30 days after payment no. 20
+30 days after payment no. 21
+30 days after payment no. 22
+30 days after payment no. 23
+
+Any payment due date falling on a Saturday or Sunday can be extended to the proceeding Monday.
+The first 23 payments in the installment plan will apply to the $50,000 principal only. The final payment will be the
+accrued interest on the principal as it was reduced over the installment payment period.
+3
+The interest rate in effect at the time the AWC is accepted by the NAC will be used. If restitution is paid in full to
+Customer 1 before the final installment payment is due, the interest accrued up to the point of the final payment will
+be included with the final payment.
+1
+2
+
+

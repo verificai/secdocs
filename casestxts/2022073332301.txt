@@ -1,0 +1,354 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2022073332301
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Parsonex Capital Markets, LLC (Respondent)
+Member Firm
+CRD No. 169578
+
+Pursuant to FINRA Rule 9216, Respondent Parsonex Capital Markets, LLC submits this Letter
+of Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Parsonex Capital Markets became a FINRA member in 2014. The firm, which is
+headquartered in Englewood, Colorado, has one branch office and six registered
+representatives. The firm’s primary business consists of acting as a managing dealer or
+placement agent for private placements that it offers to retail investors. 1
+OVERVIEW
+Since June 30, 2020, Parsonex Capital Markets has omitted required information from the
+firm’s customer relationship summary (Form CRS). Most significantly, from June 30,
+2020, to February 9, 2023, the firm failed to disclose on its Form CRS that a number of
+its financial professionals had legal or disciplinary history. Additionally, since April 13,
+2023, the firm has failed to update its Form CRS to disclose that its control affiliate has
+legal or disciplinary history. By filing and delivering to customers a Form CRS that
+omitted required information and then failing to update it, Parsonex Capital Markets
+willfully violated Section 17(a)(1) of the Securities Exchange Act of 1934 and Exchange
+Act Rule 17a-14, and violated FINRA Rule 2010.
+
+1
+
+For more information about the firm, visit BrokerCheck® at www.finra.org/brokercheck.
+
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from the 2022 FINRA Firm Examination of Parsonex Capital
+Markets.
+On June 5, 2019, the Securities and Exchange Commission (SEC) adopted Form CRS
+and rules creating new requirements—which include requirements to prepare, file,
+deliver, and update the Form CRS—for SEC-registered broker-dealers offering services
+to a retail investor. The compliance date for Form CRS was June 30, 2020.
+Form CRS provides customers with information about the types of services the firm
+offers; the fees, costs, conflicts of interest, and required standard of conduct associated
+with those services; whether the firm and its investment professionals have reportable
+legal or disciplinary history; and how to get more information about the firm.
+Form CRS also includes required “conversation starters” to help begin a discussion with
+a broker-dealer about the relationship, including their services, fees, costs, conflicts, and
+disciplinary information.
+Section 17(a)(1) of the Exchange Act requires registered broker-dealers to make and keep
+for prescribed periods such records, furnish such copies thereof, and make and
+disseminate such reports as the Commission deems “necessary or appropriate in the
+public interest, for the protection of investors or otherwise in furtherance of the purposes
+of” the Exchange Act. Exchange Act Rule 17a-14—titled “Form CRS, for preparation,
+filing and delivery of Form CRS”—requires broker-dealers offering services to a retail
+investor to prepare a Form CRS in accordance with the instructions in Form CRS, and to
+comply with requirements related to filing, amending, delivering, and posting the Form
+CRS to the firm’s public website.
+Rule 17a-14 also requires broker-dealers to update Form CRS and file it within 30 days
+whenever any information in the Form CRS becomes materially inaccurate. The filing
+must include an exhibit highlighting changes. The updated Form CRS, with changes
+highlighted, or another disclosure that communicates the changes, must be delivered to
+retail investors who are existing customers within 60 days after the updates are required
+to be made and without charge.
+A violation of Exchange Act § 17(a)(1) and Exchange Act Rule 17a-14 also is a violation
+of FINRA Rule 2010, which requires member firms to observe high standards of
+commercial honor and just and equitable principles of trade in the conduct of their
+business.
+
+2
+
+A.
+
+Parsonex Capital Markets has provided inaccurate responses to the Form
+CRS question concerning legal or disciplinary history.
+
+Form CRS contains the heading, “Do you or your financial professionals have legal or
+disciplinary history?” The instructions to Form CRS state that a firm must respond “Yes”
+if it or any of its financial professionals discloses, or is required to disclose, legal or
+disciplinary history on specified regulatory disclosure forms, such as Forms BD, U4, U5,
+and U6. 2 Legal or disciplinary history that is required to be disclosed on those forms
+includes criminal history, regulatory actions, civil judicial actions, and specified financial
+events (e.g., bankruptcies, judgments, and liens). Because a firm must disclose on Form
+BD not only its own legal or disciplinary history, but also that of its “control affiliates,” 3
+a firm must respond “Yes” to the Form CRS question concerning legal or disciplinary
+history if any of its control affiliates has legal or disciplinary history. 4
+First, between June 30, 2020, and February 9, 2023, Parsonex Capital Markets failed to
+respond “Yes” to the Form CRS question concerning legal or disciplinary history, even
+though four of its registered representatives in fact had prior legal or disciplinary history.
+Without addressing those representatives’ prior legal or disciplinary history, the firm
+responded, “No, the Firm does not have a disciplinary history.” At the time Parsonex
+Capital Markets filed its initial Form CRS on June 29, 2020, Form U4 or U6 filings for
+two of the firm’s registered representatives, including the firm’s Chief Financial Officer,
+disclosed prior legal or disciplinary history. And Form U4 or U5 filings for two
+additional registered representatives, who became associated with the firm in June 2021
+and April 2022, likewise disclosed prior legal or disciplinary history. All of those filings,
+and the disclosures contained in the filings, were reflected in FINRA’s Central
+Registration Depository (CRD) and in BrokerCheck®, and were made by or were
+available to the firm. On February 9, 2023, the firm updated its Form CRS to respond,
+“Yes, while the Firm does not have any disciplinary history some of our representatives
+do.”
+Second, Parsonex Capital Markets has failed, since April 13, 2023, to update its Form
+CRS to disclose that its control affiliate has legal or disciplinary history. On March 13,
+2023, the control affiliate—an investment adviser that is registered with the U.S.
+These forms are submitted to the Central Registration Depository by member firms or regulators. Broker-dealers
+file Form BD (Uniform Application for Broker-Dealer Regulation) to become registered with the U.S. Securities and
+Exchange Commission, FINRA, other self-regulatory organizations, and jurisdictions (e.g., U.S. states and
+territories); Form U4 (Uniform Application for Securities Industry Registration or Transfer) is used to elicit
+employment history, disciplinary, and other information about individuals, to register them with FINRA, other selfregulatory organizations, or jurisdictions; Form U5 (Uniform Termination Notice for Securities Industry
+Registration) is used to terminate individuals’ registrations with FINRA, other self-regulatory organizations, or
+jurisdictions, and to elicit details regarding the reasons for termination; and Form U6 (Uniform Disciplinary Action
+Reporting Form) is used by regulators to report disclosure events and disciplinary actions against individuals and
+organizations, and to report final FINRA arbitration awards against broker-dealers and associated persons.
+2
+
+According to Form BD, a “control affiliate” includes any individual or organization that directly or indirectly
+controls, is under common control with, or is controlled by, a firm.
+3
+
+See U.S. Securities and Exchange Commission, Frequently Asked Questions on Form CRS, available at
+https://www.sec.gov/investment/form-crs-faq.
+4
+
+3
+
+Securities and Exchange Commission—entered into a cease-and-desist order with the
+Commission for failing to adopt and implement reasonably designed compliance policies
+and procedures as required under the Investment Advisers Act of 1940, and for failing to
+seek best execution of client securities transactions. Parsonex Capital Markets therefore
+was required to update its Form CRS by April 12, 2023—30 days after the Commission’s
+order. Regulatory disclosures reflecting the control affiliate’s disciplinary history were
+available to the firm in CRD and in BrokerCheck®. The firm updated its Form BD on
+April 11, 2023, to disclose that its control affiliate had been the subject of a disciplinary
+action. Nonetheless, Parsonex Capital Markets has failed to date to update its Form CRS
+to disclose that the control affiliate has legal or disciplinary history.
+Therefore, Parsonex Capital Markets willfully violated Exchange Act § 17(a)(1) and
+Exchange Act Rule 17a-14, and violated FINRA Rule 2010.
+B.
+
+Parsonex Capital Markets has omitted other required information from its
+Form CRS.
+
+Parsonex Capital Markets likewise has omitted from its Form CRS other required
+information. Specifically, the Instructions to Form CRS require the firm to include
+specific headings and disclosures about potential conflicts of interest, including the
+following language:
+When we provide you with a recommendation, we have to act in your best
+interest and not put our interest ahead of yours. At the same time, the way
+we make money creates some conflicts with your interests. You should
+understand and ask us about these conflicts because they can affect the
+recommendations we provide you. Here are some examples to help you
+understand what this means.
+Both versions of the firm’s Form CRS omit this required language.
+Parsonex Capital Markets also failed, in both versions of its Form CRS, to disclose under
+the heading, “What fees will I pay?,” a discussion of conflicts of interest. The
+Instructions to Form CRS require the firm to summarize “the principal fees and costs that
+retail investors will incur” for brokerage services, including the conflicts of interest they
+create. Neither version of the firm’s Form CRS contains this required summary.
+Therefore, Parsonex Capital Markets willfully violated Exchange Act § 17(a)(1) and
+Exchange Act Rule 17a-14, and violated FINRA Rule 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a censure;
+
+4
+
+
+
+a $10,000 fine; 5 and
+
+
+
+an undertaking that, within 30 days of the date of the notice of acceptance of this
+AWC, a member of Respondent’s senior management who is a registered
+principal of the firm shall certify in writing that, as of the date of the certification,
+the firm has reviewed and remediated the deficiencies in its Form CRS, and has
+filed, delivered, and posted to its website a Form CRS that complies with
+Exchange Act § 17(a)(1) and Exchange Act Rule 17a-14. The certification shall
+include a narrative description and supporting exhibits sufficient to demonstrate
+Respondent’s remediation and implementation. FINRA staff may request further
+evidence of Respondent’s remediation and implementation, and Respondent
+agrees to provide such evidence. Respondent shall submit the certification to
+Jamie Keesing, Counsel, FINRA, Department of Enforcement, 9509 Key West
+Avenue, Gira Building, Rockville, MD 20850, with a copy to
+Jamie.Keesing@finra.org and EnforcementNotice@finra.org. Upon written
+request showing good cause, FINRA staff may extend this deadline.
+
+Respondent agrees to pay the monetary sanction upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which it proposes to pay the fine
+imposed.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanction imposed in this
+matter.
+Respondent understands that this settlement includes a finding that it willfully violated
+Section 17(a)(1) of the Securities Exchange Act of 1934 and Rule 17a-14 thereunder, and
+that under Article III, Section 4 of FINRA’s By-Laws, this makes Respondent subject to
+a statutory disqualification with respect to membership.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against it;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+Pursuant to the General Principles Applicable to all Sanction Determinations contained in FINRA’s Sanction
+Guidelines, FINRA imposed a lower fine in this case after it considered, among other things, Respondent’s revenues
+and financial resources.
+
+5
+
+5
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+6
+
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+D.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that it may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+The undersigned, on behalf of Respondent, certifies that a person duly authorized to act on
+Respondent’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Respondent has agreed to the AWC’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+the terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has
+been made to induce Respondent to submit this AWC.
+
+October 19, 2023
+Date
+
+____________________________________
+Parsonex Capital Markets, LLC
+Respondent
+Jonathan Miller
+Print Name:
+Title: President / CEO
+
+Reviewed by:
+_______________________
+Alan M. Wolper
+Counsel for Respondent
+Ulmer & Berne LLP
+500 W. Madison Street, Suite 3600
+Chicago, IL 60661
+
+7
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+November 8, 2023
+Date
+
+Jamie P. Keesing
+Counsel
+FINRA
+Department of Enforcement
+9509 Key West Avenue, Gira Building
+Rockville, MD 20850
+
+8
+
+

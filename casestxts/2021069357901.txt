@@ -1,0 +1,259 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021069357901
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Highlander Capital Group, Inc. (Respondent)
+Member Firm
+CRD No. 19074
+
+Pursuant to FINRA Rule 9216, Respondent Highlander Capital Group, Inc. submits this Letter of
+Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Highlander Capital became a FINRA member firm in 1987. The firm, which is
+headquartered in Short Hills, New Jersey, has two branch offices and 17 registered
+representatives. Highlander Capital’s primary business consists of equity and mutual fund
+transactions for retail investors. 1
+OVERVIEW
+From June 30, 2020, to August 30, 2021, Highlander Capital falsely represented on the
+firm’s customer relationship summary (Form CRS) that neither it nor its associated
+persons had any legal or disciplinary history. In fact, both the firm and two of its
+registered representatives had prior legal or disciplinary history. By filing and delivering
+to customers a Form CRS with inaccurate information, Highlander Capital willfully
+violated Section 17(a)(1) of the Securities Exchange Act of 1934 (Exchange Act),
+Exchange Act Rule 17a-14, and FINRA Rule 2010.
+
+For more information about the firm, including prior regulatory events, visit BrokerCheck® at
+www finra.org/brokercheck.
+1
+
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from the 2021 Firm Examination for Highlander Capital.
+On June 5, 2019, the Securities and Exchange Commission (SEC) adopted Form CRS
+and rules creating new requirements—which include requirements to prepare, file, and
+deliver the Form CRS—for SEC-registered broker-dealers offering services to a retail
+investor. The compliance date for Form CRS was June 30, 2020.
+Form CRS provides customers with information about the types of services the firm
+offers; the fees, costs, conflicts of interest, and required standard of conduct associated
+with those services; whether the firm and its investment professionals have reportable
+legal or disciplinary history; and how to get more information about the firm.
+Section 17(a)(1) of the Securities Exchange Act of 1934 requires registered brokerdealers to make and keep for prescribed periods such records, furnish such copies thereof,
+and make and disseminate such reports as the Commission deems “necessary or
+appropriate in the public interest, for the protection of investors or otherwise in
+furtherance of the purposes of” the Exchange Act. Exchange Act Rule 17a-14—titled
+“Form CRS, for preparation, filing and delivery of Form CRS”—requires broker-dealers
+offering services to a retail investor to prepare a Form CRS in accordance with the
+instructions in Form CRS, and to comply with requirements related to filing, amending,
+delivering, and posting the Form CRS to the firm’s public website.
+A violation of Exchange Act § 17(a)(1) and Exchange Act Rule 17a-14 also is a violation
+of FINRA Rule 2010, which requires member firms to observe high standards of
+commercial honor and just and equitable principles of trade in the conduct of their
+business.
+Form CRS contains the heading, “Do you or your financial professionals have legal or
+disciplinary history?” The instructions to Form CRS state that a firm must respond “Yes”
+if it or any of its financial professionals disclose, or are required to disclose, legal or
+disciplinary history on specified regulatory disclosure forms, such as Forms BD, U4, U5,
+and U6. Legal or disciplinary history that is required to be disclosed on those forms
+includes criminal history, regulatory actions, civil judicial actions, and specified financial
+events (e.g., bankruptcies, judgments, and liens).
+Highlander Capital falsely responded “No” to the question concerning legal or
+disciplinary history on its Form CRS, which it filed on June 23, 2020, prior to the
+compliance date for Form CRS. In fact, the firm and two of its registered representatives
+had prior legal or disciplinary history. Highlander Capital disclosed six disciplinary
+actions on its Form BD. These disciplinary actions, which occurred between 1992 and
+2012, included violations for late trade reporting, operating without a municipal securities
+principal, operating while under net capital, and failing to retain certain email
+communications. In addition, Form U4 and U6 filings for one of the firm’s registered
+representatives, and Form U4, U5, and U6 filings for another registered representative,
+disclosed prior legal or disciplinary history. All of those filings, and the disclosures
+2
+
+contained in the filings, were reflected in FINRA’s Central Registration Depository
+(CRD) and in BrokerCheck®, and were available to the firm. Despite having disclosed
+six disciplinary actions on its Form BD—and despite its knowledge of its registered
+representatives’ legal or disciplinary history—Highlander Capital falsely responded “No”
+to the Form CRS question concerning legal or disciplinary history. 2
+Therefore, Highlander Capital willfully violated Exchange Act § 17(a)(1), Exchange Act
+Rule 17a-14, and FINRA Rule 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a censure and
+
+
+
+a $5,000 fine. 3
+
+Respondent agrees to pay the monetary sanction upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which it proposes to pay the fine
+imposed.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanction imposed in this
+matter.
+Respondent understands that this settlement includes a finding that it willfully violated
+Section 17(a)(1) of the Securities Exchange Act of 1934 and Rule 17a-14 thereunder, and
+that under Article III, Section 4 of FINRA’s By-Laws, this makes Respondent subject to
+a statutory disqualification with respect to membership.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against it;
+
+Following FINRA staff’s investigation, Highlander Capital updated its Form CRS, effective August 30, 2021, to
+respond “Yes” to the question concerning legal or disciplinary history.
+
+2
+
+Pursuant to the General Principles Applicable to all Sanction Determinations contained in FINRA’s Sanction
+Guidelines, FINRA imposed a lower fine in this case after it considered, among other things, Respondent’s revenues
+and financial resources.
+
+3
+
+3
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+4
+
+4.
+
+D.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that it may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+The undersigned, on behalf of Respondent, certifies that a person duly authorized to act on
+Respondent’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Respondent has agreed to the AWC’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+the terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has
+been made to induce Respondent to submit this AWC.
+
+March 2, 2023
+
+Date
+
+____________________________________
+Highlander Capital Group, Inc.
+Respondent
+Print Name:
+Title:
+
+5
+
+Doug MacWright
+
+President and CEO
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+
+May 19, 2023
+
+Date
+
+Rebecca Segrest
+Senior Counsel
+FINRA
+Department of Enforcement
+303 Perimeter Center North, Suite 550
+Atlanta, GA 30346
+
+6
+
+

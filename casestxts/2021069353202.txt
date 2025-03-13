@@ -1,0 +1,907 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021069353202
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Securities Research, Inc. of Florida (Respondent)
+Member Firm
+CRD No. 6516
+
+Pursuant to FINRA Rule 9216, Respondent Securities Research, Inc. of Florida submits this
+Letter of Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of
+the alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Securities Research, Inc. of Florida has been a FINRA member firm since 1979.
+Headquartered in Vero Beach, Florida, the firm has two branch offices and 15 registered
+representatives. The firm conducts a general securities business with retail customers. 1
+OVERVIEW
+Since at least July 2018, Securities Research has failed to establish, maintain, and enforce
+a supervisory system, including written procedures, reasonably designed to achieve
+compliance with the suitability requirements of FINRA Rule 2111 and the Care
+Obligation of Rule 15l-1 of the Securities Exchange Act of 1934 (Regulation Best
+Interest or Reg BI), as they pertain to short-term switches of Class A mutual funds.
+Moreover, from July 2018 to November 2021, the firm failed to reasonably supervise
+short-term switches of Class A mutual funds by one of its registered representatives in the
+accounts of two customers, who collectively paid $43,724.87 in excess sales charges.
+Therefore, Securities Research has violated FINRA Rules 3110 and 2010. In addition,
+
+1
+For more information about the firm, including prior regulatory events, visit BrokerCheck® at
+www finra.org/brokercheck.
+
+since June 30, 2020, the firm has violated Exchange Act Rule 15l-1(a)(1) by failing to
+comply with the Compliance Obligation of Reg BI.
+Since at least July 2018, Securities Research also has failed to establish, maintain, and
+enforce a system, including written procedures, reasonably designed to supervise the
+application of: (1) sales charge waivers to which customers are entitled through exchange
+privileges offered by mutual fund companies; and (2) sales charge waivers and fee
+rebates to which customers are entitled through rights of reinstatement offered by mutual
+fund companies. Between July 2018 and June 2021, eleven customers paid $51,600.42 in
+excess sales charges and fees. Therefore, Securities Research violated FINRA Rules 3110
+and 2010.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from a FINRA firm examination of Securities Research.
+FINRA Rule 3110(a) requires a member firm to establish and maintain a system to
+supervise the activities of each associated person that is reasonably designed to achieve
+compliance with applicable securities laws and regulations, and with applicable FINRA
+rules. FINRA Rule 3110(b) requires a member firm to establish, maintain, and enforce
+written procedures to supervise the types of business in which it engages and the
+activities of its associated persons that are reasonably designed to achieve compliance
+with applicable securities laws and regulations, and with applicable FINRA rules.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation BI under the Securities Exchange Act. Rule 15l-1(a)(1) of Reg BI
+requires a broker, dealer, or a natural person associated with a broker or dealer, when
+making a recommendation of any securities transaction or investment strategy involving
+securities (including account recommendations) to a retail customer, to act in the best
+interest of that retail customer at the time the recommendation is made, without placing
+the financial or other interest of the broker, dealer, or associated person ahead of the
+interest of the retail customer. Reg BI’s Compliance Obligation, set forth at Exchange
+Act Rule 15l-1(a)(2)(iv), requires broker-dealers to establish, maintain, and enforce
+written policies and procedures reasonably designed to achieve compliance with Reg BI.
+Reg BI’s Adopting Release provides that broker-dealers should consider the nature of
+that firm’s operations and how to design such policies and procedures to prevent
+violations from occurring, detect violations that have occurred, and to correct promptly
+any violations that have occurred.
+A violation of FINRA Rule 3110 or Reg BI also is a violation of FINRA Rule 2010,
+which requires firms to “observe high standards of commercial honor and just and
+equitable principles of trade” in the conduct of their business.
+Reg BI’s Care Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(ii), requires brokerdealers and their associated persons to exercise reasonable diligence, care, and skill to,
+among other things, have a reasonable basis to believe that the recommendation is in the
+2
+
+best interest of a particular retail customer based on that retail customer’s investment
+profile and the potential risks, rewards, and costs associated with the recommendation.
+Reg BI’s Adopting Release provides that consideration of reasonably available
+alternatives offered by the broker-dealer is an inherent aspect of making a “best interest”
+recommendation.
+Prior to June 30, 2020, FINRA Rule 2111 required members and associated persons to
+have a reasonable basis to believe that a recommendation of a transaction or investment
+strategy involving a security or securities to any customer is suitable for the customer,
+based on the information obtained through the reasonable diligence of the member or
+associated person to ascertain the customer’s investment profile. FINRA Rule 2111
+defines a customer’s investment profile to include the same information as under the Care
+Obligation. Under Rule 2111, broker-dealers were required to consider costs associated
+with a recommendation as part of their reasonable diligence. FINRA Rule 2111 is still in
+effect, but as of June 30, 2020, it no longer applies to recommendations that are subject to
+Reg BI.
+A. Securities Research has failed to establish and maintain a system reasonably
+designed to supervise short-term mutual fund switching, and the firm failed to
+supervise switches effected by one registered representative in two customer
+accounts.
+Mutual funds are comprised of several classes of shares. Class A mutual fund shares
+typically include substantial upfront sales charges, known as “front-end loads.” They are
+generally suitable, or in the customer’s best interest, only as long-term investments and
+not for short-term trading, because an investor usually must hold the Class A share for a
+long period of time to recoup the front-end load. Frequent short-term purchases and sales
+of Class A shares in a customer’s account may be unsuitable, or not in the customer’s
+best interest, because of the frequency of the transactions, the transaction costs incurred,
+or the customer’s financial situation, investment objectives, and needs. Mutual fund
+switching occurs when a customer sells mutual fund shares and reinvests the proceeds in
+another mutual fund, often incurring additional charges and commissions.
+Since at least July 2018, Securities Research’s written procedures, and supervisory
+system, have not been reasonably designed to address short-term switches of Class A
+mutual funds. Acknowledging that mutual funds are “conservative long-term
+investments,” and that the sales fees associated with them “almost prohibits the investor
+from profitable ‘trading,’” the firm’s written procedures have required supervisors to
+review short-term mutual fund switches on a monthly basis to “prevent and detect excess
+switching and charges.” But the firm’s procedures have failed to describe the steps that
+supervisors must take when conducting these monthly reviews, and the firm has failed to
+establish a system reasonably designed to determine whether short-term mutual fund
+switches were suitable and in the customer’s best interest. The firm has not used tools
+offered by its clearing firm or any reasonable alternative designed to achieve compliance
+with Rule 2111 and Reg BI in connection with short-term switches. Instead, the firm has
+3
+
+relied on its supervisors’ manual review of a monthly report of mutual fund transactions.
+This report, however, has omitted the information necessary to identify whether a
+transaction constitutes a short-term sale, such as the date that the mutual fund was
+purchased. And although the firm’s supervisors sometimes manually researched this
+information, they did not do so consistently, and Securities Research’s written
+supervisory procedures did not require that they do so.
+Additionally, since June 2020, Securities Research’s written policies and procedures have
+required registered representatives to consider reasonably available alternatives when
+making recommendations to retail customers. However, these policies and procedures
+have not detailed the steps that representatives must take to comply with this requirement
+when recommending mutual fund switches, such as consideration of whether a
+comparable mutual fund within the same fund family as the customer’s existing position
+is available at a lower cost. Nor have the firm’s written supervisory procedures described
+what supervisors must do to review representatives’ consideration of reasonably available
+alternatives.
+As a result of these supervisory deficiencies, Securities Research failed to take reasonable
+steps to review one of its registered representatives’ recommendations of short-term
+switches of Class A mutual funds. Between July 2018 and September 2021, the registered
+representative recommended and effected 25 short-term switches that were unsuitable for
+or not in the best interest of two senior customers. 2 All of these switches were part of a
+pattern of switching between different mutual fund families. And while not part of any
+switch, in November 2021, at the representative’s recommendation, one of the two senior
+customers also sold Class A mutual fund shares that she had held for only a month. The
+firm manually flagged some of the short-term switches that the representative effected in
+these customers’ accounts, but it largely confined its supervisory review to confirming
+that the customers had approved them. Securities Research did not assess whether the
+representative exercised reasonable diligence in recommending the transactions, either
+before or after the transactions took place. Further, for those transactions effected on or
+after June 30, 2020, Securities Research did not review whether the representative
+exercised reasonable diligence, care, and skill to consider reasonably available
+alternatives, including mutual fund share classes in the same fund family as the
+customers’ existing holdings, or different mutual fund share classes, that may have
+achieved the customers’ objectives at a lower cost. The firm failed to assess whether the
+transactions were suitable for or in the best interest of the two customers, who
+collectively paid $43,724.87 in excessive sales charges.
+Therefore, Securities Research has violated FINRA Rules 3110 and 2010 (since at least
+July 2018), and also has violated Exchange Act Rule 15l-1(a)(1) (since June 30, 2020).
+
+22 of these switches were effected between July 2018 and June 29, 2020, and three of the switches were effected
+on or after June 30, 2020.
+
+2
+
+4
+
+B. Securities Research has failed to reasonably supervise mutual fund exchange
+privileges and rights of reinstatement to which customers are entitled.
+Mutual fund issuers generally offer various privileges to their shareholders, which are
+identified in a fund’s prospectus or statement of additional information. These privileges
+may include exchange privileges or rights of reinstatement. An exchange privilege may
+be available where an investor sells shares of a fund and, on the same day, purchases
+shares of that fund or another fund in the same fund family. In the event of these sameday exchanges, mutual fund companies may waive front-end sales charges on investors’
+reinvestments and contingent deferred sales charges (CDSC) on investors’ sales. For
+exchanges within the same fund family in which the sale and reinvestment occur on
+different days, mutual fund companies may offer rights of reinstatement. To be eligible
+for a right-of-reinstatement benefit, the period between the sale and the repurchase must
+fall within a designated time frame—typically ranging between 30 and 120 days but, in
+some cases, up to two years, depending on the fund family. A right of reinstatement
+entitles an investor to a waiver of the front-end sales charge on the reinvestment, or to a
+fee rebate through which the investor recoups all or part of a CDSC (typically, but not
+always, involving Class A shares).
+Since at least July 2018, Securities Research’s system, including written procedures, has
+not been reasonably designed to supervise the firm’s application of mutual fund exchange
+privileges and rights-of-reinstatement benefits. While the firm’s written supervisory
+procedures required supervisors to conduct daily reviews of sales charges on mutual fund
+transactions, the procedures did not describe the steps that principals must take to identify
+appropriate sales discounts or waivers. The firm did not equip its supervisors with the
+information necessary to detect excessive sales fees during their manual reviews of
+mutual fund transactions, such as information about whether the mutual fund company
+offered an exchange privilege for same-day exchanges. Nor did the firm have an
+automated surveillance system to flag instances in which customers were entitled to
+exchange privileges. Instead, Securities Research incorrectly believed, without verifying,
+that its clearing firm prohibited transactions for which customers would incur sales
+charges on same-day exchanges within a fund family, or, at minimum, that the clearing
+firm flagged such exchanges. Additionally, Securities Research did not have any
+system—whether manual or automated—to evaluate instances in which customers were
+potentially eligible for rights-of-reinstatement benefits.
+From July 2018 to June 2021, Securities Research failed to provide 11 customer accounts
+with the mutual fund exchange privileges or rights-of-reinstatement benefits to which
+they were entitled. As a result, those customers paid $51,600.42 in excess sales charges
+and fees relating to 39 mutual fund exchanges.
+Therefore, Securities Research has violated FINRA Rules 3110 and 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a censure;
+5
+
+
+
+a $60,000 fine;
+
+
+
+restitution of $49,253.72 plus interest as described below;3 and
+
+
+
+an undertaking that, within 60 days of the date of the notice of acceptance of this
+AWC, a member of Respondent’s senior management who is a registered
+principal of the firm shall certify in writing that, as of the date of the certification,
+the firm has remediated the issues identified in this AWC and implemented
+written policies and procedures, and a supervisory system, including WSPs,
+reasonably designed to achieve compliance with Regulation Best Interest
+regarding the issues identified in this AWC. The certification shall include a
+narrative description and supporting exhibits sufficient to demonstrate
+Respondent’s remediation and implementation. FINRA staff may request further
+evidence of Respondent’s remediation and implementation, and Respondent
+agrees to provide such evidence. Respondent shall submit the certification to
+Jamie P. Keesing, Counsel, 9509 Key West Avenue, Rockville, MD 20850, and
+Jamie.Keesing@finra.org, with a copy to EnforcementNotice@finra.org. Upon
+written request showing good cause, FINRA staff may extend this deadline.
+
+Respondent agrees to pay the monetary sanctions upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which it proposes to pay the fine
+imposed.
+Restitution is ordered to be paid to the customers listed on Attachment A to this AWC
+(Eligible Customers) in the total amount of $49,253.72, plus interest at the rate set forth
+in Section 6621(a)(2) of the Internal Revenue Code, 26 U.S.C. § 6621(a)(2), from the
+date of each transaction until the date this AWC is accepted by the National Adjudicatory
+Council (NAC).
+A registered principal on behalf of Respondent shall submit satisfactory proof of payment
+of restitution and interest (separately specifying the date and amount of each paid to each
+Eligible Customer) or of reasonable and documented efforts undertaken to effect
+restitution. Such proof shall be submitted by email to EnforcementNotice@FINRA.org
+from a work-related account of the registered principal of Respondent. The email must
+identify Respondent and the case number and include a copy of the check, money order,
+or other method of payment. This proof shall be provided by email to
+EnforcementNotice@FINRA.org no later than 120 days after the date of the notice of
+acceptance of the AWC.
+In February 2024, prior to the effective date of this AWC, Securities Research provided proof to FINRA staff that
+it had paid full restitution, plus interest, to seven customers, and partial restitution, plus interest, to four customers.
+Attachment A sets forth key details for each of the transactions at issue for each of the 11 customers, including
+whether the restitution is attributable to a short-term switch, a lost privilege (exchange privilege or right of
+reinstatement), or both, and the extent to which restitution has been paid in connection with each transaction and
+customer. The restitution order reflects excess sales charges and fees incurred by the four customers to whom
+Securities Research has not yet paid full restitution.
+
+3
+
+6
+
+The restitution amount plus interest to be paid to each Eligible Customer shall be treated
+by the Respondent as the Eligible Customer’s property for purposes of state escheatment,
+unclaimed property, abandoned property, and similar laws. If after reasonable and
+documented efforts undertaken to effect restitution Respondent is unable to pay all
+Eligible Customers within 120 days after the date of the notice of acceptance of the
+AWC, Respondent shall submit to FINRA in the manner described above a list of the
+unpaid Eligible Customers and a description of Respondent’s plan, not unacceptable to
+FINRA, to comply with the applicable escheatment, unclaimed property, abandoned
+property, or similar laws for each such Eligible Customer.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanctions imposed in this
+matter.
+The imposition of a restitution order or any other monetary sanctions in this AWC, and
+the timing of such ordered payments, does not preclude customers from pursuing their
+own actions to obtain restitution or other remedies.
+Restitution payments to customers shall be preceded or accompanied by a letter, not
+unacceptable to FINRA, describing the reason for the payment and the fact that the
+payment is being made pursuant to a settlement with FINRA and as a term of this AWC.
+Respondent understands that this settlement includes a finding that it failed to supervise
+an individual who violated Rule 15l-1(a)(1) of the Securities Exchange Act of 1934 and
+that under Article III, Section 4 of FINRA’s By-Laws, this makes it subject to a statutory
+disqualification with respect to membership.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against it;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+7
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+8
+
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+D.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that it may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+The undersigned, on behalf of Respondent, certifies that a person duly authorized to act on
+Respondent’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Respondent has agreed to the AWC’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+the terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has
+been made to induce Respondent to submit this AWC.
+September 4, 2024
+
+Date
+
+____________________________________
+Securities Research, Inc. of Florida
+Respondent
+Print Name:
+
+Thaddeus Cook
+
+Title: President
+Reviewed by:
+_______________________
+Gregg Breitbart
+Counsel for Respondent
+Kaufman Dolowich LLP
+100 SE Third Avenue, Suite 1500
+Fort Lauderdale, FL 33394
+
+9
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+September 13, 2024
+Date
+
+Jamie P. Keesing
+Counsel
+FINRA
+Department of Enforcement
+9509 Key West Avenue
+Rockville, MD 20850
+
+10
+
+Attachment A
+Trade
+Customer No. Trade Date
+Identifier
+1
+7/27/2018 BDISTK
+1
+7/27/2018 BDISYR
+1
+9/26/2018 BHMQN2
+1
+9/26/2018 BHMQMK
+1
+12/27/2018 BQIGW4
+1
+12/27/2018 BQIHSG
+1
+3/28/2019 BX330G
+1
+3/28/2019 BX33IX
+1
+3/28/2019 BX33M2
+1
+3/28/2019 BX33TM
+1
+3/28/2019 JX34X7
+1
+10/30/2019 BRCMQC
+1
+10/30/2019 BRCMYD
+1
+10/30/2019 BRCMT4
+1
+2/27/2020 BAXQ2Z
+1
+6/29/2021 BYAISM
+1
+10/27/2021 BHMVJ6
+2
+7/30/2018 BDKNKG
+2
+7/30/2018 BDKNL7
+2
+9/26/2018 BHMQF6
+2
+9/26/2018 BHMQDY
+2
+9/26/2018 BHMQHC
+2
+12/27/2018 BQHKG4
+2
+12/27/2018 BQHKBC
+2
+12/27/2018 BQHJ8N
+2
+2/27/2019 BVPNUA
+2
+6/27/2019 BGHDCC
+2
+9/27/2019 BNV624
+3
+10/30/2019 BRCC9P
+3
+10/30/2019 BRCC8E
+3
+10/30/2019 BRCC6J
+3
+11/25/2019 BTBMPS
+3
+4/29/2020 BJ0J7I
+3
+10/29/2018 BKAAU0
+3
+11/29/2018 BMQDP3
+3
+11/29/2018 BMQDFM
+3
+1/30/2019 BTHC5C
+3
+4/29/2019 BBUMY8
+3
+5/30/2019 BEET9S
+3
+6/27/2019 BGHM8Y
+3
+11/25/2019 BTA036
+3
+12/30/2019 BVURJ8
+3
+2/27/2020 BAWYZP
+3
+5/28/2020 BMV8GJ
+3
+5/28/2020 BMWCJE
+3
+6/29/2020 BQAVVK
+10/28/2020 BAGK0Q
+3
+3
+1/28/2021 BIMTCN
+3
+11/25/2019 BTBIPP
+4
+12/12/2018 BPEF9S
+5
+8/27/2018 BFE10K
+6
+2/5/2019 BTX00Q
+7
+4/10/2019 BY6RR9
+8
+5/21/2019 BDPLXR
+9
+7/25/2019 BITH6L
+10
+5/7/2020 BKV6AU
+11
+12/2/2020 BDFXZJ
+
+Short Term Switch,
+Exchange/ROR, or
+Both
+Short‐Term Switch
+Both
+Short‐Term Switch
+Both
+Short‐Term Switch
+Short‐Term Switch
+Both
+Short‐Term Switch
+Short‐Term Switch
+Both
+Short‐Term Switch
+Short‐Term Switch
+Short‐Term Switch
+Both
+Both
+Exchange/ROR
+Short‐Term Switch
+Short‐Term Switch
+Short‐Term Switch
+Short‐Term Switch
+Short‐Term Switch
+Short‐Term Switch
+Short‐Term Switch
+Short‐Term Switch
+Both
+Short‐Term Switch
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+Exchange/ROR
+
+Total Restitution
+Partial Restitution
+Total Restitution Yet
+(without interest)
+Paid
+to be Paid
+$
+2,250.00 $
+‐
+$
+2,250.00
+$
+2,137.50 $
+1,800.00 $
+337.50
+$
+2,025.00 $
+‐
+$
+2,025.00
+$
+1,900.00 $
+1,598.54 $
+301.46
+$
+1,700.00 $
+‐
+$
+1,700.00
+$
+1,200.00 $
+‐
+$
+1,200.00
+$
+2,127.50 $
+‐
+$
+2,127.50
+$
+1,017.50 $
+‐
+$
+1,017.50
+$
+1,017.50 $
+‐
+$
+1,017.50
+$
+1,757.50 $
+1,480.00 $
+277.50
+$
+900.00 $
+‐
+$
+900.00
+$
+2,250.00 $
+‐
+$
+2,250.00
+$
+2,025.00 $
+‐
+$
+2,025.00
+$
+2,137.50 $
+1,800.00 $
+337.50
+$
+1,759.83 $
+1,479.90 $
+279.93
+$
+2,025.00 $
+1,800.00 $
+225.00
+$
+1,237.50 $
+‐
+$
+1,237.50
+$
+2,250.00 $
+‐
+$
+2,250.00
+$
+2,250.00 $
+‐
+$
+2,250.00
+$
+2,350.00 $
+‐
+$
+2,350.00
+$
+1,410.00 $
+‐
+$
+1,410.00
+$
+1,410.00 $
+‐
+$
+1,410.00
+$
+1,700.00 $
+‐
+$
+1,700.00
+‐
+$
+1,800.00
+$
+1,800.00 $
+$
+1,425.04 $
+1,138.94 $
+286.10
+$
+1,687.50 $
+‐
+$
+1,687.50
+$
+2,087.33 $
+‐
+$
+2,087.33
+$
+2,137.50 $
+1,800.00 $
+337.50
+$
+1,891.69 $
+1,590.94 $
+300.75
+$
+1,782.39 $
+1,498.90 $
+283.49
+$
+1,400.00 $
+1,200.00 $
+200.00
+$
+851.30 $
+‐
+$
+851.30
+$
+1,754.66 $
+1,475.55 $
+279.11
+$
+1,577.37 $
+‐
+$
+1,577.37
+330.00
+$
+1,540.00 $
+1,210.00 $
+$
+950.00 $
+800.00 $
+150.00
+$
+1,355.17 $
+1,063.77 $
+291.40
+$
+1,235.00 $
+1,040.00 $
+195.00
+$
+2,472.50 $
+‐
+$
+2,472.50
+$
+1,900.00 $
+‐
+$
+1,900.00
+$
+2,025.00 $
+1,687.50 $
+337.50
+$
+1,852.08 $
+1,557.59 $
+294.49
+$
+1,411.73 $
+‐
+$
+1,411.73
+$
+1,220.59 $
+975.40 $
+245.19
+$
+610.29 $
+487.74 $
+122.55
+$
+1,237.18 $
+970.65 $
+266.53
+$
+562.50 $
+‐
+$
+562.50
+$
+625.00 Satisfied
+$
+‐
+$
+283.77 Satisfied
+$
+‐
+$
+805.00 $
+700.00
+$105.00
+$
+597.43 Satisfied
+$
+‐
+$
+227.58 Satisfied
+$
+‐
+$
+400.00 Satisfied
+$
+‐
+$
+562.50 Satisfied
+$
+‐
+$
+400.00 Satisfied
+$
+‐
+$
+287.50 Satisfied
+$
+‐
+$
+287.50 Satisfied
+$
+‐
+$
+82,080.42
+Total: $
+49,253.72
+
+Attachment A
+
+Total To Be Paid by Customer:
+Customer 1
+$
+19,508.89
+Customer 2
+$
+17,568.43
+Customer 3
+$
+12,071.40
+Customer 4
+$
+105.00
+Customer 5
+Satisfied
+Customer 6
+Satisfied
+Customer 7
+Satisfied
+Customer 8
+Satisfied
+Customer 9
+Satisfied
+Customer 10
+Satisfied
+Customer 11
+Satisfied
+
+

@@ -1,0 +1,27 @@
+{
+  "Demographics": {
+    "Age": "NOTSPECIFIED",
+    "Employment": "NOTSPECIFIED",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "High",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "Self-directed online trading platform (equities, including low-priced securities)",
+    "InvestmentPurpose": "Speculation",
+    "RiskTolerance": "High",
+    "InvestmentAccountType": "NOTSPECIFIED"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "NOTSPECIFIED",
+    "FeesCommissionsPaid": "NOTSPECIFIED",
+    "ImpactOnPortfolio": "NOTSPECIFIED"
+  },
+  "BreachType": {
+    "CareObligationViolation": "Yes",
+    "DisclosureObligationViolation": "Yes",
+    "ConflictofInterestViolation": "Yes",
+    "ComplianceObligationViolation": "Yes"
+  },
+  "Overall summary": "SpeedTrader (formerly Mint Global Markets) failed to comply with best execution obligations from 2017 to present by not conducting proper reviews of execution quality and interjecting third parties between itself and the best markets. The firm failed to consider all relevant execution quality factors and did not compare its routing arrangements with competing markets. SpeedTrader also failed to disclose material aspects of its payment for order flow arrangements in Rule 606 reports, failed to implement a reasonably designed AML program to detect and report suspicious transactions, and falsely responded to Form CRS questions about its disciplinary history. The firm catered to 'speculative and high risk' retail investors, many of whom traded in low-priced securities, and failed to properly monitor patterns of potentially suspicious or manipulative trading activity, including instances where customers' trading represented significant portions of daily volume in thinly-traded securities."
+}

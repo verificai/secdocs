@@ -1,0 +1,356 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021070498103
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Kim R. Kunz (Respondent)
+Corporate Securities Representative
+CRD No. 718618
+
+Pursuant to FINRA Rule 9216, Respondent Kim R. Kunz submits this Letter of Acceptance,
+Waiver. and Consent (A WC) for the purpose of proposing a settlement of the alleged rule
+violations described below . Thi s A WC is submitted on the condition that. if accepted, FINRA
+will not bring any future actions against Respondent alleging violations based on the same
+factual findings described in this A WC.
+
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FIN RA without admitting
+or denying them:
+·
+
+BACKGROUND
+. Kunz first became registered with FINRA as an Investment Company and Variable
+Contracts Products Representative (IR), Direct Participation Programs Representative
+(DR), and General Securities Representative (GS) in 1980, through an association with a
+FINRA member firm. Since November 2017. Kunz has been registered as an IR. DR,
+General Securities Principal (GP). and Corporate Securities Representative (CS) through
+WestPark Capital , Inc. (CRD No. 39914). 1
+
+OVERVIEW
+Kunz recommended that two retail customers invest in a speculative. unrated debt
+security. In November 2019. Kunz ' s recommendation to Customer A resulted in a
+concentration of more than 65% of her liquid net worth in alternative investments. The
+recommendation was unsuitable for the customer based on her investment profile, and
+Kunz therefore violated FINRA Rules 2111 and 20 I 0. In February 2021, Kunz's
+recommendation to Customer B resulted in a concentration of more than 30% of her
+liquid net worth in alternative investments. The recommendation was not in the
+customer's best interest based on her investment profile, and Kunz therefore willfully
+violated Rule 15/-1 (a)( I) under the Securities Exchange Act of 1934 (Reg Bl) and
+violated FINRA Rule 20 I 0.
+1 For more infonnation about the respondent, visit BrokerCheck® at www.finra.org/brokercheck.
+
+FACTS AND VIOLATIVE CONDUCT
+
+1. Legal Framework
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation Bl under the Securities Exchange Act of 1934. Rule 15/-1 (a)( 1) of Reg
+Bl requires a broker. dealer, or a natural person associated with a broker or dealer, when
+making a recommendation of any securities transaction or investment strategy involving
+securities (including account recommendations) to a retail customer. to act in the best
+interest of that retail customer at the time the recommendation is made. without placing
+the financial or other interest of the broker, dealer, or associated person ahead of the
+interest of the retail customer. Reg Bl"s Care Obligation. set forth at Exchange Act Rule
+l 5/-l(a)(2)(ii). requires broker-dealers and their associated persons to exe rcise reasonable
+diligence, care, and skill to, among other things, have a reasonable basis to believe that
+the recommendation is in the best interest of a particular retail customer based on that
+retail customer·s investment profile and the potential risks, rewards, and costs associated
+with the recommendation. Regulation Bf defines a ..retail customer investment profile'· to
+include. but not be limited to, the customer"s age. other investments. financial situation
+and needs, tax status, investment objectives. investment experience, investment time
+horizon, liquidity needs, risk tolerance, and any other information the customer may
+disclose to the member or associated person in connection with such recommendation.
+A recommendation may not be in the best interest of a customer if it results in a
+concentration in a pa,ticular security or category of securities that creates a risk of loss
+inconsistent with the customer·s investment profile.
+Prior to June 30, 2020, FINRA Rule 2111 required members and associated persons to
+have a reasonable basis to believe that a recommendation of a transaction or investment
+strategy involving a security or securities to any customer is suitable for the customer,
+based on the information obtained through the reasonable diligence of the member or
+associated person to ascertain the customer' s investment profile. FINRA Rule 2111 is
+still in effect, but as of June 30, 2020, it no longer applies to recommendations that are
+subject to Reg BL FINRA Rule 2111 defines a customer's investment profile to include
+the same information as under the Care Obligation.
+A violation of Reg Bl or FINRA Rule 2111 also is a violation of FIN RA Rule 20 I 0.
+which requires associated persons to ''observe high standards of commercial honor and
+just and equitable principles of trade"' in the conduct of their business.
+
+2
+
+2. GWG Holdings, Inc.
+GWG is a publicly traded financial services company. Prior to 2018. GWG purchased life
+insurance policies through its subsidiaries on the secondary market. GWG continued to
+pay the premiums for each policy that it purchased and collected the policy benefits upon
+the insured·s death. Following a series oftransactions in 2018 and 2019 with Beneficient
+Company Group, L.P., GWG reoriented its business, stopped acquiring life insurance
+policies. and focused instead on developing a business model of providing liquidity to
+holders of illiquid investments and alternative assets.
+GWG had a history of net losses and had not generated s ufficient operating and investing
+cash flows to fund its operations. To finance its operations, GWG offered corporate
+bonds (known as L Bonds) to investors with varying maturity periods and interest rates. L
+Bonds were not directly secured by GWG's life insurance portfolio and were not rated by
+any bond rating agency.
+GWG sold L Bonds to retail investors in four separate offerings and made those sales
+through a network of broker-dealers, including WestPark, which entered into an
+agreement with GWG to sell L Bonds in July 2016 and approved the product for sale by
+its registered representatives. The offering documents for the third and fomth L Bond
+offerings, which commenced in December 2017 and June 2020, respectively, stated the
+bonds could be considered speculative, involved a high degree of risk. were illiquid, and
+were only suitable for persons with substantial financial resources and with no need for
+liquidity.
+In Januaiy 2022. after Kunz's customers made investments in the L Bonds. GWG
+defaulted on its obligations to L Bond investors and suspended further sales of L Bonds.
+In April 2022, GWG filed for bankruptcy.
+
+3. Kunz's Recommendations to the Customers
+
+Customer A
+In December 2015, Customer A opened an account at WestPark through Kunz. She
+reported a moderate risk tolerance and had a liquid net worth of $428,000. Customer A's
+stated investment objective was growth and income, and it did not include speculation.
+Kunz recommended that Customer A invest $47,000 in GWG L Bonds from the third
+offering in November 2019. Kunz earned $1,927 in commission in connection with this
+recommendation. As a result of this investment, combined with prior investments
+recommended by Kunz, the customer now had more than 65% of her liquid net worth in
+alternative investments. Kunz's recommendation that the customer invest $47,000 in L
+Bonds was not suitable for Customer A based on her investment profile, including her
+moderate risk tolerance, in light of the high degree of risk associated with the L Bonds.
+Therefore, Kunz violated FINRA Rules 2111 and 20 I 0.
+
+3
+
+Customer B
+In July 2015, Customer B opened an account at WestPark through Kunz. She reported a
+moderate risk tolerance, an annual income of less than $ I 00,000, and a liquid net worth
+of $655,000. The customer's stated investment objective was income, and it did not
+include speculation.
+Kunz recommended that Customer B invest $50.000 in GWG L Bonds from the third
+offering in March 2020. In February 2021, with the customer already having invested
+$50,000 in L Bonds, Kunz recommended that the customer invest an additional $147,000
+in the fourth offering of L Bonds. As a result of this investment. combined with the prior
+L Bond investment Kunz recommended, Customer B now had more than 30% of her
+liquid net worth invested in L Bonds. Kunz's recommendation that the customer invest an
+additional $147,000 in L Bonds was not in Customer B · s best interest based on her
+investment profile. including her moderate risk tolerance, in light of the high degree of
+risk associated with the L Bonds. 2
+Therefore, Kunz willfully violated Exc hange Act Rule 15/-1 (a)( I) and violated FINRA
+Rule 2010.
+
+8.
+
+Respondent also consents to the imposition of the following sanctions:
+•
+
+a three-month suspension from associating with any FINRA member in all
+capacities:
+
+•
+
+a $7.500 fine; and
+
+•
+
+partial restitution of $1.927 plus interest a described below. 3
+
+Respondent agrees to pay the monetary sanctions upon notice that this A WC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which he proposes to pay the fine
+imposed.
+Partial restitution is ordered to be paid to the customer listed on Attachment A to this
+A WC (Eligible Customer) in the total amount of $1,927. plus interest at the rate set forth
+in Section 6621(a)(2) of the Internal Revenue Code. 26 U.S.C. § 6621(a)(2), from
+November 22, 2019 until the date this A WC is accepted by the National Adjudicatory
+Council (NAC).
+Respondent shall submit satisfactory proof of payment of restitution and interest
+(separately specifying the date and amount of each paid to the Eligible Customer) or of
+reasonable and documented efforts undertaken to etlect restitution. Such proof shall be
+~ Customer B brought and settled an arbitration against WestPark relating to her GWG L Bond investments. Kunz
+contributed the funds for the settlement.
+J The amount of partial restitution is equal to the commission received by Kunz for Customer A's L Bond purchase.
+
+4
+
+submitted by email to EnforcementNotice@ FlNRA.org. The email must identify
+Respondent and the case number and include a copy of the check, money order. or other
+method of payment. This proof shall be provided by email to
+EnforcementNotice@ FINR,A.org no later than 120 days after the date of the notice of
+acceptance of the A WC. ·
+The restitution amount plus interest to be paid to the Eligible Customer shall be treated
+by the Respondent as the Eligible Customer's property for purposes of state escheatment.
+unclaimed property. abandoned property, and similar laws. If after reasonable and
+documented efforts unde11aken to effect restitution Respondent is unable to pay the
+Eligible Customer within 120 days after the date of the notice of acceptance of the A WC,
+Respondent shall submit to FINRA in the manner described above a description of
+Respondent's plan. not unacceptable to FINRA, to comply with the applicable
+escheatment. unclaimed prope11y. abandoned property. or similar laws for the Eligible
+Customer.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this A WC. the monetary sanctions imposed in this
+matter.
+The imposition of a restitution order or any other monetary sanction in this A WC, and the
+timing of such ordered payments, does not preclude customers from pursuing their own
+actions to obtain restitution or other remedies.
+Respondent understands that if he is barred or suspended from associating with any
+FlNRA member, he becomes subject to a statutory disqualification as that term is defined
+in Article lll, Section 4 of FIN RA 's By-Laws. incorporating Section 3(a)(39) of the
+Securities Exchange Act of 1934. Accordingly, he may not be associated with any
+FINRA member in any capacity, including clerical or ministerial functions, during the
+period of the bar or suspension. See FINRA Rules 8310 and 8311.
+Respondent understands that this settlement includes a finding that he willfully violated
+Rule I5/-1 of the Securities Exchange Act of 1934 and that under Article UI, Section 4 of
+FlNRA's By-Laws, this makes him subject to a statutory disqualification with respect to
+association with a member.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+
+II.
+
+W AIYER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA 's
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against him;
+
+5
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a nearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the NAC and then to the U.S. Securities and
+Exchange Commission and a U.S. Court of Appeals.
+
+Further. Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer. the NAC. or any member of the NAC, in connection with such
+person's or body's participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this A WC. including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144. in connection with such person's or body's participation in discussions
+regarding the terms and conditions of this A WC, or other consideration of this A WC, including
+its acceptance or rejection.
+
+Ill.
+
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this A WC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC. a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FIN RA Rule
+9216;
+
+B.
+
+If this AWC is not accepted. its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+I.
+
+this A WC will become part of Respondent's permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent:
+
+2.
+
+this AWC will be made available through FINRA's public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+6
+
+4.
+
+D.
+
+Respondent may not take any action or make or permit to be made any
+public statement. including in regulatory filings or otherwise, denying.
+directly or indirectly. any finding in this AWC or create the impression
+that the A WC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FIN RA. or to which
+FIN RA is a party, that is inconsistent with any part of this A WC. Nothing
+in this provision affects Respondent's right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent"s testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondent may attach a corrective action statement to this A WC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that he may not deny the charges or make any statement
+that is inconsistent with the A WC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+7
+
+Respondent certifies that he has read and understands all or the provisions of this A WC and has
+been given a full oppot1tmity to ask questions about it: Respondent has agreed to the A WC' s
+pro\'isions voluntarily: and no offer. threat inducement. or promist'. of an) kind. other than the
+terms set forth in this AWC and the prospect of a\ oiding the issuance of a complaint. has been
+made to induce him to submit this AWC.
+
+M~'--t"----
+
+Respondent
+
+Julie Kamps. Esq.
+Counsel for Respondent
+1800 Centttr) Park East. Suite 220
+Los Angeles. California 90067
+
+Accepted b) I !NRA:
+Signed on behal r of the
+Dirtctor of OI A. b} delegated authorit~
+
+8/5/2024
+Date
+
+Seth Kean
+Senior Counsel
+
+FINRA
+Department of Enforcement
+13rook.field Place. 200 l. iben) Street
+'\Jew Y ork. NY I 028 I
+
+RESTITUTION SCHEDULE
+
+Customer
+
+Investment And Date
+
+Restitution Amount
+(exclusive of interest)
+
+A
+
+GWG L Bonds - November
+22,2019
+
+$1,927
+
+

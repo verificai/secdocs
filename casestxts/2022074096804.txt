@@ -1,0 +1,702 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2022074096804
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Investment Network, Inc. (Respondent)
+Member Firm
+CRD No. 127724
+Gary L. Arnold (Respondent)
+General Securities Principal
+CRD No. 852859
+
+Pursuant to FINRA Rule 9216, Respondents Investment Network, Inc. and Gary L. Arnold
+submit this Letter of Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a
+settlement of the alleged rule violations described below. This AWC is submitted on the
+condition that, if accepted, FINRA will not bring any future actions against Respondents alleging
+violations based on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondents accept and consent to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Investment Network Inc. (INI) became a FINRA member firm in 2003. The firm is
+headquartered in Canton, Ohio, and conducts a general securities business. The firm has
+approximately 20 registered representatives and five branch offices. 1
+Arnold first became registered with FINRA in 1987. Since October 2003, Arnold has
+been registered as a General Securities Principal through an association with INI. From at
+least February 2019 to the present, Arnold was INI’s President, Chief Executive Officer,
+and Chief Compliance Officer. 2
+
+1
+
+For more information about the firm, including prior regulatory events, visit BrokerCheck® at
+www.finra.org/brokercheck.
+2
+
+For more information about Arnold, visit BrokerCheck® at www.finra.org/brokercheck.
+
+OVERVIEW
+First, INI engaged in various types of misconduct in connection with recommendations
+and sales to retail customers of private placement offerings of pre-initial public offering
+(pre-IPO) funds (the Offerings) that took place between October 2020 and May 2021:
+
+
+INI engaged in a deceptive course of business by misrepresenting to investors that
+it would receive only a ten percent sales commission from its sale of the Offerings
+when, in fact, INI had an agreement with the Offerings’ issuer (the Issuer) to
+receive an additional five percent in selling compensation as well as half of any
+carried interest. INI never disclosed this agreement or the additional
+compensation it would receive to investors. As a result, INI violated FINRA Rule
+2010, both independently and by virtue of contravening Section 17(a)(3) of the
+Securities Act of 1933. INI also willfully violated Regulation Best Interest (Reg
+BI), set forth at Exchange Act Rule 15l-1(a)(1), by failing to comply with Reg
+BI’s Disclosure Obligation, set forth at Rule 15l-1(a)(2)(i)(B), and violated
+FINRA Rule 2010.
+
+
+
+INI lacked a reasonable basis to believe that the Offerings were in the best
+interests of at least some retail customers. Prior to recommending and selling the
+Offerings, INI failed to confirm that the Issuer had possession of or access to the
+pre-IPO shares identified in the offering documents or that the Issuer’s prices and
+markups were reasonable and not excessive. As a result, INI willfully violated
+Reg BI by failing to comply with Reg BI’s Care Obligation, set forth at Exchange
+Act Rule 15l-1(a)(2)(ii)(A), and violated FINRA Rule 2010.
+
+
+
+In contravention of the Bank Secrecy Act and its implementing regulations, INI
+failed to implement a reasonable Customer Identification Program (CIP) for
+customer accounts that were opened by the representatives who sold the
+Offerings. INI approved the opening of these accounts without receiving
+sufficient information to verify customer identity. As a result, INI violated
+FINRA Rules 3310(b) and 2010.
+
+
+
+INI failed to make required filings with FINRA in connection with the Offerings.
+As a result, INI violated FINRA Rules 5123 and 2010.
+
+Second, INI and Arnold failed to establish, maintain, and enforce a reasonable
+supervisory system, including written supervisory procedures (WSPs), in the following
+respects:
+
+
+Between October 2020 and May 2021, INI and Arnold failed to establish,
+maintain, and enforce a reasonable supervisory system, including WSPs, to
+achieve compliance with Reg BI’s Care Obligation with respect to the firm’s
+recommendations of private placement offerings. The firm had no WSPs related
+to private placement offerings, including compliance with Reg BI’s Care
+Obligation and did not designate a supervisor with responsibility for supervising
+such offerings. In practice, the firm failed to conduct reasonable due diligence on
+2
+
+the Offerings and failed to supervise recommendations of the Offerings to ensure
+that those recommendations were in customers’ best interest. Finally, the firm had
+no WSPs related to making private placement filings with FINRA pursuant to
+FINRA Rule 5123. As a result, INI willfully violated Reg BI by failing to comply
+with Reg BI’s Compliance Obligation, set forth at Exchange Act Rule 15l1(a)(2)(iv), and INI and Arnold violated FINRA Rules 3110 and 2010.
+
+
+From at least February 2019 to the present, INI and Arnold failed to establish,
+maintain, and enforce a supervisory system, including WSPs, reasonably designed
+to achieve compliance with the suitability requirements of FINRA Rule 2111 and,
+as of June 30, 2020, Reg BI’s Care Obligation, regarding excessive trading. As a
+result, INI violated Reg BI by failing to comply with Reg BI’s Compliance
+Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(iv), and INI and Arnold
+violated FINRA Rules 3110 and 2010
+
+
+
+From June 30, 2020, to the present, INI and Arnold failed to establish any written
+supervisory procedures concerning Reg BI, and therefore failed to establish,
+maintain, and enforce WSPs reasonably designed to achieve compliance with Reg
+BI. As a result, INI willfully violated Reg BI by failing to comply with Reg BI’s
+Compliance Obligation, and INI and Arnold violated FINRA Rules 3110 and
+2010.
+FACTS AND VIOLATIVE CONDUCT
+
+The matters covered by this AWC arose from a review of INI’s pre-IPO offerings, as well
+as from a cycle examination of the firm.
+A.
+
+INI failed to disclose a conflict of interest by misrepresenting the amount of
+compensation it received from sales of the Offerings.
+
+Section 17(a) of the Securities Act provides that:
+It shall be unlawful for any person in the offer or sale of any
+securities . . . by the use of any means or instruments of
+transportation or communication in interstate commerce or by the
+use of the mails, directly or indirectly . . .
+(3) to engage in any transaction, practice, or course of
+business which operates or would operate as a fraud or
+deceit upon the purchaser.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation BI under the Securities Exchange Act of 1934. Rule 15l-1(a)(1) of Reg
+BI requires a broker, dealer, or a natural person associated with a broker or dealer, when
+making a recommendation of any securities transaction or investment strategy involving
+securities (including account recommendations) to a retail customer, to act in the best
+interest of that retail customer at the time the recommendation is made, without placing
+3
+
+the financial or other interest of the broker, dealer, or associated person ahead of the
+interest of the retail customer.
+Reg BI’s Disclosure Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(i), requires
+broker-dealers and associated persons to provide retail customers full and fair written
+disclosure, prior to or at the time of the recommendation, of all material facts relating to
+conflicts of interest that are associated with the recommendation. 3 Reg BI defines a
+“conflict of interest” to be an interest that might incline a broker-dealer or an associated
+person—consciously or unconsciously—to make a recommendation that is not
+disinterested. Reg BI’s Adopting Release provides that broker-dealers and associated
+persons must disclose material facts relating to compensation associated with
+recommendations to retail customers and related conflicts of interest. This disclosure
+should summarize how the broker-dealer and associated persons are compensated for
+their recommendations and the conflicts of interest that such compensation creates. This
+summary should include the sources and types of compensation received. 4
+FINRA Rule 2010 requires that FINRA members observe high standards of commercial
+honor and just and equitable principles of trade in the conduct of their business. A
+violation of Section 17(a) of the Securities Act or Reg BI is also a violation of FINRA
+Rule 2010. In addition, making a material misrepresentation or omitting a material fact to
+customers independently violates FINRA Rule 2010, as it is inconsistent with just and
+equitable principles of trade.
+In the fall of 2020, four registered representatives requested that INI allow them to sell
+the Offerings to retail customers.5 The Offerings purportedly provided investors the
+opportunity to own interests in pre-IPO companies. The pre-IPO shares were the
+Offerings’ sole purported asset.
+In October 2020, Arnold approved the Offerings on behalf of INI, and in November
+2020, he executed a written agreement with the Issuer under which INI agreed to act as a
+placement agent for the Offerings.6 The written agreement between the Issuer and INI
+stated that INI was entitled to a ten-percent sales commission and half of any carried
+interest collected by the Issuer. 7 Separately, the Issuer and an INI representative agreed
+that the Issuer would pay INI an additional five percent in selling compensation, for a
+3
+
+Reg BI’s Adopting Release states that a fact is “material” if there is a substantial likelihood that a reasonable retail
+customer would consider it important. Regulation Best Interest: The Broker-Dealer Standard of Conduct, Exchange
+Act Release No. 86031, 84 FR 33318 at 33347 (July 12, 2019) (“Adopting Release”).
+4
+
+Adopting Release at 33363.
+
+5
+
+FINRA has sanctioned three of these representatives for their failure to respond to requests for testimony that were
+issued pursuant to FINRA Rule 8210 (each received a bar from association with any FINRA member in all
+capacities).
+6
+
+The issuer is a non-registered limited liability company that established multiple private funds. Each fund issued
+different series of investments offering pre-IPO shares of private companies.
+7
+
+Carried interest is a share of profits payable to investment managers rather than investors. Here, the Issuer retained
+as carried interest 20 percent of any profits following the IPOs of the private companies.
+
+4
+
+total of 15 percent. Although Arnold was not aware of this agreement for extra
+compensation, the firm should have discovered and disclosed it based on the size of the
+Issuer’s payments to the firm, which reflected 15 percent in selling compensation.
+From December 2020 to May 2021, INI disseminated offering documents to prospective
+investors in the Offerings—including a private placement memorandum, series
+investment letters, and subscription agreements—that falsely stated that INI was entitled
+to only a ten-percent sales commission and omitted its share of half of the carried interest.
+Customers who invested in the Offerings then received “welcome letters” from the
+Issuer, which repeated the false statement that INI received only a ten-percent
+commission and omitted its share of half of the carried interest.
+In total, the four representatives recommended and sold the Offerings to 36 retail
+customers. The total principal amount of the investments was $2,352,900, and INI
+received $116,745 in undisclosed commissions. INI passed along 91 percent of the total
+commissions it received in connection with the Offerings to the four representatives and
+retained $63,769.60 in commissions and carried interest.
+No one associated with INI ever informed customers that the issuer had entered into an
+agreement to pay INI 50 percent more in selling compensation than INI had disclosed to
+customers. These misrepresentations and omissions regarding the firm’s entitlement to
+selling compensation were material and misleading because they gave potential investors
+inaccurate information about the firm’s financial incentive to recommend the Offerings,
+which was a conflict of interest that could influence the firm’s recommendations.
+Therefore, INI violated FINRA Rule 2010, both independently and by virtue of
+contravening Section 17(a)(3) of the Securities Act, willfully violated Exchange Act Rule
+15l-1(a)(1) by failing to comply with Reg BI’s Disclosure Obligation, and thereby also
+violated FINRA Rule 2010.
+B.
+
+INI lacked a reasonable basis to recommend the Offerings.
+
+Reg BI’s Care Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(ii), requires brokerdealers and their associated persons to exercise reasonable diligence, care, and skill to,
+among other things, understand the potential risks, rewards, and costs associated with a
+recommendation. Reg BI’s Adopting Release provides that what constitutes “reasonable
+diligence” depends on, among other things, the complexity of, and risks associated with,
+the recommended security.8 The Care Obligation requires broker-dealers and their
+associated persons to have a reasonable basis to believe that the recommendation could
+be in the best interest of at least some retail investors.
+When a broker-dealer is engaged in selling a private placement, compliance with the Care
+Obligation requires the broker-dealer to conduct a reasonable investigation, or due
+diligence, prior to recommending the offerings to its customers. Regulatory Notice 10-22
+8
+
+Adopting Release at 33376.
+
+5
+
+provides that such due diligence should include, at a minimum, a reasonable investigation
+concerning the issuer and its management, the assets held by or to be acquired by the
+issuer, the claims being made, and the intended use of proceeds of the offering. 9
+INI did not conduct reasonable due diligence before recommending the Offerings to 36
+retail customers who purchased the Offerings, and therefore lacked a reasonable basis for
+those recommendations. INI failed to take reasonable steps to verify whether the Issuer
+had access to, or possession of, the pre-IPO shares in the companies that were the subject
+of the Offerings, even though acquiring an interest in such shares was the sole purpose of
+investing in the Offerings. Because investors in the Offerings receive shares in the
+companies at issue only after the companies have held IPOs, and many of the companies
+at issue have not yet done so, it remains unknown whether the Issuer, in fact, possesses
+the pre-IPO shares it purported to sell. Moreover, despite knowing that the Issuer applied
+markups to the pre-IPO shares—in other words, the Issuer charged a higher price when
+selling the shares to the pre-IPO fund than the Issuer had paid to acquire the shares—INI
+did not take reasonable steps to determine the amount of these markups.
+As a result, at the time INI recommended the Offerings to its customers, the firm had no
+reasonable basis to believe that the Issuer had access to or possession of the pre-IPO
+shares identified in the offering documents, or that the Issuer’s prices and markups were
+reasonable and properly disclosed. In fact, the Issuer applied markups as high as 39
+percent.10
+Therefore, INI willfully violated Exchange Act Rule 15l-1(a)(1) by failing to comply
+with Reg BI’s Care Obligation, and violated FINRA Rule 2010.
+C.
+
+INI failed to implement its Customer Identification Program with respect to
+investors in the Offerings.
+
+FINRA Rule 3310(b) requires each member to “[e]stablish and implement policies,
+procedures, and internal controls reasonably designed to achieve compliance with the
+Bank Secrecy Act [31 U.S.C. 5311, et seq.] and the implementing regulations
+thereunder.” The BSA and its implementing regulations require, among other things, that
+each broker-dealer establish and maintain a written Customer Identification Program
+(CIP) appropriate for the firm’s size and business and that the program contain risk-based
+procedures for verifying the identity of each customer to the extent reasonable and
+
+9
+
+Regulatory Notice 23-08 (May 9, 2023) updates and supplements, without altering, the guidance provided in
+Regulatory Notice 10-22.
+10
+
+On May 13, 2022, the SEC filed a lawsuit in the Southern District of New York against the Issuer and its
+principals. Among other things, the SEC alleged that the Issuer committed fraud by charging undisclosed, excessive
+markups and not having enough pre-IPO shares to satisfy its sales to investors. On June 14, 2022, the court entered a
+stipulation and consent order granting a preliminary injunction and other relief, including appointment of a receiver
+for the Issuer. On November 28, 2023, the U.S. Attorney’s Office for the Southern District of New York filed a
+criminal case naming principals of the Issuer as defendants in a multi-count indictment including various felonies,
+including fraud and conspiracy to obstruct justice.
+
+6
+
+practicable.11 A broker-dealer must obtain certain customer identifying information and
+verify the identity of each customer within a reasonable time before or after an account is
+opened.12 CIPs must also include procedures for responding to circumstances in which
+the broker-dealer cannot form a reasonable belief that it knows the true identity of a
+customer, which should include a description of when the broker-dealer should not open
+an account and when the broker-dealer should close an account after attempts to verify a
+customer’s identity have failed. A violation of Rule 3310 also constitutes a violation of
+FINRA Rule 2010.
+INI failed to implement its written CIP for more than 20 customers of the four
+representatives who sold the Offerings. The firm’s written CIP procedures required that
+the firm verify the identity of its customers and maintain records of any documentation
+used to verify customers’ identities. Typically, INI used new account forms to collect
+sufficient information to verify customers’ identities and customer profile information.
+For customer verification, these forms required customers to provide, among other things,
+their social security number, personal identification such as a driver’s license or passport,
+and address. However, when the four representatives joined INI from another brokerdealer, over 20 customer accounts were transferred from the prior firm to INI based
+solely on a one-page authorization form. That form was executed by the customers and
+sent to INI’s clearing firm, the same clearing firm utilized by the representatives’ former
+firm. The form contained no identifying information for the customers beyond their name
+and account number at their prior firm. Based on this information alone, INI could not
+verify the customers’ identities. Although INI reminded the four representatives to ensure
+that their customers ultimately completed new account forms, the firm did not impose a
+deadline or follow up when customers failed to complete these forms. Nor did the firm
+take any steps in the meantime to otherwise ensure that these customers produced
+sufficient information to allow INI to verify their identities.
+As a result, at the time they invested in the Offerings, only 13 of the 36 investors had
+completed new account forms or otherwise provided information from which INI could
+verify their identities. Six investors did not complete new account forms or otherwise
+provide such information to INI until FINRA made a request for this information years
+after the Offerings closed, and the firm was never able to produce new account forms or
+otherwise demonstrate receipt of this information for three other investors.
+By failing to implement a CIP that was reasonably designed to achieve compliance with
+the BSA and its implementing regulations, INI violated FINRA Rules 3310(b) and 2010.
+D.
+
+INI failed to make required filings pursuant to FINRA Rule 5123.
+
+FINRA Rule 5123 requires that each member that sells a security in a non-public offering
+in reliance on an available exemption from registration under the Securities Act:
+(i) submit to FINRA, or have submitted on its behalf, a copy of any private placement
+11
+
+See 31 U.S.C. § 5318(l) and 31 C.F.R. § 1023.220.
+
+12
+
+See 31 C.F.R. § 1023.220(a)(2)(i) and § 1023.220(a)(2)(ii).
+
+7
+
+memorandum, term sheet or other offering document, used in connection with such sale
+within 15 calendar days of the date of first sale; or (ii) notify FINRA that no such
+offering documents were used. Rule 5123 was implemented to, as described in FINRA
+Regulatory Notice 12-40, “enhance oversight and investor protection” and provide “more
+timely and complete information about the private placement activities of firms on behalf
+of other issuers.” A violation of FINRA Rule 5123 is also a violation of FINRA Rule
+2010.
+From December 2020 to May 2021, INI sold 13 new Offerings to customers, but failed to
+file the private placement memorandum and other offering documents with FINRA.
+Therefore, INI violated FINRA Rules 5123 and 2010.
+E.
+
+INI and Arnold failed to establish, maintain, and enforce a supervisory
+system, including written supervisory procedures, reasonably designed to
+achieve compliance with Reg BI and FINRA rules relating to (1) the sale of
+private placements and (2) identifying and addressing potentially excessive
+trading.
+
+Reg BI’s Compliance Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(iv), requires
+a broker-dealer to establish, maintain, and enforce written policies and procedures
+reasonably designed to achieve compliance with Reg BI, including the Disclosure and
+Care Obligations. Reg BI’s Adopting Release provides that broker-dealers should
+consider the nature of that firm’s operations and how to design such policies and
+procedures to prevent violations from occurring, detect violations that have occurred, and
+to correct promptly any violations that have occurred. 13
+FINRA Rule 3110(a) requires that FINRA members “establish and maintain a system to
+supervise the activities of each associated person that is reasonably designed to achieve
+compliance with applicable securities laws and regulations, and with applicable FINRA
+rules.” FINRA Rule 3110(b) requires that each FINRA member “establish, maintain, and
+enforce written procedures to supervise the types of business in which it engages and the
+activities of its associated persons that are reasonably designed to achieve compliance
+with the applicable securities laws and regulations, and with applicable FINRA rules.”
+INI and Arnold failed to reasonably supervise the Offerings.
+From at least February 2019 to the present, Arnold has served as INI’s President, CEO,
+and CCO. Throughout this period, the firm’s WSPs have tasked Arnold with
+responsibility for “the overall supervision of the firm’s operation and the maintenance of
+its supervisory system,” including maintaining and updating the firm’s WSPs. Between
+October 2020 and May 2021, when the firm sold the Offerings, Arnold failed to update
+INI’s WSPs to include any written policies and procedures regarding private placements.
+As a result, INI’s WSPs did not designate a supervisor with responsibility for supervising
+13
+
+Adopting Release at 33397.
+
+8
+
+private placement offerings, nor did the WSPs establish guidelines and processes for: (1)
+private placement due diligence and evidencing compliance with its due diligence
+obligations; (2) approval of private placement offerings; (3) compliance with private
+placement filing requirements under FINRA Rule 5123; or (4) compliance with Reg BI’s
+Care Obligation with respect to recommendations of the Offerings.
+INI’s system for supervising the Offerings was also not reasonably designed to achieve
+compliance with Reg BI’s Care Obligation or FINRA Rules. In practice, between
+October 2020 and May 2021, Arnold was responsible for all aspects of private placement
+supervision. As noted above, under Regulatory Notice 10-22, firms must conduct
+reasonable due diligence before selling private offerings to customers to ensure that firm
+representatives have a reasonable basis to recommend the offerings. Arnold approved the
+Offerings for sale by the four representatives without conducting reasonable due
+diligence on the Offerings or the Issuer or documenting any due diligence he conducted.
+As described above, among other things, Arnold failed to determine whether the Issuer
+possessed the pre-IPO shares, failed to determine the amount of the Issuer’s markups,
+failed to take reasonable steps to confirm that the offering documents conveyed accurate
+information to potential investors regarding the Issuer’s markups and INI’s entitlement to
+selling compensation, and failed to ensure that the firm made required filings with
+FINRA pursuant to Rule 5123. Moreover, Arnold took no steps to review
+recommendations of the Offerings to verify that those recommendations were consistent
+with customers’ investment profiles and in the customers’ best interest—indeed, as
+explained above, INI did not collect any customer profile information for 13 of the 36
+investors in the Offerings.
+Therefore, INI willfully violated Exchange Act Rule 15l-1(a)(1) by virtue of violating
+Reg BI’s Compliance Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(iv), and INI
+and Arnold violated FINRA Rules 3110 and 2010.
+INI and Arnold failed to establish, maintain, and enforce a supervisory system,
+including WSPs, reasonably designed to identify and address potentially excessive
+trading.
+As of June 30, 2020, Reg BI’s Care Obligation, set forth at Exchange Act Rule
+15l-1(a)(2)(ii), requires broker-dealers and their associated persons to exercise reasonable
+diligence, care, and skill to, among other things, have a reasonable basis to believe that a
+series of recommended transactions, even if in the retail customer’s best interest when
+viewed in isolation, is not excessive and is in the retail customer’s best interest in light of
+the retail customer’s investment profile.
+Prior to June 30, 2020, FINRA Rule 2111 required members and associated persons to
+have a reasonable basis to believe that a recommendation of a transaction or investment
+strategy involving a security or securities to any customer is suitable for the customer.
+Under Rule 2111 Supplementary Material .05 (Rule 2111.05), members and associated
+persons with actual or de facto control over an account were required to have a
+reasonable basis for believing that a series of recommended transactions, even if suitable
+9
+
+when viewed in isolation, is not excessive and unsuitable for the customer in light of the
+customer's investment profile. FINRA Rule 2111 is still in effect, but as of June 30, 2020,
+it no longer applies to recommendations that are subject to Reg BI, and the element of
+control was removed from the quantitative suitability component.
+Rule 2111.05 states that “[n]o single test defines excessive activity, but factors such as
+the turnover rate, the cost-to-equity ratio, and the use of in-and-out trading in a
+customer's account may provide a basis for a finding that a member or associated person
+has violated the quantitative suitability obligation.” Turnover rate represents the number
+of times that a portfolio of securities is exchanged for another portfolio of securities. The
+cost-to-equity ratio measures the amount an account must appreciate just to cover
+commissions and other expenses. In other words, it is the break-even point where a
+customer may begin to see a return. A turnover rate above six or a cost-to-equity ratio
+above 20 percent generally indicates that an account has been excessively traded.
+From at least February 2019 to the present, Arnold has failed to establish WSPs for INI
+that provide reasonable guidance for identifying and addressing potentially excessive
+trading. INI’s WSPs have therefore not been reasonably designed to achieve compliance
+with FINRA Rule 2111 and Reg BI’s Care Obligation as they pertain to excessive
+trading. The firm’s WSPs do not provide guidance about how to identify accounts that
+are excessively traded. For example, the WSPs do not identify what cost-to-equity ratio
+or turnover rate should trigger further review or what steps should be taken after
+identifying an account that was being excessively traded. Further, INI has no reports or
+alerts designed to identify factors that would indicate excessive trading, such as those that
+flag turnover and cost-to-equity ratios. The firm instead has relied primarily on a daily,
+manual trade-blotter review, but such review is not reasonably designed to identify
+patterns of excessive trading.
+Therefore, INI violated Exchange Act Rule 15l-1(a)(1) by virtue of violating Reg BI’s
+Compliance Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(iv), and INI and
+Arnold violated FINRA Rules 3110 and 2010.
+F.
+
+INI and Arnold failed to establish written policies and procedures reasonably
+designed to achieve compliance with Reg BI.
+
+From June 30, 2020, to the present, INI and Arnold failed to establish, maintain, and
+enforce written policies and procedures reasonably designed to achieve compliance with
+Reg BI. Despite awareness of Reg BI’s June 30, 2020, implementation date, Arnold
+never updated the firm’s WSPs to include policies or procedures regarding compliance
+with Reg BI’s requirements.
+Therefore, INI willfully violated Exchange Act Rule 15l-1(a)(1) by failing to comply
+with Reg BI’s Compliance Obligation, and INI and Arnold violated FINRA Rules 3110
+and 2010.
+B.
+
+Respondents also consent to the imposition of the following sanctions:
+10
+
+For Investment Network, Inc.:
+
+
+a censure;
+
+
+
+a 60-day suspension from conducting any private placement activities;
+
+
+
+a $210,000 fine;
+
+
+
+disgorgement of $63,769.60 plus interest as described below; and
+
+
+
+an undertaking requiring certification of the firm’s supervisory system, as more
+fully set forth below.
+Within 60 days of the date of the notice of acceptance of this AWC, a member of
+INI’s senior management who is a registered principal of the firm shall certify in
+writing that as of the date of the certification, the firm has remediated the issues
+identified in this AWC and implemented a supervisory system, including written
+supervisory procedures, reasonably designed to achieve compliance with
+Regulation BI regarding the issues identified in this AWC. The certification shall
+include a narrative description and supporting exhibits sufficient to demonstrate
+Respondent’s remediation and implementation. FINRA staff may request further
+evidence of Respondent’s remediation and implementation, and Respondent
+agrees to provide such evidence. Respondent shall submit the certification to
+Roger Kiley, Senior Counsel, FINRA, 55 West Monroe Street, Suite 2700,
+Chicago, IL 60603, with a copy to EnforcementNotice@finra.org. Upon written
+request showing good cause, FINRA staff may extend this deadline.
+
+For Gary Arnold:
+
+
+a three-month suspension from associating with any FINRA member firm in all
+principal capacities;
+
+
+
+a $10,000 fine; and
+
+
+
+a requirement that he requalify as a general securities principal by passing the
+requisite examination prior to acting in that capacity with any FINRA member.
+
+Respondents agree to pay the monetary sanctions upon notice that this AWC has been
+accepted and that such payments are due and payable. Respondents have submitted
+Election of Payment forms showing the methods by which they propose to pay the fines
+imposed.
+Disgorgement of commissions received is ordered to be paid by Respondent Investment
+Network, Inc., to FINRA in the amount of $63,769.60, plus interest at the rate set forth in
+Section 6621(a)(2) of the Internal Revenue Code, 26 U.S.C. § 6621 from September 21,
+20212, until the date this AWC is accepted by the National Adjudicatory Council (NAC).
+
+11
+
+Respondent Investment Network, Inc. understands that this settlement includes a finding
+that it willfully violated Exchange Act Rule 15l-1(a)(1) of the Securities Exchange Act of
+1934 and that under Article III, Section 4 of FINRA’s By-Laws, this makes Respondent
+subject to a statutory disqualification with respect to membership.
+Respondent Arnold understands that if he is barred or suspended from associating with
+any FINRA member in a limited capacity, he becomes subject to a statutory
+disqualification as that term is defined in Article III, Section 4 of FINRA’s By-Laws,
+incorporating Section 3(a)(39) of the Securities Exchange Act of 1934. Accordingly,
+Respondent Arnold may not be associated with any FINRA member in any principal
+capacity during the period of the bar or suspension. See FINRA Rules 8310 and 8311.
+Furthermore, because Respondent Arnold is subject to a statutory disqualification during
+the suspension, if he remains associated with a member firm in a non-suspended capacity,
+an application to continue that association may be required.
+Respondents specifically and voluntarily waive any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanctions imposed in this
+matter.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondents specifically and voluntarily waive the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against them;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the NAC and then to the U.S. Securities and
+Exchange Commission and a U.S. Court of Appeals.
+
+Further, Respondents specifically and voluntarily waive any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondents further specifically and voluntarily waive any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+12
+
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondents understand that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondents; and
+
+C.
+
+If accepted:
+
+D.
+
+1.
+
+this AWC will become part of Respondents’ permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondents;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondents may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondents may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondents’ right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondents’ testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondents may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondents understands that they may not deny the charges or make any
+statement that is inconsistent with the AWC in this statement. This statement does
+not constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+13
+
+The undersigned, on behalf of Respondents, cc1iific:. that a person duly authorized to act on
+Respondents' behalf has read and understand:; all ofthe provisions of this A WC and has been
+given a full opportunity to ask questions abou1. it: that Respondents have agreed to the AWC's
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind. other than
+the te1ms set forth in this A WC and the prospect 01 an)iding the issuance of a complaint. has
+been made to induce Respondents to submit this l . . WC.
+
+- ~La&J~
+
+hwcstm1.Jt!z:J·rk, Inc .
+Respondent
+
+hint Name'.~ , ~
+
+L. A12.v •~o _
+
+Tittc :~_tt_'(.-:.0....,.V~"Cl-------
+
+-:--~_£~
+(}ary A r ~ 7 Respondent
+
+]4
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+October 16, 2024
+
+Date
+
+Roger Kiley
+Senior Counsel
+FINRA
+Department of Enforcement
+55 W. Monroe, Suite 2700
+Chicago, Illinois 60603
+Eric M. Goldstein
+Director
+FINRA
+Department of Enforcement
+1700 K Street NW
+Washington, DC 20006
+
+15
+
+

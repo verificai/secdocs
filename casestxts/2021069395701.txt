@@ -1,0 +1,519 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021069395701
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Dalmore Group LLC (Respondent)
+Member Firm
+CRD No. 136352
+
+Pursuant to FINRA Rule 9216, Respondent Dalmore Group LLC submits this Letter of
+Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Dalmore has been a FINRA member since November 2005. The firm has approximately
+35 registered representatives, seven branches, and is headquartered in Woodmere, New
+York. Dalmore’s primary business is acting as broker-dealer of record for private
+offerings. Dalmore’s private offerings business includes, in some instances, having
+issuer-associated salespeople register with FINRA through an association with Dalmore,
+and providing due diligence, advertising review, investor suitability review, and other
+compliance services. Dalmore is compensated by, among other things, commissions on
+sales.
+In an AWC issued in March 2021, FINRA found that Dalmore failed to establish and
+maintain a supervisory system, including written supervisory procedures, reasonably
+designed to ensure compliance with the firm’s suitability obligations in private offerings
+between March 2017 and December 2018, in violation of FINRA Rules 3110 and 2010.
+FINRA found that the firm, rather than conducting an independent investigation of the
+offerings, relied almost exclusively on documentation and information provided by the
+issuers. FINRA also found that Dalmore failed to submit required offering documents to
+FINRA within 15 calendar days of the date of first sale for 26 private placements, from
+April 2017 through February 2019, in violation of FINRA Rules 5123 and 2010. Dalmore
+was censured and fined $40,000.1
+
+1
+
+For more information about the firm, including prior regulatory events, visit BrokerCheck® at
+www.finra.org/brokercheck.
+
+OVERVIEW
+From January 2019 to December 2022, Dalmore failed to establish and maintain a
+supervisory system, including written supervisory procedures, reasonably designed to
+achieve compliance with its suitability and best interest obligations in connection with its
+sale of private placements, in violation of Rule 15l-1(a)(1) under the Securities Exchange
+Act of 1934 (Regulation Best Interest or Reg BI), and FINRA Rules 3110 and 2010.
+During the same period, Dalmore failed to establish and maintain a reasonable
+supervisory system to prevent misuse of material non-public information, in violation of
+FINRA Rules 3110 and 2010.
+From January 2019 to the present, Dalmore has failed to fingerprint non-registered
+associated persons who are required to be fingerprinted, in violation of Section 17(f) of
+the Exchange Act, Exchange Act Rule 17f-2, and FINRA Rule 2010.
+From October 2019 to the present, Dalmore has failed to report, or to timely report, the
+outside business activities of ten of its registered representatives on their Uniform
+Applications for Securities Industry Registration (Forms U4), in violation of Article V,
+Section 2(c) of FINRA’s By-Laws and FINRA Rules 1122 and 2010.
+From October 2020 to the present, Dalmore has violated content standards in FINRA
+Rule 2210 through retail communications on three websites and in one web-based video
+series promoting the firm’s securities business.
+From May 2022 to at least September 2023, Dalmore failed to specify a date by which a
+private offering’s minimum raise contingency had to be met, and released investor funds
+to the issuer before the contingency was met, in willful violation of Section 10(b) of the
+Exchange Act and Exchange Act Rule 10b-9, and in violation of FINRA Rule 2010.
+Finally, from August 2022 to January 2023, Dalmore provided late, incomplete, and
+inaccurate responses to FINRA requests for documents and information, in violation of
+FINRA Rules 8210 and 2010.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from FINRA’s cycle exam of Dalmore.
+A. Dalmore failed to establish and maintain a supervisory system, including written
+supervisory procedures, reasonably designed to achieve compliance with its
+suitability and best interest obligations in connection with its sale of private
+placements.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation BI under the Securities Exchange Act of 1934. Rule 15l-1(a)(1) of Reg
+BI requires a broker, dealer, or a natural person associated with a broker or dealer, when
+making a recommendation of any securities transaction or investment strategy involving
+securities (including account recommendations) to a retail customer, to act in the best
+2
+
+interest of that retail customer at the time the recommendation is made, without placing
+the financial or other interest of the broker, dealer, or associated person ahead of the
+interest of the retail customer. Reg BI’s Compliance Obligation, set forth at Exchange
+Act Rule 15l-1(a)(2)(iv), requires a broker-dealer to establish, maintain, and enforce
+written policies and procedures reasonably designed to achieve compliance with Reg BI.
+Reg BI’s Adopting Release provides that broker-dealers should consider the nature of
+that firm’s operations and how to design such policies and procedures to prevent
+violations from occurring, detect violations that have occurred, and to correct promptly
+any violations that have occurred.2
+FINRA Rule 3110(a) requires that each member establish and maintain a system to
+supervise the activities of each associated person that is reasonably designed to achieve
+compliance with applicable securities laws and regulations, and with applicable FINRA
+rules. FINRA 3110(b) requires each member to establish, maintain, and enforce written
+procedures to supervise the types of business in which it engages and the activities of its
+associated persons that are reasonably designed to achieve compliance with applicable
+securities laws and regulations, and with applicable FINRA rules.
+A violation of Reg BI or FINRA Rule 3110 is also a violation of FINRA Rule 2010,
+which requires member firms, in the conduct of their business, to “observe high standards
+of commercial honor and just and equitable principles of trade.”
+Dalmore’s supervisory obligations include the obligation to review the activities of its
+associated persons to achieve compliance with the Care Obligation of Reg BI (Exchange
+Act Rule 15l-1(a)(2)(ii)), which requires broker-dealers and their associated persons to
+exercise reasonable diligence, care, and skill to, among other things, understand the
+potential risks, rewards, and costs associated with a recommendation. Prior to June 30,
+2020, FINRA Rule 2111 required members and associated persons to have a reasonable
+basis to believe that a recommendation of a transaction or investment strategy involving a
+security to any customer is suitable for the customer. FINRA Rule 2111 is still in effect
+but, as of June 30, 2020, it no longer applies to recommendations that are subject to Reg
+BI. Rule 2111.05(a) defines the reasonable-basis obligation to require members and their
+associated persons to have an understanding of the potential risks and rewards associated
+with the recommended security or strategy and to have a reasonable basis to believe,
+based on reasonable diligence, that the recommendation is suitable for at least some
+investors.
+Regulatory Notice 10-22 (April 20, 2010) reminded firms of their obligation to conduct a
+reasonable investigation of the issuer and the securities they recommend in connection
+with private placements. Firms may not rely solely upon the issuer for information
+concerning the issuer and while firms are not expected to have the same knowledge as an
+issuer or its management, they are required to conduct a reasonable investigation that
+independently verifies an issuer’s material representations and claims. To satisfy its
+
+2
+
+Regulation Best Interest: The Broker-Dealer Standard of Conduct, Exchange Act Release No. 86031, 84 FR 33318
+at 33397 (July 12, 2019).
+
+3
+
+obligations, a firm should, at a minimum, conduct a reasonable investigation of the issuer
+and its management; the business prospects of the issuer; the assets held by or to be
+acquired by the issuer; the claims being made; and the intended use of proceeds of the
+offering. Furthermore, to demonstrate that it has performed a reasonable investigation, a
+firm should retain records documenting both the process and results of its investigation.
+FINRA recently issued Regulatory Notice 23-08 (May 9, 2023) to reiterate and expand
+upon these principles.
+Between January 2019 and December 2022, Dalmore registered representatives
+recommended private placements to investors, including retail customers as defined by
+Reg BI, and received commissions on sales. Dalmore’s WSPs stated that some
+investigation into each private offering was required “as appropriate for the proposed
+offering.” Yet Dalmore did not consistently: (i) set forth what steps registered
+representatives and supervisors should take to investigate each offering; (ii) identify the
+individuals responsible for conducting, documenting, reviewing, and approving each
+investigation; or (iii) describe how a record of investigation into each private offering
+should be maintained.
+In the absence of such guidance, Dalmore failed to reasonably supervise its due diligence
+for each private offering. Although Dalmore asked issuers to complete a checklist of
+items for investigation, for some offerings, Dalmore had no checklist or other record of
+any investigation having been conducted; had a checklist that was missing information;
+or had a checklist completed by the issuer without any record of a supervisory review
+having been conducted by the firm.
+Dalmore’s WSPs did not reference Reg BI until February 28, 2021, eight months after
+Reg BI took effect. After February 2021, Dalmore’s WSPs provided only general
+information about the firm’s obligations under Reg BI, without tailoring that guidance to
+Dalmore’s business.
+Therefore, Dalmore violated Exchange Act Rule 15l-1(a)(1) and FINRA Rules 3110 and
+2010.
+B. Dalmore failed to establish and maintain a supervisory system, including written
+supervisory procedures, reasonably designed to prevent the misuse of material,
+non-public information.
+Brokerage firms that conduct investment banking are required to maintain a restricted
+list, to maintain a watch list, and to conduct reviews of employee and proprietary trading
+in securities appearing on those lists.3 A restricted list is usually distributed periodically
+throughout the firm to make employees aware of those securities that the firm is restricted
+or prohibited from recommending or trading.
+From at least January 2019 to December 2022, Dalmore’s supervisory system was
+unreasonable in the following respects: (i) Dalmore’s WSPs did not provide clear
+3
+
+Notice to Members 91-45 (NASD.NYSE Joint Memo) (June 21, 1991).
+
+4
+
+guidance on whether to distribute the firm’s restricted list to its registered representatives;
+(ii) until July 2021, the firm did not regularly distribute the restricted list to registered
+representatives and had no other method of identifying for representatives the securities
+that were restricted; and (iii) after July 2021, when it began regularly distributing its
+restricted list, the firm failed to regularly update the list to make it current.
+Therefore, Dalmore violated FINRA Rules 3110 and 2010.
+C. Dalmore failed to fingerprint associated persons.
+Exchange Act Rule 17f-2 requires all partners, directors, officers, and employees of
+broker-dealers, unless they are exempt, to be fingerprinted. Members are responsible for
+obtaining a prospective employee’s fingerprints and certain required identifying
+information so that the firm can determine whether the prospective employee is subject to
+statutory disqualification.4 A violation of Rule 17f-2 is also a violation of FINRA Rule
+2010.
+From January 2019 to the present, Dalmore has failed to fingerprint 45 non-registered
+associated persons who were not exempt from fingerprinting requirements.
+Therefore, Dalmore violated Section 17(f) of the Exchange Act, Exchange Act Rule 17f2, and FINRA Rule 2010.
+D. Dalmore failed to report or timely report outside business activities.
+Article V, Section 2(c) of FINRA’s By-Laws requires that every Form U4 be kept current
+through supplementary amendments within thirty days after learning of the facts or
+circumstances giving rise to the amendment. FINRA Rule 1122 prohibits members from
+filing with FINRA information with respect to registration which is incomplete or
+inaccurate so as to be misleading or failing to correct such filing after notice thereof. At
+all relevant times, Question 13 on the Form U4 requires the disclosure of other business
+activities. A violation of Article V, Section 2(c) of FINRA’s By-Laws or FINRA Rule
+1122 is also a violation of FINRA Rule 2010.
+Between October 2019 and the present, the firm has failed to report six outside business
+activities of six registered representatives on their Forms U4. During the same period,
+Dalmore untimely updated the Forms U4 of four other registered representatives to
+disclose another four outside business activities between two and nine months late. All of
+these outside business activities were disclosed to the firm at or around the time the
+representatives registered with FINRA through an association with the firm.
+Therefore, Dalmore violated Article V, Section 2(c) of FINRA’s By-Laws, and FINRA
+Rules 1122 and 2010.
+
+4
+
+Notice to Members 05-39 (May 26, 2005).
+
+5
+
+E. Dalmore violated FINRA’s standards for communications with the public.
+FINRA Rule 2210 sets forth content standards for member communications, including
+“retail communications,” defined as “any written (including electronic) communication
+that is distributed or made available to more than 25 retail investors within any 30
+calendar-day period.” FINRA Rule 2210(d)(1)(A) provides that all member
+communications
+must be based on principles of fair dealing and good faith, must be fair
+and balanced, and must provide a sound basis for evaluating the facts in
+regard to any particular security or type of security, industry, or service.
+No member may omit any material fact or qualification if the omission, in
+light of the context of the material presented, would cause the
+communications to be misleading.
+FINRA Rule 2210(d)(1)(B) states that “no member may make any false, exaggerated,
+unwarranted, promissory or misleading statement or claim in any communication. No
+member may publish, circulate or distribute any communication that the member knows
+or has reason to know contains any untrue statement of a material fact or is otherwise
+false or misleading.” FINRA Rule 2210(d)(1)(F) provides that “communications may not
+predict or project performance, imply that past performance will recur or make any
+exaggerated or unwarranted claim, opinion or forecast.” FINRA Rule 2210(e)(1), in
+pertinent part, prohibits communications that state or imply that FINRA, or any other
+regulatory organization, endorses the class or type of securities offered, or any specific
+security. A violation of FINRA Rule 2210 is also a violation of FINRA Rule 2010.
+From October 2020 to the present, Dalmore has violated FINRA Rule 2210’s content
+standards in retail communications on three websites and in one web-based video series,
+all featuring securities offerings with Dalmore as broker-dealer of record.
+Website A was created by a former registered representative of Dalmore to sell private
+offerings offered through Dalmore to foreign investors. Dalmore reviewed and approved
+the content of Website A, which failed to prominently disclose key risks of each offering
+made available on the website, and included statements that were unwarranted and
+promissory regarding investment and liquidity risk. For example, Website A stated that
+“the risk of getting your capital returned in a timely manner is manageable”; and
+“investors may be required to keep their money in the business for one year[, a]fter that
+time, they can sell whenever they like.” In addition, Website A featured sales pitch
+videos for private offerings that included (i) promissory and unwarranted claims, for
+example, that an offering was a “once-in-a-century opportunity”; (ii) prohibited
+projections of performance such as “[c]umulative distribution at exit, on a per-annum
+basis: 8%”; and (iii) financial forecasts, such as “[g]ross profits over 8 quarters [of] $160
+M,” that lacked a sound basis for evaluation, clear explanations of the key assumptions
+
+6
+
+underlying the forecasted metrics, and the key risks that may impede the achievement of
+the forecasted metrics.
+Website B, an online real estate investment platform, marketed private placement
+offerings sold through Dalmore and was reviewed and approved by the firm. Website B
+contained unwarranted and promissory statements, and prohibited quantified projections
+of performance, including internal rates of return and net operating income for specific
+investments.
+Website C marketed investments in collectible assets offered for sale under Regulation A.
+Dalmore reviewed and approved the content of Website C’s site and promoted the
+platform. Website C included statements that were exaggerated and unwarranted and
+failed to prominently disclose investment risks. Additionally, Website C stated that it
+“only offers securities that are regulated by the US Securities & Exchange Commission
+(the “SEC”) to protect our investors[,]” and “[a]ll of our investments are reviewed and
+vetted by a FINRA registered broker-dealer.” These statements impermissibly implied
+that the investments were safe or had been endorsed by the firm’s regulators.
+Finally, Dalmore served as broker-dealer of record for the offerings of securities under
+Regulation A promoted to the public in a multi-episode web-based video series that was
+reviewed and approved by the firm, and was used to promote start-up companies offering
+securities for sale under Regulation A through Dalmore. Each episode was made publicly
+available through broadcasts and publication on multiple social media platforms and a
+website dedicated to the series. The series included numerous statements that violated
+FINRA’s content standards, including by failing to prominently disclose key risks of each
+offering, and making unwarranted and promissory statements such as “[w]e believe that
+[an issuer] in the next 10 years will be the biggest music company in the world” and
+another issuer “could be producing potentially 2-3 times more cash flow current day if
+they were more aggressive with their advertising.”
+Therefore, Dalmore violated FINRA Rules 2210(d)(1)(A), (d)(1)(B), (d)(1)(F), (e)(1),
+and 2010.
+F. Dalmore failed to state a date by which a private placement offering’s minimum
+raise contingency had to be met, and approved investments for closure before
+the contingency was met.
+Certain private placements are structured as contingency offerings, i.e., securities offered
+on an “all-or-none” or “part-or-none” basis, which require all or a certain amount of the
+securities to be sold for the offering to close. Under Exchange Act Rule 10b-9, a
+contingency offering must provide for the prompt return of investor funds in the event the
+requisite contingency fails to be met by a certain date. If the minimum investment
+contingency amount is not raised by that date, the broker-dealer must terminate the
+offering and promptly return all funds to investors. While not a guarantee, satisfaction of
+a minimum contingency indicates to investors that the offering was priced fairly. A
+violation of Exchange Act Rule 10b-9 is also a violation of FINRA Rule 2010.
+
+7
+
+From May 2022 to at least September 2023, Dalmore participated in a private offering for
+a start-up seeking to acquire and operate certain franchises, with a minimum offering
+contingency. The private placement memorandum for this offering stated that there
+would be a minimum raise of $5,000,000 and a maximum raise of $24,500,000, with “an
+initial closing when [the issuer] has commitments for the Minimum Offering Amount”
+followed by additional closings on a rolling basis. Dalmore failed to specify an actual
+date by which the minimum contingency had to be met. Dalmore also approved over 50
+individual investments totaling approximately $3 million for disbursement to the issuer,
+on a rolling basis, while falling $2 million or more short of the contingency.
+Therefore, Dalmore willfully violated Section 10(b) of the Exchange Act and Exchange
+Act Rule 10b-9, and violated FINRA Rule 2010.
+G. Dalmore failed to provide timely, complete, and accurate responses to requests
+for documents and information.
+FINRA Rule 8210(a)(1) authorizes FINRA to require its member firms and their
+associated persons “to provide information orally, [or] in writing, . . . with respect to any
+matter involved in the investigation.” Likewise, FINRA Rule 8210(a)(2) authorizes
+FINRA to “inspect and copy the books, records, and accounts of such member or person
+with respect to any matter involved in the investigation.” F1NRA Rule 8210(c) states that
+“[n]o member or person shall fail to provide information . . . pursuant to this Rule.” A
+violation of FINRA Rule 8210 is also a violation of FINRA Rule 2010.
+From August 2022 to January 2023, Dalmore provided late, incomplete, and inaccurate
+responses to five requests, sent pursuant to FINRA Rule 8210. The requests sought
+substantially similar documents and information about what roles and responsibilities
+certain foreign non-registered associated persons performed at Dalmore. In response,
+Dalmore: (i) omitted some individuals entirely; (ii) vaguely described the responsibilities
+of over two dozen individuals as “coordinates email requests” while omitting that certain
+individuals had managerial responsibilities and could access the firm’s original books and
+records; and (iii) provided inaccurate titles such as administrative assistant, support lead,
+or operations lead, when the same persons held themselves out, including in firm email
+and on-line profiles, as Vice President, Director, and Department Head of Regulation A
+Trading. Dalmore supplemented its responses only after repeated communications from
+FINRA questioning the completeness of prior responses. The failure to provide timely,
+complete, and accurate information delayed FINRA’s investigation, including by
+obscuring the roles and responsibilities of various associated persons at the firm.
+Therefore, Dalmore violated FINRA Rules 8210 and 2010.
+
+8
+
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+▪
+
+a censure;
+
+▪
+
+a $375,000 fine; and
+
+▪
+
+An undertaking that, within 90 days of the date of the notice of acceptance of this
+AWC, a member of Respondent’s senior management who is a registered
+principal of the firm shall certify in writing that, as of the date of the certification,
+the firm has remediated the supervisory and other issues identified in this AWC
+and implemented a supervisory system, including written supervisory procedures,
+reasonably designed to achieve compliance with Article V, Section 2(c) of
+FINRA’s By-Laws and FINRA Rules 1122, and 2210, and Exchange Act Rules
+10b-9, 15l-1(a)(2)(iv), and 17f-2, regarding the issues identified in this AWC. The
+certification shall include a narrative description and supporting exhibits
+sufficient to demonstrate Respondent’s remediation and implementation. FINRA
+staff may request further evidence of Respondent’s remediation and
+implementation, and Respondent agrees to provide such evidence. Respondent
+shall submit the certification to Lorraine Page, Senior Paralegal, at
+Lorraine.Page@finra.org and 9509 Key West Avenue, Rockville, MD 20850,
+with a copy to EnforcementNotice@finra.org. Upon written request showing good
+cause, FINRA staff may extend this deadline.
+
+Respondent agrees to pay the monetary sanction upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which it proposes to pay the fine
+imposed. Respondent specifically and voluntarily waives any right to claim an inability to
+pay, now or at any time after the execution of this AWC, the monetary sanction imposed
+in this matter. Respondent understands that this settlement includes a finding that it
+willfully violated Rule10b-9 of the Securities Exchange Act of 1934 and that under
+Article III, Section 4 of FINRA’s By-Laws, this makes Respondent subject to a statutory
+disqualification with respect to membership. The sanctions imposed in this AWC shall be
+effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against it;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+9
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+10
+
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+D.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that it may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+The undersigned, on behalf of Respondent, certifies that a person duly authorized to act on
+Respondent’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Respondent has agreed to the AWC’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+the terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has
+been made to induce Respondent to submit this AWC.
+
+9/6/2024
+
+Date
+
+____________________________________
+Dalmore Group, LLC
+Respondent
+Print Name: Oscar Seidel
+Title: CEO
+
+Reviewed by:
+_______________________
+Alan M. Wolper
+Counsel for Respondent
+UB Greensfelder LLP
+500 W. Madison Street Suite 3600
+Chicago, Illinois 60661-4587
+
+11
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+September 17, 2024
+
+Date
+
+John-Michael Q. Seibler
+Principal Counsel
+FINRA
+Department of Enforcement
+9509 Key West Avenue
+Rockville, MD 20850
+
+12
+
+

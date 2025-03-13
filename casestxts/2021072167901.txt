@@ -1,0 +1,1055 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+OFFICE OF HEARING OFFICERS
+Department of Enforcement,
+Complainant,
+
+Disciplinary Proceeding
+No. 2021072167901
+
+v.
+Stewart Ginn
+CRD No. 4503197,
+Respondent.
+
+COMPLAINT
+The Department of Enforcement alleges:
+SUMMARY
+1.
+
+Respondent Stewart Ginn, while registered through Independent Financial Group,
+
+LLC (“IFG”), churned and excessively traded five customers’ accounts between July 2020 and
+December 2022 (the “relevant period”).
+2.
+
+None of the five customers was an aggressive investor. Moreover, three of the
+
+customers were retired seniors. During the relevant period in which Ginn was churning and
+excessively trading their accounts, one of the customers was in her late 80s and suffering from
+Alzheimer’s disease; a second retired customer was in her late 70s; and a third retired customer
+was between 69 and 71 years old.
+3.
+
+Ginn engaged in frequent in-and-out trades in the five customers’ accounts, while
+
+charging high commissions on both buys and sells. Ginn’s trading caused the five customers to
+incur realized losses of more than $2.22 million, while generating more than $2.24 million in
+commissions for Ginn and IFG.
+
+4.
+
+Ginn routinely recommended that the customers buy large equities positions,
+
+which he often quickly sold, even when the price of the stocks had changed only minimally.
+Because of the high commissions Ginn charged—generally three percent on buy transactions and
+two percent on sell transactions—the customers routinely incurred losses on such trades.
+5.
+
+Further, in at least four of the customers’ accounts, Ginn improperly traded on
+
+discretion and, in addition, frequently engaged in buying and selling securities without obtaining
+customer authorization for each transaction.
+6.
+
+Disregarding the cumulative impact of his excessive, high-cost trading, Ginn
+
+persisted in placing frequent trades in each of the customers’ accounts throughout the relevant
+period, even as each account incurred substantial realized losses.
+7.
+
+Ginn’s trading resulted in annualized cost-to-equity ratios (or break-even points)
+
+of between 14 percent to 27 percent in the customers’ accounts, making it unlikely they would
+realize a profit.
+8.
+
+Acting with scienter and with de facto control over the five customers’ accounts,
+
+Ginn churned these accounts in willful violation of Section 10(b) of the Securities Exchange Act
+of 1934 (the “Exchange Act”) and Rule 10b-5 thereunder and in violation of FINRA Rules 2020
+and 2010.
+9.
+
+By excessively trading the accounts owned by four retail customers, Ginn
+
+willfully violated the Best Interest Obligation under Rule 15l-1(a) of the Exchange Act
+(“Regulation BI”) and violated FINRA Rule 2010.
+10.
+
+By excessively and unsuitably trading the accounts of the fifth customer, a profit
+
+sharing plan for a small dental practice, Ginn violated FINRA Rules 2111 and 2010.
+
+2
+
+11.
+
+By exercising discretion without written authorization in four of the five
+
+customers’ accounts, Ginn violated FINRA Rules 3260 and 2010.
+RESPONDENT AND JURISDICTION
+12.
+
+Ginn entered the securities industry in 2002.
+
+13.
+
+Since 2015, Ginn has been registered as a General Securities Representative
+
+through an association with IFG.
+14.
+
+Because Ginn is currently registered with FINRA, he is subject to FINRA’s
+
+jurisdiction.
+FACTS
+15.
+
+In 2019, Ginn bought the book of business of a former IFG registered
+
+representative (Representative A) after Representative A’s sudden death in December 2018.
+Thereafter, Ginn became the registered representative for Representative A’s former customer
+accounts, including the five customers that are the subject of this Complaint.
+16.
+
+Customers 1 through 4 are individual investors who are retail customers.
+
+17.
+
+Customer 5, the profit sharing plan for a dental practice, is not a retail customer.
+
+18.
+
+None of the five customers had experience with short-term stock trading or its
+
+costs, and none had an aggressive investment objective.
+19.
+
+On the contrary, each of the five customers pursued a long-term buy-and-hold
+
+investment strategy in their accounts at IFG when Representative A was their registered
+representative.
+20.
+
+Each of the four individual customers had a moderate risk tolerance, as reflected
+
+in their account documents at IFG. The fifth customer, the profit sharing plan, had a moderate
+
+3
+
+risk tolerance for its first account at IFG and, after that account was closed in mid-2022, had a
+risk tolerance of “moderately high” for its second account at IFG.
+21.
+
+During the relevant period, Ginn dramatically increased the frequency of trades in
+
+the customers’ accounts, including placing frequent in-and-out trades in each account.
+22.
+
+Ginn exercised de facto control over each customer’s account.
+
+23.
+
+Ginn solicited all or nearly all of the transactions in each customer’s account.
+
+24.
+
+Each customer relied on Ginn to direct the trading in their accounts and
+
+consistently followed Ginn’s recommendations. On those occasions when Ginn in fact obtained
+authorization from the customers to buy or sell securities prior to Ginn executing these trades,
+the customers routinely accepted Ginn’s recommendations as to what securities to buy or sell,
+when to buy or sell, how frequently to buy and sell securities, and the quantity to buy or sell.
+25.
+
+In numerous other instances, Ginn exercised discretion and bought and sold
+
+securities in the accounts of Customers 1 through 4 without first obtaining the customer’s
+authorization for the trade.
+26.
+
+IFG’s written supervisory procedures (“WSPs”) did not permit Ginn to exercise
+
+discretion to trade in any customer’s account.
+27.
+
+Ginn did not have written authorization from Customers 1 through 4 to exercise
+
+discretion in their accounts.
+28.
+
+Prior to executing each trade in the customers’ accounts, Ginn determined and
+
+manually entered the commission amount that he charged to the customer on each trade.
+29.
+
+From July 2020 through December 2022, Ginn generally charged the customers a
+
+three percent commission on each purchase and a two percent commission on each sale.
+
+4
+
+30.
+
+Ginn did not explain to the five customers the total commission amounts that he
+
+would be charging for any trade, nor did he ever discuss the cumulative commissions he had
+charged or how trading costs had impacted the five customers’ account values.
+31.
+
+When making recommendations (or when exercising discretion) regarding what
+
+securities to buy and sell, how frequently to buy and sell securities, and what commissions to
+charge in each of the five customer’s accounts, Ginn disregarded trading costs, the effects of the
+cumulative trading costs resulting from his commissions, and how commissions were affecting
+the value of customers’ accounts.
+32.
+
+Ginn’s trading in these accounts between July 2020 and December 2022 caused
+
+the customers to suffer realized losses of more than $2.22 million. During that same period,
+Ginn’s trading caused the customers to pay commissions of more than $2.24 million.
+33.
+
+Ginn received 93% of the commissions charged in these five accounts.
+
+A. Ginn Churned and Excessively Traded Customer 1’s Account.
+34.
+
+Customer 1 is a 79-year-old retiree.
+
+35.
+
+Customer 1 first opened an IRA account with IFG in 2015 for which
+
+Representative A was the registered representative.
+36.
+
+Between January 2017 and his death in December 2018, Representative A
+
+recommended and executed fewer than three trades per month in Customer 1’s account.
+37.
+
+In July 2019, Ginn became the registered representative for Customer 1’s IRA
+
+account at IFG.
+38.
+
+In October 2019, Customer 1 completed an IFG account update form for her
+
+account, indicating her investment objective of “capital preservation” and “moderate” risk
+tolerance.
+
+5
+
+39.
+
+Between July 2020 and December 2022, Ginn recommended and effected 259
+
+trades in Customer 1’s account, which resulted in approximately $556,000 in realized losses.
+40.
+
+Between July 2020 and December 2022, Ginn’s trading activity in Customer 1’s
+
+account resulted in Customer 1 paying trading costs exceeding $494,000, including commissions
+of nearly $494,000.
+41.
+
+The cost-to-equity ratio measures the amount an account has to appreciate just to
+
+cover commissions and other expenses. In other words, it is the break-even point where a
+customer may begin to see a return.
+42.
+
+Between July 2020 and December 2022, despite the fact that Customer 1 was in
+
+her late 70s and had capital preservation as her investment objective, Ginn’s trading activity in
+Customer 1’s account resulted in an annualized cost-to-equity ratio of approximately 20.3
+percent.
+43.
+
+Ginn did not discuss with Customer 1 the costs of his frequent trading in her
+
+account.
+44.
+
+On many occasions, Ginn recommended that Customer 1 sell a position (or,
+
+exercising discretion, Ginn sold a position in Customer 1’s account) shortly after purchasing it,
+even though purchasing the position had caused the customer to pay a substantial commission.
+45.
+
+On February 3, 2021, for example, Ginn purchased 11,000 shares of a technology
+
+company at $10.65 per share in Customer 1’s account, only to sell that position two days later at
+a substantial loss for $8.46 per share. This roundtrip transaction generated $5,374 in
+commissions. Two months later, on April 9, 2021, Ginn purchased 2,000 shares of the same
+company at $13.34 per share.
+
+6
+
+46.
+
+Ginn frequently engaged in such in-and-out trading when there had been
+
+effectively no change in the share price. On March 9, 2021, for example, Ginn purchased 6,000
+shares of a media company at $25.49 per share in Customer 1’s account, only to sell that position
+16 days later at $25.46 per share. This round-trip transaction generated $7,643 in commissions,
+which caused the customer to realize a loss of $7,810 even though the price of the security only
+minimally decreased.
+B. Ginn Churned and Excessively Traded Customer 2’s Account.
+47.
+
+Customer 2 was an 88-year-old retiree when she died in February 2022.
+
+48.
+
+Customer 2 first opened a trust account with IFG in 2015 while working with
+
+Representative A.
+49.
+
+In or around 2016, Customer 2 was diagnosed with Alzheimer’s disease.
+
+50.
+
+Between January 2017 and December 2018, Representative A recommended and
+
+executed fewer than two trades per month in Customer 2’s trust account.
+51.
+
+In July 2019, Ginn became the registered representative for Customer 2’s trust
+
+account at IFG.
+52.
+
+Since at least September 2019, Customer 2’s sister acted as the trustee and
+
+authorized customer contact on behalf of Customer 2 (“Customer 2’s Authorized Contact
+Person”).
+53.
+
+In September 2019, Customer 2’s Authorized Contact Person completed an IFG
+
+account update form for Customer 2’s account, indicating an investment objective of “growth &
+income” and “moderate” risk tolerance.
+
+7
+
+54.
+
+Between July 2020 and December 2022, Ginn recommended and effected 275
+
+trades in Customer 2’s trust account, which resulted in approximately $570,000 in realized
+losses.
+55.
+
+Between July 2020 and December 2022, Ginn’s trading activity in Customer 2’s
+
+trust account resulted in Customer 2 paying trading costs of approximately $653,000, including
+commissions of approximately $652,000.
+56.
+
+Between July 2020 and December 2022, and despite the fact that Customer 2 was
+
+in her late 80s and had a moderate risk tolerance, Ginn’s trading activity in Customer 2’s trust
+account resulted in an annualized cost-to-equity ratio of approximately 23.4 percent.
+57.
+
+Ginn did not discuss with Customer 2 or her Authorized Contact the costs caused
+
+by Ginn’s trading in Customer 2’s trust account.
+58.
+
+On many occasions, Ginn recommended that Customer 2 sell a position (or,
+
+exercising discretion, Ginn sold a position in Customer 2’s account) shortly after purchasing it,
+even though purchasing the position had caused the customer to pay a substantial commission.
+Ginn frequently engaged in such in-and-out trading when there had been effectively no change in
+the share price, even though the round-trip transaction caused the customer to pay a substantial
+commission on both the buy and sell positions.
+59.
+
+On January 26, 2021, for example, Ginn purchased 20,000 shares of a
+
+telecommunications company at $4.80 per share in Customer 2’s trust account, only to sell that
+position nine days later on February 4, 2021, at $4.36 per share. This round-trip transaction
+resulted in a loss to Customer 2 of $13,383, but generated $4,625 in commissions.
+60.
+
+Three months later, on May 20, 2021, Ginn purchased 20,000 shares of the same
+
+telecommunications company in Customer 2’s trust account at $5.11 per share, only to sell that
+
+8
+
+position on June 18, 2021 at $5.13 per share. This round-trip transaction resulted in a loss of
+$4,718 for Customer 2, but generated $5,118 in commissions.
+61.
+
+On September 16, 2020, Ginn purchased 1,000 shares of a technology company at
+
+$68.17 per share in Customer 2’s trust account, only to sell that position 14 days later on
+September 30, 2020 at $67.69 per share. This round-trip transaction resulted in a loss to
+Customer 2 of $3,895 but generated $3,398 in commissions.
+62.
+
+Eight days later, on October 8, 2020, Ginn purchased 1,440 shares of the same
+
+company in Customer 2’s trust account at $68.97 per share, only to sell that position on October
+27, 2020 at $63.85 per share. This round-trip transaction resulted in a loss to Customer 2 of
+$12,202, but generated $4,818 in commissions.
+63.
+
+On January 20, 2021, Ginn purchased 2,900 shares of the same company in
+
+Customer 2’s trust account at $77.07 per share, only to sell that position seven days later on
+January 27, 2021 at $74.49 per share. This round-trip transaction resulted in a loss to Customer 2
+of $18,499, but generated $11,025 in commissions.
+C. Ginn Churned and Excessively Traded Customer 3’s Account.
+64.
+
+Customer 3 is a 61-year-old civil engineer.
+
+65.
+
+Customer 3 first opened an account with IFG in 2015 while working with
+
+Representative A.
+66.
+
+Between January 2017 and December 2018, Representative A recommended and
+
+executed fewer than two trades per month in Customer 3’s account.
+67.
+
+In March 2019, Customer 3 completed an IFG account update form for his
+
+account, indicating his investment objective of “income” and “moderate” risk tolerance.
+
+9
+
+68.
+
+In July 2019, Ginn became the registered representative for Customer 3’s IRA
+
+account at IFG.
+69.
+
+Between July 2020 and December 2022, Ginn recommended and effected 170
+
+trades in Customer 3’s account, which resulted in approximately $147,000 in realized losses.
+70.
+
+Between July 2020 and December 2022, Ginn’s trading activity in Customer 3’s
+
+account resulted in Customer 3 incurring total trading costs of approximately $189,000, nearly
+all of which was commissions.
+71.
+
+Between July 2020 and December 2022, Ginn’s trading activity in Customer 3’s
+
+account resulted in an annualized cost-to-equity ratio of approximately 20.3 percent.
+72.
+
+Ginn did not discuss with Customer 3 the costs caused by Ginn’s trading in
+
+Customer 3’s account.
+73.
+
+On many occasions, Ginn recommended that Customer 3 sell a position (or,
+
+exercising discretion, Ginn sold a position in Customer 3’s account) shortly after purchasing it,
+even though purchasing the position had caused the customer to pay a substantial commission.
+Ginn frequently engaged in such in-and-out trading when there had been effectively no change in
+the share price, even though the round-trip transaction caused the customer to pay a substantial
+commission on both the buy and sell positions.
+74.
+
+On May 20, 2021, for example, Ginn purchased, in Customer 3’s account, 14,000
+
+shares of a telecommunications company at $5.10 per share, only to sell that position on June 17,
+2021 at $5.20 per share. This round-trip transaction resulted in a loss of $2,181 for Customer 3,
+but generated $3,597 in commissions.
+75.
+
+On October 14, 2020, Ginn purchased, in Customer 3’s account, 200 shares of a
+
+technology company at $70.52 per share, only to sell that position 13 days later at $63.62 per
+
+10
+
+share. This round-trip transaction resulted in a loss of $2,196 for Customer 3, but generated $804
+in commissions.
+76.
+
+On January 7, 2021, Ginn purchased 850 shares of the same company at $75.97
+
+per share, only to sell that position six days later at $70.51 per share. This round-trip transaction
+resulted in a loss of $7,788 for Customer 3, but generated $3,135 in commissions.
+D. Ginn Churned and Excessively Traded Customer 4’s Account.
+77.
+
+Customer 4 is a 72-year-old retired police officer.
+
+78.
+
+Customer 4 first opened an IRA account with IFG in 2015 while working with
+
+Representative A.
+79.
+
+Between January 2017 and December 2018, Representative A recommended and
+
+executed fewer than two trades per month in Customer 4’s account.
+80.
+
+In August 2019, Customer 4 completed an IFG account update form for his
+
+account, indicating his investment objective of “capital appreciation” and “moderate” risk
+tolerance.
+81.
+
+Since July 2019, Ginn has acted as the registered representative for Customer 4’s
+
+IRA account at IFG.
+82.
+
+Between July 2020 and December 2022, Ginn recommended and effected 113
+
+trades in Customer 4’s account, which resulted in approximately $117,000 in realized losses.
+83.
+
+Between July 2020 and December 2022, Ginn’s trading activity in Customer 4’s
+
+account resulted in Customer 4 incurring total trading costs of approximately $115,000, nearly
+all of which was commissions.
+84.
+
+Between July 2020 and December 2022, Ginn’s trading activity in Customer 4’s
+
+account resulted in an annualized cost-to-equity ratio of approximately 13.7 percent.
+
+11
+
+85.
+
+Ginn did not discuss with Customer 4 the costs caused by Ginn’s trading in
+
+Customer 4’s account.
+86.
+
+On many occasions, Ginn recommended that Customer 4 sell a position (or,
+
+exercising discretion, sold a position in Customer 4’s account) shortly after purchasing it, even
+though purchasing the position had caused the customer to pay a substantial commission. Ginn
+frequently engaged in such in-and-out trading when there had been effectively no change in the
+share price, even though the round-trip transaction caused the customer to pay a substantial
+commission on both the buy and sell positions.
+87.
+
+On May 20, 2021, for example, Ginn purchased, in Customer 4’s account, 15,000
+
+shares of a telecommunications company at $5.10 per share, only to sell that position 28 days
+later on June 17, 2021 at $5.15 per share. This round-trip transaction resulted in a loss of $3,078
+for Customer 4, but generated $3,840 in commissions.
+88.
+
+On February 9, 2021, Ginn purchased 700 shares of an internet domain company
+
+at $90.95 per share, only to sell that position three days later on February 12, 2021 at $85.80 per
+share. This round-trip transaction resulted in a loss of $6,725, but generated $3,111 in
+commissions. On February 12, 2021, Ginn then purchased 4,500 shares of a telecommunications
+company at $15.32 per share, only to sell that position ten days later on February 22, 2021 at
+$13.08 per share. This round-trip transaction resulted in a loss of $13,315, but generated
+commissions of $3,244.
+E. Ginn Churned and Excessively Traded Customer 5’s Accounts.
+89.
+
+Customer 5 is a profit sharing plan for a small dental practice.
+
+90.
+
+Customer 5 first opened an account with IFG in 2015, for which Representative A
+
+was the representative of record.
+
+12
+
+91.
+
+Between January 2017 and December 2018, Representative A recommended and
+
+executed fewer than three trades per month in Customer 5’s account.
+92.
+
+Beginning as early as April 2019, the two authorized contact persons for
+
+Customer 5 were: (1) the dentist who ran the dental practice for which Customer 5 was the profit
+sharing plan (“Customer 5’s Authorized Contact Person A”) and (2) the dentist’s mother
+(“Customer 5’s Authorized Contact Person B”), who died in December 2022 at approximately 88
+years old.
+93.
+
+In April 2019, Customer 5, acting through Customer 5’s Authorized Contact
+
+Person A, completed an IFG account update form for the account, indicating an investment
+objective of “capital appreciation” and a “moderate” risk tolerance. Customer 5’s investment
+objective for was capital appreciation. Customer 5’s risk tolerance was moderate.
+94.
+
+In July 2019, Ginn became the registered representative for Customer 5’s account
+
+95.
+
+In July 2022, Customer 5 closed its then-existing account at IFG and opened a
+
+at IFG.
+
+new account. Customer 5, acting through Customer 5’s Authorized Contact Person A, completed
+an IFG account application for its new IFG customer account, which stated that Customer 5 had
+an investment objective of “growth” and a “moderately high” risk tolerance. Customer 5’s
+investment objective for its new account was growth, and Customer 5’s risk tolerance for this
+account was moderately high.
+96.
+
+Between July 2020 and December 2022, Ginn recommended and effected 351
+
+trades in Customer 5’s accounts, which resulted in approximately $830,000 in realized losses.
+
+13
+
+97.
+
+Between July 2020 and December 2022, Ginn’s trading activity in Customer 5’s
+
+accounts resulted in Customer 5 incurring total trading costs exceeding $790,000, including
+commissions of approximately $788,000.
+98.
+
+Between July 2020 and December 2022, Ginn’s trading activity in Customer 5’s
+
+accounts resulted in an annualized cost-to-equity ratio of approximately 27.1 percent.
+99.
+
+Ginn did not discuss with Customer 5 the costs caused by Ginn’s trading in
+
+Customer 5’s accounts.
+100.
+
+On many occasions, Ginn recommended that Customer 5 sell a position shortly
+
+after purchasing it, even though purchasing the position had caused the customer to pay a
+substantial commission. Ginn frequently engaged in such in-and-out trading when there had been
+effectively no change in the share price, even though the round-trip transaction caused the
+customer to pay a substantial commission on both the buy and sell positions.
+101.
+
+On March 12, 2021, for example, Ginn purchased, in Customer 5’s account, 9,000
+
+shares of a technology company at $10.65 per share, only to sell that position thirteen days later
+at $11.04 per share. Even though the price of the security increased, this round-trip transaction
+resulted in a loss of $1,400 for Customer 5, but generated $4,864 in commissions.
+102.
+
+On January 13, 2021, Ginn purchased, in Customer 5’s account, 6,000 shares of
+
+an automobile manufacturing company at $16.38 per share, only to sell that position six days
+later at $14.97 per share. This round-trip transaction resulted in a loss of $13,245 for Customer 5,
+but generated $4,745 in commissions.
+103.
+
+Six days later, on January 25, 2021, Ginn purchased 7,500 shares of the same
+
+company at $15.40 per share, only to sell that position 15 days later at $14.76 per share. This
+round-trip transaction resulted in a loss of $10,440, but generated $5,679 in commissions.
+
+14
+
+FIRST CAUSE OF ACTION
+Churning
+(Willful Violations of Section 10(b) of the Exchange Act and Rule 10b-5 Thereunder, and
+Violations of FINRA Rules 2020 and 2010)
+104.
+
+The Department of Enforcement realleges and incorporates by reference
+
+paragraphs 1 through 103.
+105.
+
+Section 10(b) of the Exchange Act is an anti-fraud rule. It prohibits the use of
+
+“any manipulative or deceptive device or contrivance” in connection with the purchase or sale of
+a security.
+106.
+
+Exchange Act Rule 10b-5 further prohibits: (a) employing “any device, scheme,
+
+or artifice to defraud”; (b) making “any untrue statement of material fact or omit[ting] to state a
+material fact necessary in order to make the statements made… not misleading”; and
+(c) engaging in “any act, practice, or course of business which operates or would operate as a
+fraud or deceit upon any person.”
+107.
+
+FINRA Rule 2020 provides that “[n]o member shall effect any transaction in, or
+
+induce the purchase or sale of, any security by means of any manipulative, deceptive or other
+fraudulent device or contrivance.”
+108.
+
+FINRA Rule 2010 requires FINRA member firms and associated persons to
+
+“observe high standards of commercial honor and just and equitable principles of trade” in the
+conduct of their business.
+109.
+
+Churning is fraudulent conduct that occurs in a broker-customer relationship
+
+when: (a) a broker controls or exercises actual or de facto control over his customer’s account;
+(b) the trading in the account is excessive in light of the customer’s investment profile; and (c)
+the broker acts with scienter, i.e., with intent to defraud or with reckless disregard of the
+customer’s interests.
+
+15
+
+110.
+
+Churning is a manipulative and deceptive device that violates Section 10(b) of the
+
+Exchange Act, Rule 10b-5 thereunder, and FINRA Rules 2020 and 2010.
+111.
+
+From July 2020 through December 2022, Ginn exercised de facto control of the
+
+trading in the accounts of Customer 1 through 5. Ginn controlled the volume and frequency of
+trading in the accounts, he decided what securities to buy and sell, the quantity of each
+transaction, and the timing of each transaction. Ginn also determined the commission he would
+charge for each transaction. The customers relied on Ginn to make recommendations and
+routinely followed Ginn’s recommendations. Ginn also frequently exercised discretion in the
+accounts of Customers 1 through 4.
+112.
+
+Ginn’s trading in these five customers’ accounts was excessive and quantitatively
+
+unsuitable for each of the customers based on their investment profiles, including Customer 1’s,
+2’s, and 4’s ages, as evidenced by the high cost-to-equity ratios, the frequency of the
+transactions, and the transaction costs incurred.
+113.
+
+For the period of July 2020 through December 2022, the accounts of Customers 1
+
+through 5 experienced the following cost-to-equity ratios:
+CUSTOMER
+1
+2
+3
+4
+5
+114.
+
+COST-TO-EQUITY
+RATIO (OVERALL)
+50.8%
+58.4%
+50.7%
+34.2%
+67.7%
+
+COST-TO-EQUITY
+RATIO (ANNUALIZED)
+20.3%
+23.4%
+20.3%
+13.7%
+27.1%
+
+Ginn acted with scienter. In churning his customers’ accounts, Ginn acted with
+
+intent to defraud or, at the very least, with reckless disregard of his customers’ interests, seeking
+to maximize his own compensation in disregard of the interests of his customers. Ginn was
+
+16
+
+willfully blind to the trading costs he was imposing on the customers’ accounts and the resulting
+losses. Ginn deliberately incurred unreasonably high trading costs in his customers’ accounts,
+which made it virtually impossible for the accounts to be profitable. Indeed, Ginn’s trading in the
+accounts of the five customers caused approximately $2.22 million in realized losses, while
+generating commissions of more than $2.24 million for Ginn and IFG.
+115.
+
+Ginn’s fraudulent acts were carried out by the use or means of the
+
+instrumentalities of interstate commerce and through the U.S. mail, and involved securities
+transactions on national securities exchanges.
+116.
+
+As a result of the foregoing conduct, Ginn willfully violated Section 10(b) of the
+
+Exchange Act and Rule 10b-5 thereunder, and he violated FINRA Rules 2020 and 2010.
+SECOND CAUSE OF ACTION
+Excessive Trading
+(Willful Violations of Exchange Act Rule 15l-1 Regulation Best Interest; Violations of
+FINRA Rule 2010)
+117.
+
+The Department of Enforcement realleges and incorporates by reference
+
+paragraphs 1 through 103 and paragraph 113.
+118.
+
+Since June 30, 2020, broker-dealers and their associated persons have been
+
+required to comply with Regulation BI under the Exchange Act. Regulation BI’s Best Interest
+Obligation requires a broker, dealer, or a natural person associated with a broker or dealer, when
+making a recommendation of any securities transaction or investment strategy involving
+securities (including account recommendations) to a retail customer, to act in the best interest of
+that retail customer at the time the recommendation is made, without placing the financial or
+other interest of the broker, dealer, or associated person making the recommendation ahead of
+the interest of the retail customer.
+
+17
+
+119.
+
+Regulation BI defines a retail customer as “a natural person, or the legal
+
+representative of such person, who: (i) Receives a recommendation of any securities transaction
+or investment strategy involving securities from a broker or dealer; and (ii) Uses the
+recommendation primarily for person, family, or household purposes.”
+120.
+
+A registered representative who conducts a trade on behalf of a customer without
+
+the customer’s explicit authorization implicitly recommends the trade for that customer.
+121.
+
+For an associated person, the Best Interest Obligation is satisfied by compliance
+
+with two obligations: (1) the Disclosure Obligation; and (2) the Care Obligation.
+122.
+
+Pursuant to the Care Obligation, as set forth in Exchange Act Rule 15l-
+
+1(a)(2)(ii)(C), an associated person of a broker or dealer is required to exercise reasonable
+diligence, care, and skill to:
+Have a reasonable basis to believe that a series of recommended
+transactions, even if in the retail customer’s best interest when viewed in
+isolation, is not excessive and is in the retail customer’s best interest when
+taken together in light of the retail customer’s investment profile and does
+not place the financial or other interest of the broker, dealer, or such
+natural person making the series of recommendations ahead of the interest
+of the retail customer.
+123.
+
+The Care Obligation applies to a series of recommended transactions regardless of
+
+whether the broker-dealer or associated person exercises control over the customer’s account.
+124.
+
+A violation of Regulation BI also constitutes a violation of FINRA Rule 2010.
+
+125.
+
+From July 2020 through December 2022, Ginn (a) made a series of
+
+recommendations to Customers 1 through 4 without exercising reasonable diligence, care, and
+skill to have a reasonable basis to believe that the series of recommended transactions were in the
+best interests of those customers based on the customers’ investment profile and the potential
+risks, rewards, and costs associated with the recommendations and (b) failed to exercise
+
+18
+
+reasonable diligence, care, and skill to understand the risks, rewards, and costs associated with
+his short-term, high-cost trading strategy.
+126.
+
+Ginn’s trading in these four customers’ accounts was excessive for each of the
+
+customers based on their investment profiles, including Customer 1’s, 2’s, and 4’s ages, as
+evidenced by the high cost-to-equity ratios, the frequency of the transactions, and the transaction
+costs incurred.
+127.
+
+At the time Ginn recommended the trades to Customers 1 through 4—all of
+
+whom were retail investors—Ginn failed to consider the commission charges when deciding
+what securities to buy and sell, how frequently to buy and sell securities, and what commissions
+to charge. Ginn also failed to consider the effects of the cumulative trading costs and how those
+commissions affected the value of each customer’s account.
+128.
+
+The series of recommendations that Ginn made to Customers 1 through 4 was
+
+excessive and was not in those customers’ best interests and, when making that series of
+recommendations, Ginn placed his interests ahead of the interests of those customers.
+129.
+
+Ginn’s failure to comply with Regulation Best Interest’s Care Obligation
+
+constitutes a violation of Regulation Best Interest’s General Obligation.
+130.
+
+As a result of the foregoing conduct, Ginn willfully violated Exchange Act Rule
+
+15l-1(a)(1) and violated FINRA Rule 2010.
+THIRD CAUSE OF ACTION
+Excessive Trading/Quantitative Suitability
+(Violations of FINRA Rules 2111 and 2010)
+131.
+
+The Department of Enforcement realleges and incorporates by reference
+
+paragraphs 1 through 103 and paragraph 113.
+132.
+
+FINRA Rule 2111(a) requires an associated person to:
+
+19
+
+have a reasonable basis to believe that a recommended transaction or
+investment strategy involving a security or securities is suitable for the
+customer, based on the information obtained through the reasonable
+diligence of the member or associated person to ascertain the customer’s
+investment profile. A customer’s investment profile includes, but is not
+limited to, the customer’s age, other investments, financial situation and
+needs, tax status, investment objectives, investment experience,
+investment time horizon, liquidity needs, risk tolerance, and any other
+information the customer may disclose to the member or associated person
+in connection with such recommendation.
+133.
+
+FINRA Rule 2111, Supplementary Material .05(c), provides as follows:
+Quantitative suitability requires a member or associated person to have a
+reasonable basis for believing that a series of recommended transactions,
+even if suitable when viewed in isolation, are not excessive and unsuitable
+for the customer when taken together in light of the customer’s investment
+profile, as delineated in Rule 2111(a). No single test defines excessive
+activity, but factors such as the turnover rate, the cost-equity ratio, and the
+use of in-and-out trading in a customer's account may provide a basis for a
+finding that a member or associated person has violated the quantitative
+suitability obligation.
+
+134.
+
+A violation of FINRA Rule 2111 also is a violation of FINRA Rule 2010.
+
+135.
+
+Ginn’s trading in Customer 5’s accounts was excessive and quantitatively
+
+unsuitable for Customer 5 based on its investment profile, as evidenced by the high cost-toequity ratios, the frequency of the transactions, and the transaction costs incurred.
+136.
+
+Ginn recommended a series of transactions to Customer 5 that was excessive and
+
+quantitatively unsuitable in light of Customer 5’s investment profile.
+137.
+
+As a result of the foregoing conduct, Ginn violated FINRA Rules 2111 and 2010.
+FOURTH CAUSE OF ACTION
+Unauthorized Use of Discretion
+(Violations of FINRA Rules 3260 and 2010)
+
+138.
+
+The Department of Enforcement realleges and incorporates by reference
+
+paragraphs 1 through 103.
+
+20
+
+139.
+
+FINRA Rule 3260(b) prohibits a broker from using discretion in a customer’s
+
+account without prior written authorization:
+No member or registered representative shall exercise any discretionary
+power in a customer’s account unless such customer has given prior
+written authorization to a stated individual or individuals and the account
+has been accepted by the member, as evidenced in writing by the member
+or the partner, officer or manager, duly designated by the member, in
+accordance with Rule 3110.
+140.
+
+A violation of FINRA Rule 3260 is also a violation of FINRA Rule 2010.
+
+141.
+
+IFG’s WSPs did not permit Ginn to exercise discretionary power in any
+
+customer’s account.
+142.
+
+Ginn did not have prior written authorization to exercise discretionary power in
+
+the accounts of Customers 1 through 4.
+143.
+
+Ginn was responsible for entering the trades in the accounts of Customers 1
+
+through 4 and for obtaining these customers’ authorization for trading activity.
+144.
+
+Ginn entered hundreds of trades in the accounts of Customers 1 through 4 without
+
+obtaining prior authorization from these customers.
+145.
+
+As a result of the foregoing conduct, Ginn violated FINRA Rule 3260 and FINRA
+
+Rule 2010.
+RELIEF REQUESTED
+WHEREFORE, the Department of Enforcement respectfully requests that the Panel:
+A.
+
+make findings of fact and conclusions of law that Respondent committed the
+violations charged and alleged herein;
+
+B.
+
+order that one or more of the sanctions provided under FINRA Rule 8310(a) be
+imposed, including that Respondent be required to disgorge fully any and all illgotten gains and/or make full and complete restitution, together with interest;
+
+21
+
+C.
+
+order that Respondent bears such costs of proceeding as are deemed fair and
+appropriate under the circumstances in accordance with FINRA Rule 8330;
+
+D.
+
+make specific findings that Respondent willfully violated Section 10(b) of the
+Exchange Act and Rules 10b-5 and 15l-1(a)(1) thereunder.
+
+FINRA DEPARTMENT OF ENFORCEMENT
+Date: October 17, 2023
+
+__________________________________
+Payne L Templeton, Senior Litigation Counsel
+FINRA Department of Enforcement
+300 South Grand Avenue, 16th Floor
+Los Angeles, CA 90071
+Phone: (213) 229-2311
+Email: payne.templeton@finra.org
+Justin W. Arnold, Senior Litigation Counsel
+FINRA Department of Enforcement
+200 Liberty Street – Brookfield Place
+New York, NY 10281-1003
+Phone: (206) 549-0036
+Email: justin.arnold@finra.org
+Jessica Moran, Counsel
+John R. Baraniak, Jr., Litigation Director
+FINRA Department of Enforcement
+99 High St., Suite 900
+Boston, MA 02110
+Phone:
+(617) 532-3430 (Moran)
+(617) 532-3413 (Baraniak)
+Email:
+jessica.moran@finra.org
+john.baraniak@finra.org
+
+22
+
+

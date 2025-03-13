@@ -1,0 +1,27 @@
+{
+  "Demographics": {
+    "Age": "68",
+    "Employment": "Retired",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+    "InvestmentPurpose": "NOTSPECIFIED",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "NOTSPECIFIED"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "$141,051 in realized losses",
+    "FeesCommissionsPaid": "$92,237 total trading costs, including $83,484 in commissions",
+    "ImpactOnPortfolio": "Severe"
+  },
+  "BreachType": {
+    "CareObligationViolation": "Yes",
+    "DisclosureObligationViolation": "NOTSPECIFIED",
+    "ConflictofInterestViolation": "Yes",
+    "ComplianceObligationViolation": "Yes"
+  },
+  "Overall summary": "Joao A. Pinto recommended excessive and unsuitable trading in a 68-year-old retired customer's account from January 2020 through June 2021. Pinto's high-frequency trading resulted in an annualized turnover rate of 14 and an annualized cost-to-equity ratio of 55%, meaning the customer's account would need to grow by 55% annually just to break even. The trading generated $92,237 in costs (including $83,484 in commissions) and caused $141,051 in realized losses. Pinto exercised de facto control over the account as the customer routinely followed his recommendations. FINRA found Pinto willfully violated Regulation Best Interest (for conduct after June 30, 2020) and FINRA Rule 2111 (for conduct before June 30, 2020). He was suspended for three months with no monetary sanctions due to his financial situation."
+}

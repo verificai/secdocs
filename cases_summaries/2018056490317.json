@@ -1,0 +1,27 @@
+{
+  "Demographics": {
+    "Age": "Three senior customers (67, 62, 81)",
+    "Employment": "Semi-retired and self-employed business owners",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+    "InvestmentPurpose": "Aggressive growth/aggressive income, speculation",
+    "RiskTolerance": "High",
+    "InvestmentAccountType": "NOTSPECIFIED"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "$1,101,277 in total realized losses",
+    "FeesCommissionsPaid": "$1,625,977 total trading costs, including $1,477,893 in commissions",
+    "ImpactOnPortfolio": "Severe"
+  },
+  "BreachType": {
+    "CareObligationViolation": "Yes",
+    "DisclosureObligationViolation": "NOTSPECIFIED",
+    "ConflictofInterestViolation": "Yes",
+    "ComplianceObligationViolation": "Yes"
+  },
+  "Overall summary": "Kyle Infinite Manning excessively traded three senior customers' accounts between February 2016 and April 2022. His trading resulted in extremely high turnover rates (22 to 40) and cost-to-equity ratios (81% to 101%), generating $1,625,977 in total trading costs (including $1,477,893 in commissions) while causing $1,101,277 in realized losses. Manning recommended a total of 1,967 transactions across the three accounts. For example, he recommended 866 transactions in a 67-year-old semi-retired business owner's account, resulting in an annualized turnover rate of 34 and cost-to-equity ratio of 101%, generating $610,769 in trading costs while causing $313,220 in realized losses. In another case, he recommended 483 transactions in an 81-year-old semi-retired business owner's account. Manning exercised de facto control over the accounts as customers relied on and routinely followed his recommendations. The level of trading was found to be excessive, unsuitable, and not in the customers' best interests. Manning was suspended for 17 months with no monetary sanctions due to his financial situation."
+}

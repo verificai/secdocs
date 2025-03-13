@@ -1,0 +1,515 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2022076459303
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Monmouth Capital Management LLC
+Member Firm
+CRD No. 290248
+
+Pursuant to FINRA Rule 9216, Respondent Monmouth Capital Management LLC submits this
+Letter of Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of
+the alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Monmouth has been a FINRA member since July 2018. The firm has one branch office
+located in Point Pleasant Beach, New Jersey. Monmouth employs less than ten registered
+representatives. Monmouth is an introducing broker-dealer and generates most of its
+revenue from commissions charged in connection with buying and selling equities for its
+retail customers.1
+OVERVIEW
+From August 1, 2020, through February 28, 2023, Monmouth, acting through six
+registered representatives, excessively traded 110 customer accounts, of which 42 were
+also churned, causing the customers to incur $3,953,492 in total trading costs. The
+trading in the 110 customer accounts resulted in annualized cost-to-equity ratios ranging
+from 21.75% to 128.5%, and annualized turnover rates ranging from 6.05 to 35.24, and
+each of the accounts suffered substantial losses. As a result, Monmouth willfully violated
+the Care Obligation of Regulation Best Interest, Section 10(b) of the Securities Exchange
+Act of 1934, and Exchange Act Rule 10b-5, and also violated FINRA Rules 2020 and
+2010.
+
+1
+
+For more information about the firm, visit BrokerCheck® at www.finra.org/brokercheck.
+
+From August 1, 2020, through the present, Monmouth also failed to establish, maintain,
+and enforce a supervisory system and written supervisory procedures (WSPs) reasonably
+designed to achieve compliance with the Exchange Act and FINRA rules relating to
+excessive trading and churning. In July 2020, Monmouth represented to FINRA that it
+had improved its supervisory system, including revising its WSPs to provide specific
+actions to take to monitor for, and address, red flags of excessive trading and churning.
+Monmouth’s representations to FINRA were inaccurate. Until at least December 2022,
+the firm’s supervisors failed to take any of the promised remedial steps, including
+reviewing monthly active account exception reports and sending active account letters to
+customers. As a result, Monmouth willfully violated Reg BI’s Compliance Obligation
+and violated FINRA Rules 3110 and 2010.
+Additionally, between November 9, 2020, and February 28, 2023, Monmouth provided
+false and misleading disclosures on its client relationship summary (Form CRS)
+concerning the scope of its account monitoring services and the nature of certain trading
+costs it charged to customers. These misrepresentations included a statement that
+Monmouth would monitor customer accounts utilizing daily exception reports, but the
+firm did not in fact utilize these reports. As a result, Monmouth willfully violated Section
+17(a)(1) of the Exchange Act and Exchange Act Rule 17a-14 and also violated FINRA
+Rule 2010.
+During this same period, Monmouth also failed to have a reasonable supervisory system,
+including WSPs, to ensure that its customer disclosures on Form CRS were not false or
+misleading. As a result, Monmouth violated FINRA Rules 3110 and 2010.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from a customer complaint made to FINRA concerning a former
+Monmouth registered representative.
+A.
+
+Monmouth Excessively Traded and Churned Customer Accounts.
+1. Monmouth excessively traded 110 accounts.
+
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Reg BI under the Exchange Act. Reg BI’s Best Interest Obligation requires a broker,
+dealer, or a natural person associated with a broker or dealer, when making a
+recommendation of any securities transaction or investment strategy involving securities
+to a retail customer, to act in the best interest of that retail customer at the time the
+recommendation is made, without placing the financial or other interest of the broker,
+dealer, or associated person ahead of the interest of the retail customer. Reg BI’s Care
+Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(ii), requires broker-dealers and
+their associated persons to exercise reasonable diligence, care, and skill to, among other
+things, have a reasonable basis to believe that a series of recommended transactions, even
+if in the retail customer’s best interest when viewed in isolation, is not excessive and is in
+the retail customer’s best interest in light of the retail customer’s investment profile.
+
+2
+
+No single test defines when trading is excessive, but factors such as the turnover rate, the
+cost-to-equity ratio, and the use of in-and-out trading in a customer’s account are relevant
+to determining whether a member firm or associated person has excessively traded a
+customer’s account in violation of Reg BI. The turnover rate represents the number of
+times that a portfolio of securities is exchanged for another portfolio of securities. The
+cost-to-equity ratio measures the amount an account must appreciate just to cover
+commissions and other expenses. In other words, it is the break-even point where a
+customer may begin to see a return. A turnover rate of six or a cost-to-equity ratio above
+20 percent generally indicates that a series of recommended transactions was excessive.
+Violations of Exchange Act Rule 15l-1 also constitute a violation of FINRA Rule 2010,
+which requires that FINRA members and their associated persons observe high standards
+of commercial honor and just and equitable principles of trade in the conduct of their
+business.
+From August 1, 2020, through February 28, 2023, Monmouth, acting through six of its
+representatives, excessively traded 110 accounts. Each representative recommended a
+pattern of trading whereby customers would concentrate their entire account value in a
+handful of securities, including speculative stocks, hold each position for a relatively
+short period of time (typically, from a few weeks to a couple of months), and then replace
+each concentrated position with a new concentrated position.
+The trading in the 110 customer accounts resulted in annualized cost-to-equity ratios
+ranging from 21.75% to 128.5%, with an average of 52.18%, and annualized turnover
+rates ranging from 6.05 to 35.24, with an average of 11.78, and the trading was
+inconsistent with the customers’ investment profiles. Additionally, total trading costs for
+the 110 accounts was $3,953,492, including $3,553,102 in commissions. Of the 110
+accounts, 57 belonged to senior customers.
+As an example, in July 2021, accounts at Monmouth were opened for siblings who were
+13 and 14 years old. The accounts were funded by Servicemembers’ Group Life
+Insurance (SGLI) payments they received following the death of their father, who had
+been an active military service member.2 Collectively, three Monmouth representatives
+recommended short-term, in-and-out trading in the accounts of both siblings:3
+(i) Over a 20-month period, Monmouth effected 61 trades in the 13-year old’s account,
+resulting in an annualized cost-to-equity ratio of 32% and an annualized turnover rate
+of 7.65. Although the account had an average monthly funded equity of $149,409,
+Monmouth purchased over $1.9 million in securities in her account. The trading
+
+2
+
+Several other excessively traded customer accounts were also owned by military family members who had funded
+their accounts with a military death gratuity and/or SGLI payments. Military death gratuities are special lump-sum
+payments of $100,000 made to eligible survivors of members of the Armed Forces who die while on active duty or
+while serving in certain reserve statuses.
+FINRA has barred two of the representatives who managed the siblings’ accounts for failing to respond to FINRA
+requests made pursuant to Rule 8210.
+3
+
+3
+
+generated total trading costs of $79,696, including $74,978 in commissions, and
+caused $8,936 in losses.
+(ii) Over the same 20-month period, Monmouth effected trades in the 14-year old’s
+account that resulted in an annualized cost-to-equity ratio of 27.48% and an
+annualized turnover rate of 7.42. Although the account had an average monthly
+funded equity of $111,741, Monmouth purchased over $1.3 million in securities in
+her account. The trading in the account generated total trading costs of $50,859,
+including $47,908 in commissions, and caused $122,816 in losses.
+As a result of its excessive trading, Monmouth willfully violated Exchange Act Rule
+15l-1(a)(2)(ii) and violated FINRA Rule 2010.
+2. Monmouth churned 42 of the 110 excessively-traded accounts.
+Section 10(b) of the Exchange Act makes it unlawful for any person to employ “any
+manipulative or deceptive device or contrivance in contravention of such rules and
+regulations as the [SEC] may prescribe.” Rule 10b-5 makes it unlawful for any person,
+directly or indirectly, in connection with the purchase or sale of any security, to employ
+any device, scheme, or artifice to defraud, or to engage in any act, practice, or course of
+business which operates or would operate as a fraud or deceit upon any person.
+FINRA Rule 2020 provides that a member may not “effect any transaction in, or induce
+the purchase or sale of, any security by any manipulative, deceptive or other fraudulent
+device or contrivance.”
+Churning, which violates Section 10(b) of the Exchange Act, Exchange Act Rule 10b-5,
+and FINRA Rule 2020, occurs when a member firm or registered representative controls
+the trading in a customer’s account and engages in excessive trading with an intent to
+defraud or with a reckless disregard of the customer’s interests. Violations of FINRA
+Rule 2020, as well as Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5,
+also constitute a violation of FINRA Rule 2010, which requires that FINRA members and
+their associated persons observe high standards of commercial honor and just and
+equitable principles of trade in the conduct of their business.
+Monmouth, acting through four of its representatives, churned 42 of the 110 excessivelytraded accounts.4 Many of these 42 customers were inexperienced investors, and 29 of
+the accounts belonged to senior customers. These customers routinely followed their
+representatives’ recommendations. As a result, Monmouth exercised de facto control over
+the customer accounts. The 42 accounts had annual turnover rates of 11.01 to 35.24 and
+cost-to-equity ratios of 46.5% to 126.7%, a high volume of trading indicative of a
+reckless disregard of the customers’ interests. Additionally, total trading costs for the 42
+accounts were $1,837,068, including $1,634,810 in commissions. Monmouth, through the
+
+4
+
+Two of these four representatives were firm principals with primary responsibility for monitoring the trading of
+other representatives.
+
+4
+
+actions of its four representatives, acted with a reckless disregard of these 42 customers’
+interests.
+For example:
+a. Monmouth recommended short-term, in-and-out trading to a customer with
+limited investment experience and a moderate risk tolerance, and the customer
+routinely followed those recommendations. Over a 16-month period, Monmouth
+effected trades in the customer’s account that resulted in an annualized cost-toequity ratio of 103.29% and an annualized turnover rate of 17.27. Although the
+customer’s account had an average monthly funded equity of $12,532, Monmouth
+purchased over $288,500 in securities in the account. The trading generated total
+costs of $17,260, including $13,744 in commissions, and caused $9,897 in losses.
+b. Over a 29-month period, Monmouth effected trades in another customer’s account
+that resulted in an annualized cost-to-equity ratio of 72.01% and an annualized
+turnover rate of 19.02. Monmouth recommended short-term, in-and-out trading to
+the customer, and the customer routinely followed those recommendations.
+Although the customer’s account had an average monthly account funded equity
+of $100,961, Monmouth purchased over $4,641,700 in securities in the account.
+The trading generated total costs of $174,736, including $162,239 in
+commissions, and caused $158,078 in losses.
+By churning 42 customer accounts, Monmouth willfully violated Section 10(b) of the
+Exchange Act and Rule 10b-5 thereunder, and violated FINRA Rules 2020 and 2010.
+B.
+
+Monmouth Failed to Reasonably Supervise Its Representatives’ Trading.
+
+Reg BI’s Compliance Obligation, set forth at Exchange Act Rule 15l-1(a)(2)(iv), requires
+broker-dealers to establish, maintain, and enforce written policies and procedures
+reasonably designed to achieve compliance with Reg BI, including the Care Obligation.
+Reg BI’s Adopting Release provides that broker-dealers should consider the nature of the
+firm’s operations and how to design such policies and procedures to prevent violations
+from occurring, to detect violations that have occurred, and to correct promptly any
+violations that have occurred.5
+FINRA Rule 3110(a) requires that FINRA members “establish and maintain a system to
+supervise the activities of each associated person that is reasonably designed to achieve
+compliance with applicable securities laws and regulations, and with applicable FINRA
+rules.” FINRA Rule 3110(b) requires that each FINRA member “establish, maintain, and
+enforce written procedures to supervise the types of business in which it engages and the
+activities of its associated persons that are reasonably designed to achieve compliance
+with applicable securities laws and regulations, and with applicable FINRA Rules.” The
+
+5
+
+Regulation Best Interest: The Broker-Dealer Standard of Conduct, Exchange Act Release No. 86031, 84 FR 33318
+at 33397 (July 12, 2019).
+
+5
+
+duty to supervise under FINRA Rule 3110 also includes the responsibility to reasonably
+investigate red flags that suggest that misconduct may be occurring and to act upon the
+results of such investigation.
+Violations of FINRA Rule 3110, as well as Exchange Act Rule 15l-1, also constitute a
+violation of FINRA Rule 2010.
+In 2020, FINRA conducted a routine examination of Monmouth, at the conclusion of
+which FINRA informed Monmouth that it had failed to reasonably supervise for
+excessive trading during the period under review. In response, on July 29, 2020,
+Monmouth represented to FINRA that it had implemented various improvements to its
+supervisory system, including revising its WSPs to set forth required actions when costto-equity and turnover thresholds were exceeded, implementing a requirement to review
+monthly exception reports, and instituting a process for sending active account letters.
+Monmouth’s representations to FINRA were inaccurate, and as set forth below, the firm
+failed to supervise for excessive trading and churning at the firm.
+From August 1, 2020 through the present, Monmouth failed to have a reasonable
+supervisory system, including WSPs, to achieve compliance with securities laws and
+regulations and FINRA rules pertaining to excessive trading and churning. In addition to
+the firm appointing two principals to conduct trading reviews who themselves were
+churning their own customers’ accounts, the firm’s system and its WSPs were
+unreasonable in a number of ways:
+(i) The firm’s WSPs in place until April 30, 2021, made no reference whatsoever to Reg
+BI, and the firm’s WSPs in place between May 1, 2021, and June 22, 2022,
+erroneously stated that Reg BI did not apply to the firm because the firm did not make
+recommendations to customers, notwithstanding the fact that the firm’s primary
+business was recommending securities to customers. Throughout the relevant period,
+the firm’s WSPs also failed to provide guidance as to what turnover rates or cost-toequity ratios would constitute red flags of excessive trading and churning.
+(ii) Although Monmouth’s WSPs called for the firm’s supervisors to use exception
+reports to monitor for potentially excessive trading, they did not do so until at least
+December 2022—and only after inquiries by FINRA staff during the course of the
+investigation of this matter. Instead, the firm’s supervision for excessive trading and
+churning consisted almost entirely of the designated principal conducting a manual
+review of the daily trade blotter. The daily trade blotter, however, only reflected the
+prior day’s trading and did not provide any information related to patterns of, or
+overall, trading in customer accounts. Nor did it provide any information about the
+turnover rate or cost-to-equity ratio or the cumulative costs of trading in customer
+accounts.
+Had Monmouth reviewed the exception reports prior to December 2022, it would have
+learned that many customer accounts had been flagged for meeting certain thresholds,
+such as high turnover rates, high commission-to-equity ratios, large numbers of trades,
+and losses. Indeed, the monthly reports routinely flagged dozens of customer accounts,
+6
+
+and some customers appeared repeatedly on the report, often for several consecutive
+months. Over a one-year period, 19 of the churned accounts were flagged as potentially
+excessively traded on six or more monthly exception reports, with some appearing on all
+12 consecutive reports. For example, one of the churned customer accounts appeared on
+the exception report every single month—i.e., on 24 separate monthly reports—between
+December 2020 and December 2022. According to the December 2022 exception report,
+that account had an annualized commission-to-equity ratio of 74.75%, including a monthto-date commission-to-equity ratio of 99.99%, and an annualized turnover rate of 22.31.
+However, no one at Monmouth reviewed any of these 24 reports and thus the firm failed
+to detect the churning in that customer’s account.
+The firm did not call the customers to inquire about the level of trading in their accounts,
+nor did the firm send the customers any activity letters, nor did the firm restrict the
+trading in, or commissions charged to, the customers’ accounts. In the case of all 110
+affected customer accounts, the firm did nothing, which allowed the customers’ accounts
+to be excessively traded or churned.
+As a result of its failure to supervise the trading of its representatives, Monmouth
+willfully violated Exchange Act Rule 15l-1(a)(2)(iv), and violated FINRA Rules 3110
+and 2010.
+C.
+
+Monmouth Provided False and Misleading Information on its Form CRS.
+
+On June 5, 2019, the SEC adopted Form CRS and rules creating new requirements—
+which include requirements to prepare and update the Form CRS—for SEC-registered
+broker-dealers offering services to a retail investor. The compliance date for Form CRS
+was June 30, 2020.
+Form CRS provides customers with information about the types of services the firm
+offers; the fees, costs, conflicts of interest, and required standard of conduct associated
+with those services; whether the firm and its investment professionals have reportable
+legal or disciplinary history; and how to get more information about the firm.
+Form CRS’s Adopting Release provides that “all information in the relationship summary
+must be true and may not omit any material facts necessary in order to make the
+disclosures, in light of the circumstances under which they were made, not misleading.”6
+Section 17(a)(1) of the Exchange Act requires registered broker-dealers to make and keep
+for prescribed periods such records, furnish such copies thereof, and make and
+disseminate such reports as the Commission deems “necessary or appropriate in the
+public interest, for the protection of investors or otherwise in furtherance of the purposes
+of” the Exchange Act. Exchange Act Rule 17a-14—titled “Form CRS, for preparation,
+filing and delivery of Form CRS”—requires broker-dealers offering services to a retail
+6
+
+See Form CRS Relationship Summary; Amendments to Form ADV, Exchange Act Release No. 86032, 84 FR
+33492 at 33503 (July 12, 2019) (citing General Instruction 2.B to Form CRS).
+
+7
+
+investor to prepare a Form CRS in accordance with the instructions in Form CRS, and to
+comply with requirements related to filing, amending, delivering, and posting the Form
+CRS to the firm’s public website. A violation of Section 17(a)(1) of the Exchange Act
+and Rule 17a-14 also is a violation of FINRA Rule 2010.
+In October 2020, FINRA informed Monmouth that there were numerous deficiencies
+with the firm’s existing Form CRS, including that Monmouth failed to include a
+description of certain fees and costs paid by its customers, including ticket and handling
+fees, and also failed to describe the frequency of its account monitoring and any material
+limitations. Monmouth then amended its Form CRS on November 9, 2020, but this
+amended Form CRS failed to make accurate disclosures.
+Between November 9, 2020, and February 28, 2023, Monmouth provided inaccurate and
+untrue information on its Form CRS disclosures. First, with respect to the services it
+provided, Monmouth stated that its “representatives monitor your account through risk
+management tools provided by our clearing firm and any anomalies would be reported on
+daily exceptions reports. Depending on trade activity we will monitor your accounts and
+this review can be conducted daily or no less than monthly if you do not conduct any
+trading activity and our recommendations are based upon your risk profile that you
+establish with the firm when filling out account opening.” These statements were untrue
+because Monmouth has never used daily exception reports and, as described above, did
+not begin using monthly exception reports until December 2022. Additionally, the firm
+did not perform any ongoing account monitoring—monthly or otherwise—for inactive
+accounts.
+Second, in describing the fees it charged customers, Monmouth inaccurately described
+postage and handling charges, which ranged from $50 to $75 per trade, as costs incurred
+by the firm that it was passing on to customers. In fact, these fees were not pass-through
+charges from any vendors, nor reasonably related to any postage and handling charges
+actually incurred by the firm, but were rather additional brokerage service fees charged
+by the firm. The fees contributed significantly to Monmouth’s revenue. For example, in
+the firm’s audited financial statement for the period from January 1, 2021, to March 31,
+2022, Monmouth reported total revenue of $3,939,322, of which $470,532 was from
+postage and handling fees. Although, as noted above, FINRA notified Monmouth of its
+inaccurate disclosures about its handling fees on Form CRS in October 2020, the firm did
+not amend its Form CRS to accurately describe these fees until March 8, 2023.
+Therefore, Monmouth willfully violated Section 17(a)(1) of the Exchange Act and Rule
+17a-14 thereunder, and violated FINRA Rule 2010.
+D.
+
+Monmouth Failed to Reasonably Supervise Its Form CRS Disclosures.
+
+Between November 9, 2020, and February 28, 2023, Monmouth failed to establish and
+maintain a supervisory system, including WSPs, reasonably designed to achieve
+compliance with Form CRS requirements. The firm’s WSPs in place until April 30, 2021,
+
+8
+
+did not even reference Form CRS, and, throughout the relevant period, the firm had no
+supervisory system to review Forms CRS.
+Therefore, Monmouth violated FINRA Rules 3110 and 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+▪
+
+an expulsion from FINRA membership.
+
+Respondent understands that if it is expelled from FINRA membership, it becomes
+subject to a statutory disqualification as that term is defined in Article III, Section 4 of
+FINRA’s By-Laws, incorporating Section 3(a)(39) of the Securities Exchange Act of
+1934.
+Respondent understands that this settlement includes a finding that it willfully violated
+Section 10(b) of the Securities Exchange Act of 1934 and Rule 10b-5 thereunder; Section
+17(a)(1) of the Securities Exchange Act of 1934; Exchange Act Rule 17a-14; and
+Exchange Act Rule 15l-1(a), and that under Article III, Section 4 of FINRA’s By-Laws,
+this makes Respondent subject to a statutory disqualification with respect to membership.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA. A bar or
+expulsion shall become effective upon approval or acceptance of this AWC.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against it;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+9
+
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+The undersigned, on behalf of Respondent, certifies that a person duly authorized to act on
+Respondent’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Respondent has agreed to the AWC’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+10
+
+the terms set forth in this A WC and the prospect of avoiding the issuance of a complaint, has
+been made tb induce Respondent to submit this AWC.
+
+,f,Jb,.3
+Monmouth Capital M · agement LLC
+
+Date
+
+Respondent
+· _;t.....;..,.,_ _
+ft,_. ..;;...l#_,_+_M...;._t--,_._
+Print Name: __
+
+Title:
+
+C eo
+--------------~---
+
+Reviewed by:
+
+~
+
+Bryan Ward
+Counsel fotRespondent
+Holcomb + Ward, LLP
+3455 Peachtee Road, NE
+Suite 500
+
+Atlanta, Ge9rgia 30326
+;
+
+Accepted bt FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+
+7/6/2023
+Date
+
+Senior Counsel
+FINRA
+Department of Enforcement
+200 Liberty Street, 11th Floor
+New York, NY 10281
+
+11
+
+

@@ -1,0 +1,306 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021069362101
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+RCM Securities (Respondent)
+Member Firm
+CRD No. 15548
+
+Pursuant to FINRA Rule 9216, Respondent RCM Securities submits this Letter of Acceptance,
+Waiver, and Consent (AWC) for the purpose of proposing a settlement of the alleged rule
+violations described below. This AWC is submitted on the condition that, if accepted, FINRA
+will not bring any future actions against Respondent alleging violations based on the same
+factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+RCM Securities became a FINRA member firm in 1985. 1 The firm, which is
+headquartered in Chicago, Illinois, has one office and 15 registered representatives. The
+firm conducts a general securities business and acts as a placement agent for private
+placement offerings to both institutional and retail investors.
+OVERVIEW
+From June 30, 2020, to March 4, 2022, RCM Securities failed to timely file and deliver to
+retail investors a client relationship summary (Form CRS). The firm’s Forms CRS, filed
+on March 4, 2022, March 9, 2022, and July 7, 2022, failed to disclose that the firm and
+three of its registered representatives had legal or disciplinary history. As a result, RCM
+Securities willfully violated Section 17(a)(1) of the Securities Exchange Act of 1934 and
+Exchange Act Rule 17a-14, and violated FINRA Rule 2010.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from FINRA’s 2021 cycle examination of RCM Securities.
+
+1
+
+RCM Securities is also known as SNC Capital Management Corp.
+
+On June 5, 2019, the Securities and Exchange Commission (SEC) adopted Form CRS
+and rules creating new requirements—which include requirements to prepare, file,
+deliver, and update the Form CRS—for SEC-registered broker-dealers offering services
+to a retail investor. Broker-dealers were required to comply with these requirements by
+June 30, 2020. 2
+Form CRS provides customers with information about the types of services the firm
+offers; the fees, costs, conflicts of interest, and required standard of conduct associated
+with those services; whether the firm and its investment professionals have reportable
+legal or disciplinary history; and how to get more information about the firm.
+Form CRS also includes required “conversation starters” to help begin a discussion with
+a broker-dealer about the relationship, including their services, fees, costs, conflicts, and
+disciplinary information.
+Section 17(a)(1) of the Securities Exchange Act of 1934 requires registered brokerdealers to make and keep for prescribed periods such records as the Commission deems
+“necessary or appropriate in the public interest, for the protection of investors or
+otherwise in furtherance of the purposes of” the Exchange Act. Exchange Act Rule
+17a-14—titled “Form CRS, for preparation, filing and delivery of Form CRS”—requires
+broker-dealers offering services to a retail investor to prepare a Form CRS in accordance
+with the instructions in Form CRS, and to comply with requirements related to filing,
+amending, delivering, and posting the Form CRS to the firm’s public website.
+A violation of Exchange Act Section 17(a)(l) and Rule 17a-14 is also a violation of
+FINRA Rule 2010, which requires member firms to observe high standards of
+commercial honor and just and equitable principles of trade in the conduct of their
+business.
+A. RCM Securities failed to timely file and deliver a Form CRS.
+Because RCM Securities offers services to retail investors, it was required to file a Form
+CRS by June 30, 2020. Prior to June 30, 2020, the firm had reduced the number of its
+retail investors; however, it continued to provide services to some retail investors after
+June 30, 2020, whose brokerage account activity generated a small amount of revenue for
+the firm. RCM Securities did not file a Form CRS through Web CRD until March 4,
+2022, despite being notified by FINRA in 2020 of the firm’s noncompliance. The firm
+also failed to deliver a Form CRS to retail investors until March 2022.
+Therefore, RCM Securities willfully violated Exchange Act § 17(a)(1) and Exchange Act
+Rule 17a-14, and violated FINRA Rule 2010.
+
+See Form CRS Relationship Summary; Amendments to Form ADV, Release Nos. 34-86032 & IA-5247
+(June 5, 2019) (effective September 10, 2019).
+
+2
+
+2
+
+B. RCM provided an inaccurate response to the Form CRS question concerning
+legal or disciplinary history.
+Form CRS contains the heading, “Do you or your financial professionals have legal or
+history?” The instructions to Form CRS state that a firm must respond “Yes” if it or any
+of its financial professionals discloses, or is required to disclose, legal or disciplinary
+history on specified regulatory disclosure forms, such as Forms BD, U4, U5, and U6. 3
+Legal or disciplinary history that is required to be disclosed on those forms includes
+criminal history, regulatory actions, civil judicial actions, specified customer complaints
+and arbitrations, and specified financial events (e.g., bankruptcies, judgments, and liens).
+Before filing the Form CRS, RCM Securities had disclosed three state disciplinary
+actions on its Form BD. These disciplinary actions, which occurred between 2019 and
+2020, were all related to the firm engaging in a securities business in states in which it
+was not registered. In addition, Form U4 filings for three of the firm’s registered
+representatives disclosed prior legal or disciplinary history. All of those filings, and the
+disclosures contained in the filings, were reflected in Web CRD and in BrokerCheck®,
+and were made by or were available to the firm. When RCM Securities filed its initial
+Form CRS on March 4, 2022, it failed to respond “Yes” to the question concerning legal
+or disciplinary history, even though the firm and three of its registered representatives
+had prior legal or disciplinary history. Instead, the firm stated on its Form CRS, “We
+have no legal history, but we have three disclosures, regarding disagreements over the
+need to register in a state if the firm shares revenue on a referral basis with a clearing firm
+that performs the execution and clearing services for residents in that state. RCM agreed
+to make payments and subsequently register in those states.” The firm provided no
+information on the Form CRS about the legal and disciplinary history of its registered
+representatives.
+Despite the firm’s disciplinary actions disclosed on its Form BD and its knowledge of its
+registered representatives’ legal and disciplinary history, RCM Securities failed to
+respond “Yes” to the Form CRS question concerning legal or disciplinary history. The
+firm continued to fail to respond “Yes” to the disciplinary history question in its Forms
+CRS filed on March 9, 2022, and July 7, 2022, and did not correctly answer “Yes” to this
+question until it filed a third revised Form CRS on January 23, 2023.
+Therefore, RCM Securities willfully violated Exchange Act Section 17(a)(l) and
+Exchange Act Rule 17a-14, and violated FINRA Rule 2010.
+These forms are submitted to the Central Registration Depository by member firms or regulators. Broker-dealers
+file Form BD (Uniform Application for Broker-Dealer Regulation) to become registered with the SEC, FINRA,
+other self-regulatory organizations, and jurisdictions (e.g., U.S. states and territories); Form U4 (Uniform
+Application for Securities Industry Registration or Transfer) is used to elicit employment history, disciplinary, and
+other information about individuals, to register them with FINRA, other self-regulatory organizations, or
+jurisdictions; Form U5 (Uniform Termination Notice for Securities Industry Registration) is used to terminate
+individuals’ registrations with FINRA, other self-regulatory organizations, or jurisdictions, and to elicit details
+regarding the reasons for termination; and Form U6 is used by regulators to report disclosure events and disciplinary
+actions against individuals and organizations, and to report final FINRA arbitration awards against broker-dealers
+and associated persons.
+3
+
+3
+
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a censure;
+
+
+
+a $20,000 fine; and
+
+
+
+an undertaking that, within 30 days of the date of the notice of acceptance of this
+AWC, a member of Respondent’s senior management who is a registered
+principal of the firm shall certify in writing that, as of the date of the certification,
+the firm has reviewed and remediated the deficiencies in its Form CRS, and has
+filed and delivered a Form CRS that complies with Exchange Act § 17(a)(1) and
+Exchange Act Rule 17a-14. The certification shall include a narrative description
+and supporting exhibits sufficient to demonstrate Respondent’s remediation and
+implementation. FINRA staff may request further evidence of Respondent’s
+remediation and implementation, and Respondent agrees to provide such
+evidence. Respondent shall submit the certification to John Sheehan, Principal
+Counsel, FINRA Department of Enforcement, at 100 Pine Street, Suite 1800, San
+Francisco, CA 94111, or electronically to john.sheehan@finra.org, with a copy to
+EnforcementNotice@finra.org. Upon written request showing good cause,
+FINRA staff may extend this deadline.
+
+Respondent agrees to pay the monetary sanction upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which it proposes to pay the fine
+imposed.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanction imposed in this
+matter.
+Respondent understands that this settlement includes a finding that it willfully violated
+Exchange Act Section 17(a)(l) and Exchange Act Rule 17a-14 of the Securities Exchange
+Act of 1934 and that under Article III, Section 4 of FINRA’s By-Laws, this makes
+Respondent subject to a statutory disqualification with respect to membership.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against it;
+
+4
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+5
+
+4.
+
+D.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that it may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+The undersigned, on behalf of Respondent, certifies that a person duly authorized to act on
+Respondent’s behalf has read and understands all of the provisions of this AWC and has been
+given a full opportunity to ask questions about it; that Respondent has agreed to the AWC’s
+provisions voluntarily; and that no offer, threat, inducement, or promise of any kind, other than
+the terms set forth in this AWC and the prospect of avoiding the issuance of a complaint, has
+been made to induce Respondent to submit this AWC.
+
+December 13, 2023
+
+Date
+
+____________________________________
+RCM Securities
+Respondent
+Print Name:
+Title:
+
+6
+
+Ed Sweeney
+
+President
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+December 15, 2023
+
+Date
+
+John Sheehan
+Principal Counsel
+FINRA
+Department of Enforcement
+100 Pine Street
+Suite 1800
+San Francisco, CA 94111
+
+7
+
+

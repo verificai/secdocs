@@ -1,0 +1,34 @@
+Please do the following:
+- Create a local folder named with today’s date. 
+- find ML-oriented papers from the last week in ArXiv with significant chatter about them on hacker news
+
+- For each paper:
+  - Create a subfolder in the date folder above
+  - Create a summary of it called summary.txt
+  - Summarize sentiment about it on hacker news with hackernews.txt
+  - Put the link to the paper in paper.pdf.txt
+
+- Create a pull request to git repo github.com:/fettermania/learning-papers which: 
+    - adds the local folder to the GitHub repo.
+    - updated INDEX.md to summarize and link to this folder in the style it’s using
+
+The pull request https://github.com/fettermania/learning-papers/pull/1 is a great example you wrote.
+
+Tips for Quality Summaries
+	1	For better paper summaries:
+	◦	Focus on the main contributions and innovations
+	◦	Explain why the paper matters in the broader ML landscape
+	◦	Highlight practical applications or theoretical advances
+	◦	Use clear, concise language accessible to technical readers
+	2	For better HackerNews analysis:
+	◦	Include both positive and negative viewpoints
+	◦	Note any surprising or insightful comments
+	◦	Identify patterns in the community's response
+	◦	Compare reception to similar papers if relevant
+	3	For selecting papers:
+	◦	Prioritize papers with significant discussion or controversy
+	◦	Look for papers from prominent research groups/institutions
+	◦	Include papers across different ML subfields when possible
+	◦	Consider both theoretical advances and practical applications
+
+

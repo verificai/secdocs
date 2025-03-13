@@ -1,0 +1,367 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2021069380601
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Blaine R. Stahlman (Respondent)
+General Securities Principal
+CRD No. 1189213
+
+Pursuant to FINRA Rule 9216, Respondent Blaine R. Stahlman submits this Letter of
+Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Stahlman first became registered with FINRA in 1983 as a General Securities
+Representative (GS) through an association with a member firm. In July 1989, Stahlman
+became registered with FINRA as a GS and a General Securities Principal (GP) through
+his association with Professional Broker-Dealer Financial Planning, Inc. (CRD No.
+23651) (PBD). In 1991, Stahlman registered with FINRA as a Financial and Operations
+Principal (FN) and as a Municipal Securities Representative (MR), in 2011 he registered
+with FINRA as an Operations Professional (OS), and in 2018 he registered with FINRA
+as a Compliance Officer (CR), all through his association with PBD. Stahlman was the
+founder and owner of PBD, and served as its Chief Executive Officer, Chief Compliance
+Officer, and Chief Financial Officer. 1 Stahlman’s association with PBD was terminated
+on July 8, 2024.
+On May 8, 2023, while associated with PBD, Stahlman also became registered as a GS,
+GP, and FN through an association with another FINRA member firm, where he
+currently remains registered. 2
+
+On May 7, 2024, PBD filed a full Uniform Request for Broker-Dealer Withdrawal (Form BDW), which became
+effective on July 8, 2024. PBD is no longer a FINRA member firm.
+
+1
+
+2
+
+For more information about the respondent, visit BrokerCheck® at www.finra.org/brokercheck.
+
+OVERVIEW
+Between March 1, 2019, and February 1, 2021, Stahlman failed to reasonably supervise a
+registered representative’s recommendations of a speculative, unrated debt security to
+retail customers. Therefore, Stahlman violated FINRA Rules 3110 and 2010.
+During the same time period, Stahlman failed to retain and review that representative’s
+business-related email communications, despite knowing that the representative was
+using non-firm email for securities business purposes. Therefore, Stahlman violated
+FINRA Rules 3110, 4511, and 2010.
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from a cycle examination of PBD.
+1. Stahlman failed to reasonably supervise the representative’s sales of a
+speculative, unrated debt security to customers.
+a. Legal Framework
+FINRA Rule 3110(a) requires a member firm to establish and maintain a system to
+supervise the activities of each associated person that is reasonably designed to achieve
+compliance with applicable securities laws and regulations, and with applicable FINRA
+rules. FINRA Rule 3110(b) requires a member firm to establish, maintain, and enforce
+written procedures to supervise the types of business in which it engages and the
+activities of its associated persons that are reasonably designed to achieve compliance
+with applicable securities laws and regulations, and with applicable FINRA rules. The
+duty to supervise under Rule 3110 also includes the responsibility to reasonably
+investigate red flags that suggest that misconduct may be occurring and to act upon the
+results of such investigation. A violation of FINRA Rule 3110 also is a violation of
+FINRA Rule 2010, which requires associated persons, in the conduct of their business, to
+observe high standards of commercial honor and just and equitable principles of trade.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation BI under the Securities Exchange Act of 1934. Rule 15l-1(a)(1) of Reg
+BI requires a broker, dealer, or a natural person associated with a broker or dealer, when
+making a recommendation of any securities transaction or investment strategy involving
+securities (including account recommendations) to a retail customer, to act in the best
+interest of that retail customer at the time the recommendation is made, without placing
+the financial or other interest of the broker, dealer, or associated person ahead of the
+interest of the retail customer. Reg BI’s Care Obligation, set forth at Exchange Act Rule
+15l-1(a)(2)(ii), requires broker-dealers and their associated persons to exercise reasonable
+diligence, care, and skill to, among other things, have a reasonable basis to believe that
+the recommendation is in the best interest of a particular retail customer based on that
+retail customer’s investment profile and the potential risks, rewards, and costs associated
+with the recommendation. Reg BI defines a “retail customer investment profile” to
+2
+
+include, but not be limited to, the customer’s age, other investments, financial situation
+and needs, tax status, investment objectives, investment experience, investment time
+horizon, liquidity needs, risk tolerance, and any other information the customer may
+disclose to the member or associated person in connection with such recommendation.
+Prior to June 30, 2020, FINRA Rule 2111 required members and associated persons to
+have a reasonable basis to believe that a recommendation of a transaction or investment
+strategy involving a security or securities to any customer is suitable for the customer,
+based on the information obtained through the reasonable diligence of the member or
+associated person to ascertain the customer's investment profile. FINRA Rule 2111 is still
+in effect, but as of June 30, 2020, it no longer applies to recommendations that are subject
+to Reg BI). FINRA Rule 2111 defines a customer’s investment profile to include the
+same information as under the Care Obligation.
+A recommendation may not be suitable or in the best of interest of a customer if it results
+in a concentration in a particular security or category of securities that creates a risk of
+loss inconsistent with the customer’s investment profile.
+b. GWG Holdings, Inc.
+GWG is a publicly traded financial services company. Prior to 2018, GWG purchased life
+insurance policies through its subsidiaries on the secondary market. GWG continued to
+pay the premiums for each policy that it purchased and collected the policy benefits upon
+the insured’s death. Following a series of transactions in 2018 and 2019 with Beneficient
+Company Group, L.P., GWG reoriented its business, stopped acquiring life insurance
+policies, and focused instead on developing a business model of providing liquidity to
+holders of illiquid investments and alternative assets.
+GWG had a history of net losses and had not generated sufficient operating and investing
+cash flows to fund its operations. To finance its operations, GWG offered corporate
+bonds (known as L Bonds) to investors with varying maturity periods and interest rates. L
+Bonds were not directly secured by GWG’s life insurance portfolio and were not rated by
+any bond rating agency.
+GWG sold L Bonds to retail investors in four separate offerings and made those sales
+through a network of broker-dealers, including PBD. The offering documents for the
+third and fourth L Bond offerings, which commenced in December 2017 and June 2020,
+respectively, stated the bonds could be considered speculative, involved a high degree of
+risk, were illiquid, and were only suitable for persons with substantial financial resources
+and with no need for liquidity.
+In January 2022, after PBD’s customers made investments in the L Bonds, GWG
+defaulted on its obligations to L Bond investors and suspended further sales of L Bonds.
+In April 2022, GWG filed for bankruptcy.
+
+3
+
+c. Stahlman’s supervision of GWG L Bond Sales
+Stahlman was responsible for maintaining PBD’s WSPs, but he failed to include any
+procedures regarding the suitability of recommendations or the supervision of such
+recommendations. PBD’s WSPs also failed to address how PBD would comply with Reg
+BI with respect to the sale of alternative investments or higher risk products, or address
+concentration risk.
+Additionally, from March 1, 2019, through February 1, 2021, Stahlman failed to
+reasonably supervise the representative with respect to recommendations of GWG L
+Bonds to seven retail customers. The representative sold a total of $494,000 of L Bonds
+to the seven retail customers, where the sales were not suitable or in the best interests of
+the customers given the customers’ investment profiles. Stahlman was the
+representative’s direct supervisor during the relevant period, and approved each sale of
+the L Bonds after reviewing the application documents. Stahlman was aware from the
+application documents that each of the seven customers had a moderate risk tolerance, an
+investment objective other than speculation, and that most had no or limited experience
+with alternative investments. He further knew that each customer had a net worth (not
+including primary residence) of between $79,950 and $580,400, and that each customer’s
+concentration in the speculative, unrated L Bonds was between 11% and 32% of their net
+worth (not including their primary residence). He was also aware that three of the
+customers were seniors. Furthermore, by August 2019, the representative had shared
+concerns with Stahlman that GWG’s business model was not viable and could fail, but
+Stahlman nevertheless continued to approve the sales of L Bonds to customers without
+exercising any additional supervisory scrutiny with respect to GWG’s business.
+Therefore, Stahlman violated FINRA Rules 3110 and 2010.
+2. Stahlman failed to reasonably supervise the retention and review of email
+communications.
+FINRA Rule 3110(b)(4) provides that a firm’s supervisory procedures “shall include
+procedures for the review of incoming and outgoing written (including electronic)
+correspondence and internal communications relating to the member’s investment
+banking or securities business.”
+FINRA Rule 4511 requires member firms to “make and preserve books and records as
+required under the FINRA rules, the Exchange Act and the applicable Exchange Act
+rules.” Section 17(a) of the Exchange Act and Exchange Act Rule 17a-4(b)(4) require
+member firms to maintain, for a period of three years, originals of all communications
+received and copies of all communications sent relating to the member’s business.
+PBD did not maintain a firm email system, offer firm email accounts to its registered
+representatives, or adopt any other system to retain business email communications sent
+and received by its registered representatives. The firm’s WSPs, which Stahlman was
+responsible for establishing and maintaining, prohibited its representatives from using
+email to correspond with customers, and instructed representatives to conduct all
+4
+
+communications with customers by telephone. 3 Nonetheless, Stahlman was aware that
+the representative routinely engaged in email communication from an outside, personal
+email account about PBD’s securities business, including communications with
+customers and with representatives of GWG. Stahlman did not take reasonable steps to
+ensure that the representative’s business-related electronic communications were
+preserved as part of the firm’s books and records, or subjected to supervisory review.
+Therefore, Stahlman violated FINRA Rules 3110, 4511, and 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a six-month suspension from associating with any FINRA member in all principal
+capacities;
+
+
+
+a $15,000 fine; and
+
+
+
+an undertaking that within 90 days of the Notice of Acceptance of this AWC,
+Stahlman will attend and satisfactorily complete 24 hours of continuing education
+concerning supervisory and recordkeeping responsibilities by a provider not
+unacceptable to FINRA. Stahlman will notify Marisa Calleja, Counsel, of the
+name and contact information of the provider of the continuing education at least
+10 days prior to attending the continuing education. Within 30 days following the
+completion of the continuing education, Stahlman will submit written proof that
+the continuing education program was satisfactorily completed to Marisa Calleja
+at marisa.calleja@finra.org. All correspondence must identify the respondent and
+matter number 2021069380601. Upon written request showing good cause,
+FINRA staff may extend any of the deadlines related to the continuing education
+component of the sanction.
+
+Respondent agrees to pay the monetary sanction upon notice that this AWC has been
+accepted and that such payment is due and payable. Respondent has submitted an
+Election of Payment form showing the method by which he proposes to pay the fine
+imposed.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanction imposed in this
+matter.
+Respondent understands that if he is barred or suspended from associating with any
+FINRA member in a principal capacity, he becomes subject to a statutory disqualification
+as that term is defined in Article III, Section 4 of FINRA’s By-Laws, incorporating
+Section 3(a)(39) of the Securities Exchange Act of 1934. Accordingly, Respondent may
+not be associated with any FINRA member in a principal capacity, during the period of
+The WSPs did not address whether other types of business communications, apart from customer correspondence,
+could be conducted by email, and if so, how those communications should be retained and subjected to supervisory
+review.
+
+3
+
+5
+
+the bar or suspension. See FINRA Rules 8310 and 8311. Furthermore, because
+Respondent is subject to a statutory disqualification during the suspension, if he remains
+associated with a member firm in a non-suspended capacity, an application to continue
+that association may be required.
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against him;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+6
+
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+
+D.
+
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+directly or indirectly, any finding in this AWC or create the impression
+that the AWC is without factual basis. Respondent may not take any
+position in any proceeding brought by or on behalf of FINRA, or to which
+FINRA is a party, that is inconsistent with any part of this AWC. Nothing
+in this provision affects Respondent’s right to take legal or factual
+positions in litigation or other legal proceedings in which FINRA is not a
+party. Nothing in this provision affects Respondent’s testimonial
+obligations in any litigation or other legal proceedings.
+
+Respondent may attach a corrective action statement to this AWC that is a
+statement of demonstrable corrective steps taken to prevent future misconduct.
+Respondent understands that he may not deny the charges or make any statement
+that is inconsistent with the AWC in this statement. This statement does not
+constitute factual or legal findings by FINRA, nor does it reflect the views of
+FINRA.
+
+7
+
+Respondent ecrtilies that he has read and understanJs al I or the pro, isions or this A WC and has
+been givcn a full opportunity to ask lJUL'stions about it: Respomknt has agreed to the A WC"s
+provisions voluntarily: and no orfi:r. thrL'at. inducement. or promise or any kinJ. other than the
+terms set forth in this A WC anJ the prospect l)r avoiding the issuance or a complaint. has been
+made to induce him to submit this i\ WC.
+
+~?,~~
+Date
+
+Blaine R. Stahlman
+RL·spondent
+
+Reviewed by:
+
+Sc~i~~--------Counsel for Respondent
+Holcomb+ Ward. LLP
+3455 Peachtree Road. NL
+Suite 500
+Atlanta. GA J0J26
+
+Accepted by FINRA:
+Signnl Oil hehal r or the
+Director or ()[) _1\_ b> tkkgated authority
+
+October 16, 2024
+Date
+
+~
+
+G.J.t--
+
+rv1arisa Calkja
+Counsel
+F!NRi\
+Dt·partmL'nt or l·nforccment
+55 W Monroe Street
+SuitL' 2()00
+Chicago. II. 60(103
+
+8
+
+

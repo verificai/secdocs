@@ -1,0 +1,272 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+LETTER OF ACCEPTANCE, WAIVER, AND CONSENT
+NO. 2020065683302
+TO:
+
+Department of Enforcement
+Financial Industry Regulatory Authority (FINRA)
+
+RE:
+
+Edward Scott Short (Respondent)
+Former General Securities Representative
+CRD No. 2462752
+
+Pursuant to FINRA Rule 9216, Respondent Edward Scott Short submits this Letter of
+Acceptance, Waiver, and Consent (AWC) for the purpose of proposing a settlement of the
+alleged rule violations described below. This AWC is submitted on the condition that, if
+accepted, FINRA will not bring any future actions against Respondent alleging violations based
+on the same factual findings described in this AWC.
+I.
+ACCEPTANCE AND CONSENT
+A.
+
+Respondent accepts and consents to the following findings by FINRA without admitting
+or denying them:
+BACKGROUND
+Respondent entered the securities industry in 1994. In October 2012, Respondent became
+registered as a General Securities Representatives through an association with Laidlaw &
+Company (UK) Ltd., a FINRA member. On October 13, 2022, the firm filed a Uniform
+Termination Notice for Securities Industry Registration (Form U5) stating that
+Respondent was permitted to resign, effective September 14, 2022. Respondent is not
+currently associated with a FINRA member, but remains subject to FINRA’s jurisdiction
+pursuant to Article V, Section 4 of FINRA’s By-Laws.1
+OVERVIEW
+Between July 2018 and December 2020, Respondent recommended a series of trading in
+an account held by a customer that was excessive, unsuitable, and not in the customer’s
+best interest. By this conduct, Respondent willfully violated the Best Interest Obligation
+under Rule 15l-1 of the Securities Exchange Act of 1934 (Regulation BI) (for the period
+June 30, 2020 through December 31, 2020) and violated FINRA Rule 2111 (for the
+period July 1, 2018 through June 29, 2020) and FINRA Rule 2010.
+
+1
+
+For more information about the respondent, visit BrokerCheck® at www.finra.org/brokercheck.
+
+FACTS AND VIOLATIVE CONDUCT
+This matter originated from a cycle examination of the firm.
+As of June 30, 2020, broker-dealers and their associated persons are required to comply
+with Regulation BI under the Securities Exchange Act of 1934. Reg BI’s Best Interest
+Obligation requires a broker, dealer, or a natural person associated with a broker or
+dealer, when making a recommendation of any securities transaction or investment
+strategy involving securities (including account recommendations) to a retail customer, to
+act in the best interest of that retail customer at the time the recommendation is made,
+without placing the financial or other interest of the broker, dealer, or associated person
+ahead of the interest of the retail customer. Reg BI’s Care Obligation, set forth at
+Exchange Act Rule 15l-1(a)(2)(ii), requires broker-dealers and their associated persons to
+exercise reasonable diligence, care, and skill to, among other things, have a reasonable
+basis to believe that a series of recommended transactions, even if in the retail customer’s
+best interest when viewed in isolation, is not excessive and is in the retail customer’s best
+interest in light of the retail customer’s investment profile. A violation of Reg BI also is
+a violation of FINRA Rule 2010, which requires associated persons to “observe high
+standards of commercial honor and just and equitable principles of trade” in the conduct
+of their business.
+Prior to June 30, 2020, FINRA Rule 2111 required members and associated persons to
+have a reasonable basis to believe that a recommended transaction or investment strategy
+involving a security or securities is suitable for the customer. FINRA’s suitability rule
+included an obligation to adhere to standards of “quantitative suitability”—i.e., whether
+the quantity of activity within a given timeframe is suitable in light of the customer's
+financial circumstances and investment objectives. Under Rule 2111.05(c), members and
+associated persons with actual or de facto control over an account were required to have a
+reasonable basis for believing that a series of recommended transactions, even if suitable
+when viewed in isolation, are not excessive and unsuitable for the customer in light of the
+customer’s investment profile. A violation of FINRA Rule 2111 also is a violation of
+FINRA Rule 2010.
+No single test defines when trading is excessive, but factors such as the turnover rate and
+the cost-to-equity ratio are relevant to determining whether a member firm or associated
+person has excessively traded a customer’s account. The turnover rate represents the
+number of times that a portfolio of securities is exchanged for another portfolio of
+securities. The cost-to-equity ratio measures the amount an account must appreciate just
+to cover commissions and other expenses. In other words, it is the break-even point
+where a customer may begin to see a return. A turnover rate of six or a cost-to-equity
+ratio above 20 percent generally indicates that a series of recommended transactions was
+excessive.
+In September 2015, Respondent’s retail customer opened an account with Laidlaw when
+he was aged 77. During the relevant period, the customer had a high net worth and a
+speculative investment objective. Between July 2018 and December 2020, the customer
+2
+
+relied on Respondent’s advice and routinely followed his recommendations and, as a
+result, Respondent exercised de facto control over the customer’s account.
+Between July 2018 and December 2020, Respondent recommended 204 transactions in
+the customer’s account. During this period, the trading in the customer’s account
+generated $116,859 in commissions and resulted in approximately $185,000 in trading
+losses, an annualized cost-to-equity ratio of 76.53%, and an annualized turnover rate of
+47.49. The high cost-to-equity ratio meant the customer’s account would have to grow by
+more than 76 percent annually just to break even. This level of trading was excessive,
+unsuitable, and not in the customer’s best interest.
+Therefore, Respondent willfully violated Exchange Act Rule 15l-1 (for the period June
+30, 2020 through December 31, 2020) and violated FINRA Rule 2111 (for the period
+July 1, 2018 through June 29, 2020) and FINRA Rule 2010.
+B.
+
+Respondent also consents to the imposition of the following sanctions:
+
+
+a seven-month suspension from associating with any FINRA member in all
+capacities;
+
+
+
+a $5,000 fine; and
+
+
+
+restitution of $116,859 plus interest as described below.
+
+The sanctions imposed in this AWC shall be effective on a date set by FINRA.
+The fine shall be due and payable either immediately upon reassociation with a member
+firm or prior to any application or request for relief from any statutory disqualification
+resulting from this or any other event or proceeding, whichever is earlier.
+Restitution is ordered to be paid to the customer listed on Attachment A to this AWC
+(Eligible Customers) in the total amount of $116,859, plus interest at the rate set forth in
+Section 6621(a)(2) of the Internal Revenue Code, 26 U.S.C. § 6621(a)(2), from
+December 31, 2020, until the date the restitution plus interest are due and payable.
+Restitution plus interest ordered pursuant to this disciplinary action are due and payable
+immediately upon reassociation with a member firm or upon submission of any
+application or request for relief from any statutory disqualification resulting from this or
+any other event or proceeding, whichever is earlier.
+Respondent shall submit satisfactory proof of payment of restitution and interest
+(separately specifying the date and amount of each paid to each Eligible Customer) or of
+reasonable and documented efforts undertaken to effect restitution. Such proof shall be
+submitted by email to EnforcementNotice@FINRA.org. The email must identify
+Respondent and the case number and include a copy of the check, money order, or other
+method of payment. This proof shall be provided by email to
+
+3
+
+EnforcementNotice@FINRA.org no later than 120 days after the date the restitution plus
+interest are due and payable.
+The restitution amount plus interest to be paid to each Eligible Customer shall be treated
+by the Respondent as the Eligible Customer’s property for purposes of state escheatment,
+unclaimed property, abandoned property, and similar laws. If after reasonable and
+documented efforts undertaken to effect restitution Respondent is unable to pay all
+Eligible Customers within 120 days after the restitution and interest are due and payable,
+Respondent shall submit to FINRA in the manner described above a list of the unpaid
+Eligible Customers and a description of Respondent’s plan, not unacceptable to FINRA,
+to comply with the applicable escheatment, unclaimed property, abandoned property, or
+similar laws for each such Eligible Customer.
+Respondent specifically and voluntarily waives any right to claim an inability to pay, now
+or at any time after the execution of this AWC, the monetary sanctions imposed in this
+matter.
+The imposition of a restitution order or any other monetary sanctions in this AWC, and
+the timing of such ordered payments, does not preclude customers from pursuing their
+own actions to obtain restitution or other remedies.
+Respondent understands that if he is barred or suspended from associating with any
+FINRA member, he becomes subject to a statutory disqualification as that term is defined
+in Article III, Section 4 of FINRA’s By-Laws, incorporating Section 3(a)(39) of the
+Securities Exchange Act of 1934. Accordingly, he may not be associated with any
+FINRA member in any capacity, including clerical or ministerial functions, during the
+period of the bar or suspension. See FINRA Rules 8310 and 8311.
+Respondent understands that this settlement includes a finding that he willfully violated
+Rule 15l-1 of the Securities Exchange Act of 1934 and that under Article III, Section 4 of
+FINRA’s By-Laws, this makes him subject to a statutory disqualification with respect to
+association with a member.
+II.
+WAIVER OF PROCEDURAL RIGHTS
+Respondent specifically and voluntarily waives the following rights granted under FINRA’s
+Code of Procedure:
+A.
+
+To have a complaint issued specifying the allegations against him;
+
+B.
+
+To be notified of the complaint and have the opportunity to answer the allegations
+in writing;
+
+4
+
+C.
+
+To defend against the allegations in a disciplinary hearing before a hearing panel,
+to have a written record of the hearing made, and to have a written decision
+issued; and
+
+D.
+
+To appeal any such decision to the National Adjudicatory Council (NAC) and
+then to the U.S. Securities and Exchange Commission and a U.S. Court of
+Appeals.
+
+Further, Respondent specifically and voluntarily waives any right to claim bias or prejudgment
+of the Chief Legal Officer, the NAC, or any member of the NAC, in connection with such
+person’s or body’s participation in discussions regarding the terms and conditions of this AWC,
+or other consideration of this AWC, including its acceptance or rejection.
+Respondent further specifically and voluntarily waives any right to claim that a person violated
+the ex parte prohibitions of FINRA Rule 9143 or the separation of functions prohibitions of
+FINRA Rule 9144, in connection with such person’s or body’s participation in discussions
+regarding the terms and conditions of this AWC, or other consideration of this AWC, including
+its acceptance or rejection.
+III.
+OTHER MATTERS
+Respondent understands that:
+A.
+
+Submission of this AWC is voluntary and will not resolve this matter unless and
+until it has been reviewed and accepted by the NAC, a Review Subcommittee of
+the NAC, or the Office of Disciplinary Affairs (ODA), pursuant to FINRA Rule
+9216;
+
+B.
+
+If this AWC is not accepted, its submission will not be used as evidence to prove
+any of the allegations against Respondent; and
+
+C.
+
+If accepted:
+1.
+
+this AWC will become part of Respondent’s permanent disciplinary
+record and may be considered in any future action brought by FINRA or
+any other regulator against Respondent;
+
+2.
+
+this AWC will be made available through FINRA’s public disclosure
+program in accordance with FINRA Rule 8313;
+
+3.
+
+FINRA may make a public announcement concerning this agreement and
+its subject matter in accordance with FINRA Rule 8313; and
+
+4.
+
+Respondent may not take any action or make or permit to be made any
+public statement, including in regulatory filings or otherwise, denying,
+5
+
+Accepted by FINRA:
+Signed on behalf of the
+Director of ODA, by delegated authority
+•*--"N
+
+t 131 /23
+Date
+
+Robert Fair
+Senior Counsel
+FINRA
+Department of Enforcement
+200 Liberty Street, 1 lth floor
+New York, NY 10281-1003
+
+7
+
+PUBLIC VERSION
+Attachment A
+Customer
+Customer
+
+Restitution
+Amount
+$116,859
+
+9
+
+Interest Date
+December 31, 2020
+
+

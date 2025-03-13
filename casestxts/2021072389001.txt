@@ -1,0 +1,1187 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+OFFICE OF HEARING OFFICERS
+Department of Enforcement,
+Complainant,
+
+Disciplinary Proceeding
+No. 2021072389001
+
+v.
+Christopher Booth Kennedy
+CRD No. 4498061,
+Respondent.
+
+COMPLAINT
+The Department of Enforcement alleges:
+SUMMARY
+1.
+
+Between July 2020 and July 2021, Respondent Christopher Kennedy churned and
+
+excessively traded four accounts of six customers (Customers 1–6) as a registered representative
+of FINRA member Western International Securities.
+2.
+
+Kennedy used his control over these accounts to direct an excessive series of
+
+transactions in each account that generated commissions for his own benefit at the customers’
+expense.
+3.
+
+In all, between July 2020 and July 2021, Kennedy directed over 5,300 trades
+
+representing net trading of more than $350 million in the four accounts of Customers 1–6. Each
+month, Kennedy made an average of 102 trades per account representing net trading of more
+than $6.9 million per account or approximately 13 times the average account value.
+4.
+
+Kennedy’s trading for Customers 1–6 resulted in annualized cost-to-equity ratios
+
+ranging from 27% to 39% for an average cost-to-equity ratio of more than 31% across all their
+
+accounts. In addition, Kennedy’s trading resulted in annualized turnover rates ranging from 31 to
+58, for an average turnover rate of more than 47 across all their accounts, even excluding options
+purchases.
+5.
+
+As the result of Kennedy’s excessive trading, Customers 1–6 collectively lost
+
+over $2.3 million in value from their accounts and paid more than $715,000 in total trading costs
+and margin interest, including over $595,000 in commissions.
+6.
+
+Moreover, in March 2021, Kennedy began making fake account statements to
+
+hide the results of his trading from Customers 1 and 2, the husband and wife co-trustees of a
+family trust account. Over the next six months, Kennedy prepared and sent six fake account
+statements to Customers 1 and 2 from his personal email. Kennedy supplemented these fake
+account statements by making a series of other false statements to Customers 1 and 2 inflating
+their account value.
+7.
+
+For example, in August 2021 Kennedy sent a fake account statement for July
+
+2021 to Customers 1 and 2 purporting to show an ending balance of $5.2 million and a gain in
+value of over $3 million since July 2020. In fact, as of July 2021, under Kennedy’s control the
+account had lost nearly all of its value and only approximately $160,000 in value remained in the
+account.
+8.
+
+During FINRA’s investigation of his trading, Kennedy repeatedly lied to FINRA
+
+staff in response to the staff’s requests for information and testimony pursuant to FINRA Rule
+8210. In particular, Kennedy falsely denied preparing any fake account statements for Customers
+1 and 2 and falsely claimed that his personal email had been hacked and that an imposter had
+sent all but one of the fake account statements.
+
+2
+
+9.
+
+By churning the accounts of Customers 1–6, Kennedy willfully violated Section
+
+10(b) of the Securities Exchange Act of 1934 (Exchange Act) and Rule 10b-5 thereunder and
+violated FINRA Rules 2020 and 2010; by excessively trading their accounts, he willfully
+violated Regulation Best Interest (Regulation BI) and violated FINRA Rule 2010; by falsifying
+account statements and making false representations to his customers, he violated FINRA Rule
+2010; and by providing false written responses and false testimony in response to FINRA’s Rule
+8210 requests, he violated FINRA Rules 8210 and 2010.
+RESPONDENT AND JURISDICTION
+10.
+
+Kennedy was first registered with FINRA in March 2002 through his association
+
+with a FINRA member firm. After being discharged from that firm in August 2007, he was
+registered with FINRA as a General Securities Representative through another member firm
+from December 2007 to February 2008, through a former member firm from January 2009 to
+August 2017, through Western from August 2017 to July 2019, and through another member
+firm from July 2019 to December 2019. Kennedy was last registered with FINRA through
+Western as a General Securities Representative beginning December 2019. Western filed a Form
+U5 notice to terminate Kennedy’s registration on September 27, 2021, disclosing that Kennedy
+had been discharged. Although Kennedy is no longer registered or associated with a FINRA
+member, he remains subject to FINRA’s jurisdiction for purposes of this proceeding, pursuant to
+Article V, Section 4 of FINRA’s By-Laws, because (1) the Complaint was filed within two years
+after September 27, 2021, which was the effective date of termination of Kennedy’s registration
+with Western, and (2) the Complaint charges him with misconduct committed while he was
+registered or associated with a FINRA member and with providing false information in response
+to FINRA requests for information and false on-the-record testimony to FINRA during the two-
+
+3
+
+year period after the date on which he ceased to be registered or associated with a FINRA
+member.
+FACTS
+Overview of Kennedy’s Day-Trading Strategy, Control of Accounts, and Use of Discretion
+11.
+
+By July 2020, Kennedy was recommending, or using discretion to implement, and
+
+thereby implicitly recommending, a leveraged day-trading strategy to customers. Kennedy
+claimed to rely on technical analysis to speculate on intra-day price movement. He purported to
+use technical indicators such as “Gann levels” and relative strength indicators to determine if and
+when to enter and exit long or short positions throughout a trading day. He also used specialized
+trading software to calculate, visualize, and evaluate these technical indicators in order to make
+his trading decisions.
+12.
+
+Kennedy’s recommended day-trading strategy and his use of discretion to
+
+implement it in the accounts of Customers 1–6 constituted a series of recommended transactions
+for which he did not have a reasonable basis to believe was not excessive and was in their best
+interest, in light of the associated substantial commissions and the customers’ investment
+profiles. Customers 1–6 were ordinary retail investors whose investment goals were not served
+by trading and speculation. They lacked the risk tolerance for day-trading. They were not
+prepared to lose all of the funds in the accounts in which Kennedy day-traded or to suffer
+extraordinary losses beyond their initial investment from Kennedy’s use of leverage.
+13.
+
+Customers 1–6 did not sufficiently understand and lacked the time, tools, and
+
+level of investing experience necessary to independently evaluate Kennedy’s aggressive daytrading strategy, investment decisions, or recommendations. Instead, Customers 1–6 placed a
+significant degree of trust and confidence in Kennedy. Kennedy relied on that trust and traded in
+
+4
+
+the accounts of Customers 1–6 without consulting them for preapproval of particular trades. If
+they were consulted about particular trades, Customers 1–6 routinely accepted Kennedy’s
+recommendations.
+14.
+
+Kennedy implemented his day-trading strategy for Customers 1–6 by using
+
+discretion in their non-discretionary brokerage accounts at Western. Although these customers
+were trusting Kennedy to use some discretion in their accounts, Kennedy did not formally
+convert their accounts to discretionary accounts or memorialize his discretionary authority in
+writing.
+15.
+
+On some trading days, Kennedy used discretion in the brokerage accounts of
+
+Customers 1–6 by making trades on their behalf without consulting them first.
+16.
+
+On the remaining trading days, when Kennedy communicated with Customers 1–
+
+6 prior to trading, Kennedy used discretion in their accounts by advising them only about his
+general strategy, if he advised them about the day’s potential trading at all, and then making
+specific investment decisions on their behalf later.
+17.
+
+On the days when Kennedy communicated with Customers 1–6 prior to trading,
+
+he sometimes advised them that he intended to day-trade for their accounts that day up to an
+amount that was not supposed to exceed their FINRA Rule 4210 day-trading buying power. 1
+Kennedy sometimes identified for customers the companies whose securities he was targeting for
+day-trading if and when their technical indicators signaled to him an imminent price movement
+in a particular direction. Generally, Kennedy targeted multiple securities on trading days.
+Kennedy did not, however, specifically recommend or seek preapproval for the purchase or sale
+Under FINRA Rule 4210(f)(8)(B)(iii), the term “day–trading buying power” means the equity in a customer’s
+account at the close of business of the previous day, less any applicable maintenance margin requirement, multiplied
+by four for equity securities. For non–equity securities, the Rule provides that “day–trading buying power” may be
+computed using the applicable special maintenance margin requirements.
+
+1
+
+5
+
+of a definite amount of any particular security when advising customers about his general
+strategy or the securities he was targeting for day-trading.
+18.
+
+In this way, Kennedy made investment decisions on behalf of Customers 1–6 and
+
+controlled the volume and frequency of the trading in their accounts. In particular, Kennedy
+controlled what securities to target, whether or not to buy or sell his targeted securities or some
+other securities, the amount of each security to buy or sell, the date and time to enter and/or exit
+the trades, and the prices at which to enter and/or exit the trades. With respect to options,
+Kennedy also ultimately controlled the option series he used to take a long or short position.
+19.
+
+Each trading day, Kennedy implemented his day-trading strategy for multiple
+
+customers using the Western average-price trading account for his branch. He first calculated the
+customers’ combined day-trading buying power and then sought to trade the securities of some
+or all of his targeted companies up to that combined amount in the average-price account.
+20.
+
+Initially, Kennedy targeted equity securities using margin for leverage. Over time,
+
+Kennedy increasingly used options for leverage instead. In particular, Kennedy increasingly used
+options for his targeted companies that were close to expiration. All else remaining the same,
+options that are close to expiration will lose value at an increasing rate. If they cannot be sold or
+exercised prior to expiration, they will expire worthless.
+21.
+
+Kennedy monitored the securities of his targeted companies for the technical
+
+indicators he speculated would signal when to enter or exit a long or short position. When
+Kennedy decided to enter one or more positions, he made a large opening transaction or multiple
+smaller opening transactions in the branch average-price trading account until each position or
+positions reached his intended size, trying not to exceed the total day-trading buying power of
+the participating customers. When Kennedy decided to exit one or more positions, he made
+
+6
+
+closing transactions in same manner in the average-price trading account, trying not to exceed
+the total quantities of each security that he had traded for customers.
+22.
+
+Kennedy referred to these positions as “block trades” and he allocated his block
+
+trades from the branch average-price trading account at their average price to the customers he
+chose to include in his strategy that day. Generally, Kennedy’s stated intention was to allocate
+his block trades to those customers roughly in proportion to their day-trading buying power.
+23.
+
+Kennedy did not consistently record which customers he was including in the
+
+strategy that day or how the trades were supposed to be allocated before executing trades. As a
+result, Kennedy could allocate trades post-execution.
+24.
+
+When Kennedy did not record the trade allocation prior to trading, or when
+
+Kennedy could not trade an amount Kennedy determined was cost-effective to allocate among
+all participating customers pro rata, Kennedy used his discretion to determine what customers he
+would include in the block trades and how the block trades would be allocated among those
+customers.
+25.
+
+Kennedy traded in this way for Customers 1–6 from July 2020 through July
+
+2021. From May 2021 until the last week in July 2021, however, Kennedy was restricted from
+making trades in the average-price trading account directly. During this period, Kennedy either
+traded in individual customer accounts or sent his block trade orders to the firm’s trading desk or
+to others at the firm for entry and execution.
+
+7
+
+Summary of Kennedy’s Trading in the Accounts of Customers 1–6
+Customers 1 and 2
+26.
+
+Customers 1 and 2 reside in southern California. They were 33 and 36 years old,
+
+respectively in July 2020. They are married and have two young children. Customer 1 works as a
+real estate broker and Customer 2 works in insurance.
+27.
+
+Customers 1 and 2 opened a brokerage account at Western as trustees of a trust
+
+for the benefit of themselves and their children in 2018. At the time, they had limited knowledge
+about investing. Their primary investment objective for the account was income and
+growth/income and their risk tolerance was moderate. During the relevant period, they
+considered Kennedy a friend and socialized with him.
+28.
+
+At the beginning of July 2020, Customer 1 and 2’s family trust account at
+
+Western was worth $781,978.85.
+29.
+
+From July 2020 to July 2021, Kennedy directed 1,779 trades in Customer 1 and
+
+2’s account that he marked solicited.
+30.
+
+Kennedy frequently communicated with Customers 1 and 2. But Kennedy rarely,
+
+if ever, sought preapproval for specific recommendations before trading in their account. Instead,
+he used discretion to implement his strategy in their account and implicitly recommended the
+resulting transactions. If Kennedy did consult with Customers 1 and 2 about specific
+recommendations prior to trading, it was a formality because they could not have independently
+evaluated them and would routinely follow any recommendations that Kennedy made.
+31.
+
+Kennedy’s trading for Customers 1 and 2 that he marked solicited represented
+
+over $195 million of net trading (the sum of the absolute values of the net purchase and sale
+
+8
+
+amounts), which accounted for more than 88% of the total net trading in the account and over
+93% of the total trades.
+32.
+
+Kennedy’s trading for Customers 1 and 2 that he marked solicited and use of
+
+margin caused them to incur $275,093.47 in total costs, including $243,580.45 in commissions
+and $17,504.72 in margin interest. The overall cost-to-equity ratio for the trading that Kennedy
+marked solicited was 27% and the overall turnover rate, excluding options trades, was 58.
+33.
+
+Kennedy directed a pattern of in-and-out trading (held trades open for 30 days or
+
+less) for over 88% ($172 million) of the total net trading for Customers 1 and 2 that he marked
+solicited ($195 million). Kennedy day-traded (bought and sold the same quantity of the same
+security on the same day) for more than 54% ($107 million) of that total net trading. On average,
+Kennedy held each position that he marked solicited open less than 3 days.
+34.
+
+Kennedy directed more than $77 million of net trading in options for Customers 1
+
+and 2 that he marked solicited, spending over $39 million to purchase opening positions.
+35.
+
+Kennedy bought options expiring in 30 days or less for over 97% ($38.3 million)
+
+of the total amount he spent to purchase opening options positions for Customers 1 and 2 in
+trades that he marked solicited ($39.1 million). Kennedy bought options expiring in 7 days or
+less for more than 61% ($24.2 million) of that purchase amount. The average time until
+expiration for the options Kennedy bought for Customers 1 and 2 in trades that he marked
+solicited was less than 8 days.
+36.
+
+Kennedy spent more than $1 million to purchase options that expired worthless in
+
+trades for Customers 1 and 2 that he marked solicited, resulting in a total loss.
+
+9
+
+37.
+
+Kennedy’s trading for Customers 1 and 2 involved the use of margin. Under
+
+Kennedy’s control, their account maintained an average month-end margin balance of
+$384,042.33, which was 41% of the account’s average month-end value.
+38.
+
+By the end of July 2021, Kennedy had caused Customers 1 and 2 to realize net
+
+trading losses of $968,301.82 (on a first-in-first-out basis) from the trades that he had marked as
+solicited alone. In addition, the account had a margin debit balance of $100,515.61. In all, under
+Kennedy’s control the value of Customer 1 and 2’s account had decreased from $781,978.85 to
+$162,452.83 (after including $60,745.16 from trades pending settlement), despite net deposits of
+$951,515.96, for a total decrease in value of $1,571,041.98.
+Customer 3
+39.
+
+Customer 3 was 74 years old in July 2020. He resides in southern California,
+
+where he owns and operates a small family heating and air conditioning (HVAC) business.
+Customer 3 had been a customer of Kennedy’s for approximately nineteen years. At the time,
+Customer 3 considered Kennedy a friend.
+40.
+
+At the beginning of July 2020, Customer 3’s account at Western was worth
+
+$715,856.77. Customer 3 sought consistent 4-6% returns without being aggressive, and hoped he
+might use the account in the future to purchase another residential property. His investment
+knowledge was “good” but not extensive, his primary investment objective was recorded as
+capital appreciation, and his risk tolerance was moderate.
+41.
+
+From July 2020 to July 2021, Kennedy directed 1,288 transactions in Customer
+
+3’s account that he marked solicited.
+42.
+
+Kennedy communicated with Customer 3 before trading in his account only
+
+infrequently. Kennedy rarely if ever sought preapproval for specific recommendations. Instead,
+
+10
+
+Kennedy used discretion to implement his strategy in the account and implicitly recommended
+the resulting transactions. If Kennedy consulted with Customer 3 about specific
+recommendations before trading, it was a formality because Customer 3 could not have
+independently evaluated them and would routinely follow any recommendations Kennedy made.
+43.
+
+Kennedy’s trading for Customer 3 that he marked solicited represented over $80
+
+million in net trading, which was more than 96% of the total net trading in the account and over
+95% of the trades.
+44.
+
+Kennedy’s trading for Customer 3 that he marked solicited and use of margin
+
+resulted in $190,974.70 in total costs, including $139,592.47 in commissions and $42,310.54 in
+margin interest. The overall cost-to-equity ratio for the trading that Kennedy marked solicited
+was 31% and the overall turnover rate, excluding options trades, was 42.
+45.
+
+Kennedy directed a pattern of in-and-out trading for over 91% ($73.3 million) of
+
+the total net trading for Customer 3 that he marked solicited ($80.4 million). Kennedy day-traded
+for more than 55% ($44.4 million) of that total net trading. The average holding period for trades
+that Kennedy that marked solicited was less than 4 days.
+46.
+
+Kennedy directed more than $30 million of net trading in options for Customer 3
+
+that he marked solicited, spending over $15 million to purchase opening positions.
+47.
+
+Kennedy bought options expiring in 30 days or less for over 96% ($14.7 million)
+
+of the total amount he spent to purchase opening options positions for Customer 3 in trades that
+he marked solicited ($15.3 million). Kennedy bought options expiring in 7 days or less for more
+than 55% ($8.5 million) of that total purchase amount. The average time until expiration for the
+options Kennedy bought for Customer 3 in trades that he marked solicited was less than 10 days.
+
+11
+
+48.
+
+Kennedy purchased over $435,000 of options that expired worthless in trades for
+
+Customer 3 that Kennedy marked solicited, resulting in a total loss.
+49.
+
+Kennedy’s trading for Customer 3 involved the use of margin. Under Kennedy’s
+
+control, the account maintained an average month-end margin balance of $767,763.97, which
+was 138% of the account’s average month end value.
+50.
+
+By the end of July 2021, Kennedy had caused Customer 3 to realize net trading
+
+losses of $202,863.63 from the trades he had marked solicited alone. In addition, the account had
+a margin debit balance of $895,011.51. In all, under Kennedy’s control the value of Customer
+3’s account had decreased from $715,856.77 to $238,120.79, despite net deposits of $2,800, for a
+total decrease in value of $480,535.98.
+Customers 4-5
+51.
+
+Customers 4 and 5 are the husband and wife co-trustees of a family trust account.
+
+In July 2020, they were 45 and 41 years old, respectively. They have three children and reside in
+southern California. Customer 4 is an electrical engineer in the telecommunications field and
+Customer 5 is a college professor. Customers 4 and 5 had opened an account with Kennedy by
+April 2013 because members of their family had previously had accounts with Kennedy’s father.
+52.
+
+At the beginning of July 2020, Customers 4 and 5’s account at Western was worth
+
+$315,975.50. Their investment knowledge was “good” but not extensive. Their primary
+investment objectives for the account were capital appreciation and income and their risk
+tolerance was moderate aggressive.
+53.
+
+From July 2020 to July 2021, Kennedy directed 1,038 transactions Customer 4
+
+and 5’s account that he marked solicited.
+
+12
+
+54.
+
+Kennedy almost never communicated with Customers 4 and 5 or sought
+
+preapproval for specific recommendations before directing transactions in their account. Instead,
+Kennedy used discretion to implement his strategy in their account and implicitly recommended
+the resulting transactions. If Kennedy consulted with Customers 4 and 5 about specific
+recommendations before trading, it was a formality because they could not have independently
+evaluated them and would have routinely followed them.
+55.
+
+Kennedy’s trading for Customers 4 and 5 that he marked solicited represented
+
+over $38 million in net trading, which accounted for 95% of the total net trading in the account
+and over 96% of the total trades.
+56.
+
+Kennedy’s trading for Customers 4 and 5 that he marked solicited and use of
+
+margin caused them to incur $112,170.17 in total costs, including $93,886.38 in commissions
+and $11,324.34 in margin interest. The overall cost-to-equity ratio for the trading that Kennedy
+marked solicited was 39% and the overall turnover rate, excluding options trades, was 37.
+57.
+
+Kennedy directed a pattern of in-and-out trading for over 89% ($34.6 million) of
+
+the total net trading for Customers 4 and 5 that he marked solicited ($38.6 million). Kennedy
+day-traded for more than 46% ($18 million) of that total net trading. On average, Kennedy held
+each position that he marked solicited open less than 6 days.
+58.
+
+Kennedy directed more than $17.5 million of net trading in options for Customers
+
+4 and 5 that he marked solicited, spending $8.8 million to purchase opening positions.
+59.
+
+Kennedy bought options expiring in 30 days or less for over 97% ($8.6 million)
+
+of the total amount he spent to purchase opening options positions for Customers 4 and 5 in
+trades that he marked solicited ($8.8 million). Kennedy bought options expiring in 7 days or less
+for more than 57% ($5 million) of that total purchase amount. The average time until expiration
+
+13
+
+for the options Kennedy bought for Customers 4 and 5 in trades that he marked solicited was less
+than 9 days.
+60.
+
+Kennedy purchased more than $260,000 in options that expired worthless in
+
+trades for Customers 4 and 5 that he marked solicited, resulting in a total loss.
+61.
+
+Kennedy’s trading for Customers 4 and 5 involved the use of margin. Under
+
+Kennedy’s control, their account maintained an average month-end margin balance of
+$222,235.05, which was 80% of the account’s average month-end value.
+62.
+
+By the end of July 2021, Kennedy had caused Customers 4 and 5 to realize net
+
+trading losses of $342,380.01 from the trades that he had marked as solicited alone. In addition,
+the account had a margin debit balance of $9,226.56. In all, under Kennedy’s control the value of
+Customer 4 and 5’s account had decreased from $346,297.55 to $269,039.56 (after including
+$250,545.33 from trades pending settlement), despite net deposits of $15,600.00, for a total
+decrease in value of $92,857.99.
+Customer 6
+63.
+
+Customer 6 resides in southern California. She was 66 years old in July 2020. She
+
+works in the real estate industry. She had established a brokerage account as the trustee of a
+generation-skipping trust in approximately 2002, and since then it had been handled by
+Kennedy’s father before Kennedy took it over in 2012 after his father passed away.
+64.
+
+At the beginning of July 2020, Customer 6’s account, which was by now at
+
+Western, was worth $315,975.50. Her investment knowledge was “good” but not extensive. Her
+investment objective for the account was capital appreciation and her risk tolerance was
+moderate. Customer 6 also wanted a portion of the account to remain readily available for an
+emergency.
+
+14
+
+65.
+
+From July 2020 to July 2021, Kennedy directed 1,224 trades in Customer 6’s
+
+account that he marked solicited.
+66.
+
+Kennedy almost never communicated with Customer 6 or sought preapproval for
+
+specific recommendations before directing transactions in her account. Instead, Kennedy used
+discretion to implement his strategy in her account and implicitly recommended the resulting
+transactions. If Kennedy consulted with Customer 6 about specific recommendations before
+trading, it was a formality because she could not have independently evaluated them and would
+have routinely followed them.
+67.
+
+Kennedy’s trading for Customers 6 that he marked solicited represented over $44
+
+million in net trading, which accounted for more than 94% of the total net trading in the account
+and over 96% of the total trades.
+68.
+
+Kennedy’s trading for Customer 6 that he marked solicited and use of margin
+
+caused her to incur $137,520.99 in total costs, including $118,870.09 in commissions and
+$10,393.17 in margin interest. The overall cost-to-equity ratio for the trading that Kennedy
+marked solicited was 38% and the overall turnover rate, excluding options trades, was 31.
+69.
+
+Kennedy directed a pattern of in-and-out trading for over 90% ($40.4 million) of
+
+the total net trading for Customer 6 that he marked solicited ($44.7 million). Kennedy day-traded
+for more than 46% ($20.9 million) of that total net trading. On average, Kennedy held each
+position that he marked solicited open less than 4 days.
+70.
+
+Kennedy’s directed more than $23 million of net trading in options for Customer
+
+6 that he marked solicited, spending over $11 million to purchase opening positions.
+71.
+
+Kennedy bought options expiring in 30 days or less for over 97% ($11.6 million)
+
+of the amount he spent to purchase opening options positions for Customer 6 in trades that he
+
+15
+
+marked solicited ($23.3 million). Kennedy bought options expiring in 7 days or less for more
+than 59% ($6.9 million) of that total purchase amount. The average time until expiration for the
+options Kennedy bought for Customer 6 in trades that he marked solicited was less than 8 days.
+72.
+
+Kennedy spent more than $400,000 to purchase options that expired worthless in
+
+trades for Customer 6 that he marked solicited, resulting in a total loss.
+73.
+
+Kennedy’s trading for Customer 6 involved the use of margin. Under Kennedy’s
+
+control, her account maintained an average month-end margin balance of $253,283.89, which
+was 77% of the account’s average month-end value.
+74.
+
+By the end of July 2021, Kennedy had caused Customer 6 to realize net trading
+
+losses of $201,708.73 from the trades that he had marked as solicited alone. In addition, the
+account had a margin debit balance of $418,357.04. In all, under Kennedy’s control the value of
+Customer 6’s account had decreased from $315,975.50 to $99,914.80, for a total decrease in
+value of $216,060.70.
+Kennedy’s Falsification of Accounts Statements and False Statements to Customers
+75.
+
+By July 2020, Customers 1 and 2 had elected to receive their account statements,
+
+trade confirmations, certain letters, prospectuses, financial reports, and other account-related
+documents via electronic delivery. In order to view these documents, Customers 1 and 2 had to
+first login to an online client portal. Instead of using the portal, however, Customers 1 and 2
+relied on Kennedy for information about their account.
+76.
+
+In January 2021, Kennedy prepared a revised client agreement for Customers 1
+
+and 2 to sign. The revised agreement changed their stated level of investment knowledge to
+“Good,” their investment objectives to trading and speculation, and their risk profile to
+aggressive. During this time, when Kennedy requested that Customers 1 and 2 sign and return
+
+16
+
+documents related to their account, it was their practice to do so, trusting Kennedy that it was
+necessary and appropriate. Accordingly, and without having a complete and accurate
+understanding of what was occurring in their account, Customers 1 and 2 signed and returned the
+revised client agreement to Kennedy.
+77.
+
+By February 2021, Customers 1 and 2 had lost access to the online client portal.
+
+As a result, they could not view their account statements or trade confirmations. They asked
+Kennedy to reset their online portal password and provide them with a new one.
+78.
+
+Kennedy obtained a new online portal password for Customers 1 and 2 in
+
+February 2021. But instead of providing it to them, Kennedy told them that he still “need[ed] to
+set it up.”
+79.
+
+In March 2021, Customers 1 and 2 again asked Kennedy for help accessing the
+
+online portal. Instead of providing the new password, Kennedy told Customers 1 and 2 that
+technical issues with the account portal website were preventing access to their accounts.
+80.
+
+For the next six months, Kennedy repeatedly lied to Customers 1 and 2 about the
+
+activity in their account while they could not access the client portal. In particular, Kennedy
+prepared and sent Customers 1 and 2 six fake account statements misrepresenting the
+transactions in their account and overstating the actual performance of his day-trading strategy.
+81.
+
+Without having a complete and accurate understanding of what was occurring in
+
+their account during this period, Customers 1 and 2 continued to allow Kennedy discretion to
+trade for their account and continued to accept Kennedy’s recommendations, through July 2021.
+82.
+
+Specifically, in March 2021, Kennedy prepared a fake February 2021 account
+
+statement that misrepresented the value of Customer 1 and 2’s account as $2,446,318.47.
+
+17
+
+83.
+
+In fact, the true value of Customer 1 and 2’s account as shown on the genuine
+
+February 2021 account statement was $955,587.23.
+84.
+
+The fake February 2021 account statement also misrepresented the assets and
+
+securities transactions in the account. In fact, the actual assets and securities transactions in the
+account for February 2021 were reflected on the genuine February 2021 account statement.
+85.
+
+On March 25, 2021, Kennedy sent the fake February 2021 account statement to
+
+Customer 2 using Kennedy’s personal email.
+86.
+
+Also on March 25, 2021, Kennedy texted a screen shot of the fake February 2021
+
+account statement to Customers 1 and 2 showing the false month end value. Kennedy then texted
+that the current value of the account had increased to “[$]3.2” million. In fact, the true value of
+the account that day was less than $850,000.
+87.
+
+Kennedy prepared a fake March 2021 account statement that misrepresented the
+
+value of Customer 1 and 2’s account at $2,784,791.88. In fact, the true account value as shown
+on the genuine March 2021 account statement was $673,384.15.
+88.
+
+The fake March 2021 account statement also misrepresented the assets and
+
+securities transactions in the account. In fact, the actual assets and securities transactions in the
+account for March 2021 were reflected on the genuine March 2021 account statement.
+89.
+
+On April 25, 2021, Kennedy sent the fake March 2021 account statement to
+
+Customer 2 using Kennedy’s personal email.
+90.
+
+In May 2021, Kennedy prepared a fake April 2021 account statement that
+
+mispresented the value of Customer 1 and 2’s account as $2,960,749.66.
+91.
+
+In fact, the true account value as shown on the genuine April 2021 account
+
+statement was $647,506.83.
+
+18
+
+92.
+
+The fake April 2021 account statement also misrepresented the assets and
+
+securities transactions in the account. In fact, the actual assets and securities transactions in the
+account for April 2021 were reflected on the genuine April 2021 account statement.
+93.
+
+On May 13, 2021, Kennedy sent the fake April 2021 account statement to
+
+Customer 2 using Kennedy’s personal email.
+94.
+
+Also on May 13, 2021, Kennedy sent a text to Customers 1 and 2, stating that the
+
+current value of the account was $3,466,276. That statement was false. In fact, the true value of
+the account that day was less than $1 million.
+95.
+
+In July 2021, Kennedy prepared a fake May 2021 account statement that
+
+misrepresented the value of Customer 1 and 2’s account as $3,381,087.28. In fact, the true
+account value as shown on the genuine May 2021 account statement was $1,060,720.46.
+96.
+
+On July 26, 2021, Kennedy sent the fake May 2021 account statement to
+
+Customer 2 using Kennedy’s personal email.
+97.
+
+Kennedy’s fake May 2021 account statement also misrepresented the assets and
+
+securities transactions in the account. In fact, the actual assets and securities transactions in the
+account for May 2021 were reflected on the genuine May 2021 account statement.
+98.
+
+In July 2021, Kennedy prepared a fake June 2021 account statement that
+
+misrepresented the value of Customer 1 and 2’s account as $5,658,339.12. In fact, the true
+account value as shown on the genuine June 2021 account statement was $603,316.26.
+99.
+
+Kennedy’s fake June 2021 account statement also misrepresented the assets and
+
+securities transactions in the account. In fact, the actual assets and securities transactions in the
+account for June 2021 were reflected on the genuine June 2021 account statement.
+
+19
+
+100.
+
+On July 28, 2021, Kennedy sent the fake June 2021 account statement to
+
+Customer 2 using Kennedy’s personal email.
+101.
+
+In August 2021, Kennedy prepared a fake July 2021 account statement that
+
+misrepresented the value of Customer 1 and 2’s account as $5,264,365.47.
+102.
+
+In fact, the true account value as shown on the genuine July 2021 account
+
+statement was $101,707.67 (plus $60,745.16 from trades pending settlement).
+103.
+
+Kennedy’s fake July 2021 account statement also misrepresented the assets and
+
+securities transactions in the account. In fact, the actual assets and securities transactions in the
+account for July 2021 were reflected on the genuine July 2021 account statement.
+104.
+
+On August 20, 2021, Kennedy sent the fake July 2021 account statement to
+
+Customers 1 and 2 using Kennedy’s personal email.
+105.
+
+Also on August 20, 2021, Customer 1 texted Kennedy: “Do you know what our
+
+account value is?” Kennedy responded that the account value was “[$]6.324” million. That
+representation was false. In fact, the true value of the account that day was less than $200,000.
+106.
+
+On September 2, 2021, Customer 1 contacted Western directly about their
+
+account, which led to his discovery that Kennedy had been providing Customers 1 and 2 with
+false account statements and false account information.
+Kennedy’s False Responses to FINRA Rule 8210 Requests and False Testimony
+107.
+
+On September 24, 2021, in connection with FINRA’s investigation of the
+
+misconduct charged in this matter, FINRA staff requested, pursuant to Rule 8210, that Kennedy
+provide a signed written statement detailing the facts relating to his termination from Western.
+The same day, FINRA staff also requested, again pursuant to Rule 8210, that Kennedy appear for
+on-the-record testimony in connection with the investigation. FINRA staff issued additional
+
+20
+
+follow-up requests pursuant to Rule 8210 to secure the information and testimony previously
+requested.
+108.
+
+On October 26, 2021, Kennedy responded in writing to FINRA’s Rule 8210
+
+request for a written statement detailing the facts relating to his termination. Although Kennedy
+admitted sending an inaccurate July 2021 account statement to Customer 1 from his personal
+email, he falsely denied preparing it, claiming that it had been generated by a back office
+operations system. In addition, Kennedy falsely denied sending any other account statements to
+Customers 1 or 2 using his personal email.
+109.
+
+On December 3, 2021, during sworn testimony requested pursuant to FINRA
+
+Rule 8210, Kennedy made similar false statements. Specifically, Kennedy falsely testified that
+he did not prepare or send the fake account statements for February 2021, March 2021, April
+2021, May 2021, and June 2021 to Customers 1 or 2. Kennedy again denied preparing the fake
+July 2021 account statement. Instead, Kennedy falsely testified that he had downloaded the July
+2021 statement from an online clearing firm system and sent it to Customers 1 and 2 without
+modification.
+110.
+
+In fact, Kennedy had prepared and sent the fake February 2021, March 2021,
+
+April 2021, May 2021, and June 2021 account statements to Customers 1 and 2. And in fact,
+Kennedy had modified the July 2021 statement after downloading it and before sending it to
+Customers 1 and 2.
+
+21
+
+FIRST CAUSE OF ACTION
+Churning – Securities Fraud
+(Willful Violations of Section 10(b) of the Exchange Act and
+Exchange Act Rule 10b-5; Violations of FINRA Rules 2020 and 2010)
+111.
+
+The Department of Enforcement realleges and incorporates by reference
+
+paragraphs 1–110 above.
+112.
+
+Section 10(b) of the Exchange Act prohibits the use of any manipulative or
+
+deceptive device or contrivance in connection with the purchase or sale of a security.
+113.
+
+17 C.F.R. § 240.10b-5 (Exchange Act Rule 10b-5), promulgated under Section
+
+10(b) of the Exchange Act, provides that: it shall be unlawful for any person, directly or
+indirectly, by the use of any means or instrumentality of interstate commerce, or of the mails or
+of any facility of any national securities exchange, to employ any device, scheme, or artifice to
+defraud, to make any untrue statement of a material fact or to omit to state a material fact
+necessary in order to make the statements made, in the light of the circumstances under which
+they were made, not misleading, or to engage in any act, practice, or course of business which
+operates or would operate as a fraud or deceit upon any person, in connection with the purchase
+or sale of any security.
+114.
+
+FINRA Rule 2020 provides that no member shall effect any transaction in, or
+
+induce the purchase or sale of, any security by means of any manipulative, deceptive or other
+fraudulent device or contrivance.
+115.
+
+FINRA Rule 2010 provides that a member firm, in the conduct of its business,
+
+shall observe high standards of commercial honor and just and equitable principles of trade.
+116.
+
+FINRA Rule 0140 provides that persons associated with a member shall have the
+
+same duties and obligations as a member under the Rules.
+
+22
+
+117.
+
+A violation of Section 10(b) of the Exchange Act, Exchange Act Rule 10b-5, or
+
+FINRA Rule 2020 is also a violation of FINRA Rule 2010.
+118.
+
+Churning is fraudulent conduct that occurs when: (a) a broker controls or
+
+exercises de facto control over his customer’s account; (b) the trading in the account is excessive
+in light of the customer’s investment objectives; and (c) the broker acts with scienter, i.e., with
+intent to defraud or with reckless disregard of the customer’s interests.
+119.
+
+Churning is a manipulative or deceptive device or contrivance that violates
+
+Section 10(b) of the Exchange Act, Exchange Act Rule 10b-5, FINRA Rule 2020, and FINRA
+Rule 2010. Churning operates as a fraud or deceit upon the customer.
+120.
+
+Between July 2020 and July 2021, Kennedy either controlled or exercised de
+
+facto control over the accounts of Customers 1–6. To that end, Kennedy treated their accounts as
+discretionary accounts. He traded in their accounts without first seeking preapproval for specific
+investment decisions or after having advised them at most only about his general strategy. To the
+extent Kennedy made specific recommendations, they were a formality because Customers 1–6
+were unable to independently evaluate them and routinely followed them.
+121.
+
+Kennedy’s trading for Customers 1–6 was accomplished by the use or means of
+
+interstate commerce and involved transactions in securities listed on national securities
+exchanges.
+122.
+
+Kennedy’s trading for Customers 1–6 was excessive in light of those customers’
+
+investment objectives. To that end, Kennedy directed frequent in-and-out trading and day-trading
+in their accounts contrary to their goals, in excess of their risk tolerances, and resulting in costto-equity ratios ranging from 27% to 39% and overall turnover rates from 31 to 58 even
+excluding options purchases.
+
+23
+
+123.
+
+In carrying out his excessive trading, Kennedy acted with intent to defraud or at a
+
+minimum with reckless disregard of the interests of Customers 1–6.
+124.
+
+Accordingly, Kennedy churned the accounts of Customers 1–6.
+
+125.
+
+As a result of the foregoing conduct, Kennedy willfully violated Section 10(b) of
+
+the Exchange Act, and Exchange Act Rule 10b-5, and violated FINRA Rules 2020 and 2010.
+SECOND CAUSE OF ACTION
+Excessive Trading
+(Willful Violations of Exchange Act Rule 15l-1 Regulation Best Interest;
+Violation of FINRA Rule 2010)
+126.
+
+The Department of Enforcement realleges and incorporates by reference
+
+paragraphs 1–110 above.
+127.
+
+Since June 30, 2020, broker-dealers and their associated persons have been
+
+required to comply with Regulation BI under the Exchange Act. Regulation BI’s General
+Obligation, set forth at Exchange Act Rule 15l-1(a)(1), requires a broker, dealer, or a natural
+person who is an associated person of a broker or dealer, when making a recommendation of any
+securities transaction or investment strategy involving securities (including account
+recommendations) to a retail customer, to act in the best interest of the retail customer at the time
+the recommendation is made, without placing the financial or other interest of the broker, dealer,
+or associated person making the recommendation ahead of the interest of the retail customer.
+128.
+
+Regulation BI defines a retail customer as a natural person, or the legal
+
+representative of such natural person, who receives a recommendation of any securities
+transaction or investment strategy involving securities from a broker, dealer, or a natural person
+who is an associated person of a broker or dealer; and uses the recommendation primarily for
+personal, family, or household purposes.
+
+24
+
+129.
+
+A registered representative who conducts a transaction on behalf of a customer
+
+without that customer’s explicit authorization implicitly recommends the transaction for that
+customer.
+130.
+
+Regulation BI’s Care Obligation, set forth in part at Exchange Act Rule 15l-
+
+1(a)(2)(ii), requires broker-dealers and their associated persons to exercise reasonable diligence,
+care, and skill to, among other things, have a reasonable basis to believe that a series of
+recommended transactions, even if in the retail customer’s best interest when viewed in isolation,
+is not excessive and is in the retail customer’s best interest when taken together in light of the
+retail customer’s investment profile and does not place the financial or other interest of the
+broker, dealer, or such natural person making the series of recommendations ahead of the interest
+of the retail customer. The Care Obligation applies to a series of recommended transactions
+regardless of whether the broker-dealer or associated person exercises control over the
+customer’s account. Failure to comply with the Care Obligation constitutes a violation of
+Regulation BI’s General Obligation.
+131.
+
+Violations of Exchange Act Rule 15l-1 are also violations of FINRA Rule 2010.
+
+132.
+
+Between July 2020 and July 2021, as alleged herein, Kennedy explicitly
+
+recommended or used discretion to make, and thereby implicitly recommended, a series of 1,779
+securities transactions to Customers 1–2; a series of 1,288 securities transactions to Customer 3;
+a series of 1,038 securities transactions to Customers 4–5; and a series of 1,224 securities
+transactions to Customer 6.
+133.
+
+Customers 1–6 are retail customers—natural persons, or non-professional legal
+
+representatives of natural persons, who used Kennedy’s recommendations primarily for personal,
+family, or household purposes.
+25
+
+134.
+
+Kennedy failed to act in the best interest of Customers 1–6 at the time his
+
+recommendations were made. He recommended series of securities transactions to Customers 1–
+6 that were excessive and not in their best interest and that placed his financial or other interests
+ahead of their interests. In addition, he failed to exercise reasonable diligence, care, and skill to
+have a reasonable basis to believe that the series of securities transactions he recommended to
+Customers 1–6 were not excessive; were in their best interest taken in light of their investment
+profile and the potential risks, rewards, and costs associated with the recommendations; and did
+not place his financial or other interests ahead of their interests.
+135.
+
+As a result of the foregoing conduct, Kennedy willfully violated Exchange Act
+
+Rule 15l-1(a)(1) and violated FINRA Rule 2010.
+THIRD CAUSE OF ACTION
+False Account Statements/Information
+(Violations of FINRA Rule 2010)
+136.
+
+The Department of Enforcement realleges and incorporates by reference
+
+paragraphs 1–110 above.
+137.
+
+Intentionally providing false account statements and false account information to
+
+customers is a violation of FINRA Rule 2010.
+138.
+
+Kennedy intentionally provided false account statements and false account
+
+information to Customers 1 and 2 that concealed material facts about the true performance of his
+trading for their account.
+139.
+
+Therefore, Kennedy violated FINRA Rule 2010.
+
+26
+
+FOURTH CAUSE OF ACTION
+False Information and Testimony
+(FINRA Rules 8210 and 2010)
+140.
+
+The Department of Enforcement realleges and incorporates by reference
+
+paragraphs 1–110 above.
+141.
+
+FINRA Rule 8210(a)(1) provides that FINRA staff may “require a member,
+
+person associated with a member, or person subject to FINRA’s jurisdiction to provide
+information orally, in writing, or electronically . . . and to testify at a location specified by
+FINRA staff, . . . with respect to any matter involved in [a FINRA] investigation [or]
+examination.”
+142.
+
+Providing false or misleading information to FINRA in response to a request for
+
+information issued pursuant to FINRA Rule 8210 is a violation of FINRA Rule 8210.
+143.
+
+Providing false or misleading testimony to FINRA in response to a request for
+
+testimony issued pursuant to FINRA Rule 8210 is a violation of FINRA Rule 8210.
+144.
+
+A violation of FINRA Rule 8210 is also a violation of FINRA Rule 2010.
+
+145.
+
+Kennedy provided false or misleading information to a request for information
+
+issued pursuant to FINRA Rule 8210. As alleged above, Kennedy falsely denied preparing the
+fake July 2021 account statement that he sent to Customers 1 and 2 and falsely denied preparing
+or sending any other fake account statements to Customers 1 and 2.
+146.
+
+Kennedy provided false or misleading testimony in response to a request for
+
+testimony issued pursuant to Rule 8210. As alleged above, Kennedy falsely testified that he did
+not prepare the fake July 2021 account statement he sent to Customers 1 and 2. He also falsely
+testified that he did not prepare or send any of the five prior fake account statements to
+Customers 1 and 2.
+
+27
+
+147.
+
+Therefore, Kennedy violated FINRA Rules 8210 and 2010.
+RELIEF REQUESTED
+
+WHEREFORE, the Department of Enforcement respectfully requests that the Panel:
+A.
+
+make findings of fact and conclusions of law that Respondent committed the
+violations charged and alleged herein;
+
+B.
+
+order that one or more of the sanctions provided under FINRA Rule 8310(a) be
+imposed, including that Respondent be required to disgorge fully any and all illgotten gains and make full and complete restitution, together with interest;
+
+C.
+
+order that Respondent bear such costs of proceeding as are deemed fair and
+appropriate under the circumstances in accordance with FINRA Rule 8330; and
+
+D.
+
+make specific findings that Respondent Christopher Kennedy willfully violated
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, and Regulation BI
+under the Exchange Act.
+
+FINRA DEPARTMENT OF ENFORCEMENT
+Date: September 22, 2023
+
+___________________________________
+Andrew Boldt
+Senior Counsel
+FINRA Department of Enforcement
+55 West Monroe Street, Suite 2600
+Chicago, Illinois 60603
+312-899-4334
+Andrew.Boldt@FINRA.org
+Brody Weichbrodt
+Senior Litigation Counsel
+FINRA Department of Enforcement
+4600 South Syracuse Street, Suite 1400
+Denver, Colorado 80237
+303-446-3177
+Brody.Weichbrodt@FINRA.org
+
+28
+
+John Luburic
+Senior Litigation Director
+FINRA Department of Enforcement
+55 West Monroe Street, Suite 2600
+Chicago, Illinois 60603
+312-899-4369
+John. Luburic@FINRA.org
+
+29
+
+

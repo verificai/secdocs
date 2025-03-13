@@ -1,0 +1,811 @@
+FINANCIAL INDUSTRY REGULATORY AUTHORITY
+OFFICE OF HEARING OFFICERS
+Department of Enforcement,
+Complainant,
+
+Disciplinary Proceeding
+No. 2019062948102
+
+v.
+James Brett Stuart
+CRD No. 3022149,
+Respondent.
+
+COMPLAINT
+The Department of Enforcement alleges:
+SUMMARY
+1.
+
+Between September 2018 and August 2021 (the relevant period), Respondent
+
+James Brett Stuart—the Chief Executive Officer (CEO), Chief Compliance Officer (CCO), and
+majority owner of Richfield Orion International, Inc. (CRD No. 24433)—failed to establish,
+maintain, and enforce a supervisory system, including written supervisory procedures (WSPs),
+reasonably designed to achieve compliance with FINRA Rule 2111, and as of June 30, 2020, the
+Care Obligation of Rule 15l-1 of the Securities Exchange Act of 1934 (Reg BI), as they pertain
+to excessive trading. Richfield Orion’s WSPs, which Stuart was responsible for establishing and
+maintaining, did not describe how the firm should identify or respond to red flags of possible
+excessive trading and they did not address Reg BI at all following its June 30, 2020 effective
+date.
+2.
+
+Stuart also failed to reasonably supervise trading in Customer A’s and Customer
+
+B’s accounts. Stuart did not review alerts received by Richfield Orion showing that these two
+
+accounts had been charged commissions equaling at least 30% of their value, and he did not
+otherwise take any other steps to determine whether frequent and high-cost trades in the accounts
+were consistent with the customers’ investment profiles. Stuart also failed to identify or respond
+reasonably to red flags of possible excessive trading in these two customers’ accounts. In fact,
+the trading recommended in these two accounts resulted in cost-to-equity ratios of approximately
+30% and total costs of approximately $236,500 and $22,000 for each account, respectively. As a
+result of the foregoing, Stuart violated FINRA Rules 3110(a) and (b), and 2010.
+3.
+
+Stuart also failed to appear for on-the-record testimony that FINRA requested
+
+pursuant to FINRA Rule 8210 as part of its investigation. On May 18, 2022, Stuart appeared for
+on-the-record testimony, but, during the course of that testimony and before the testimony was
+complete, he requested that the testimony be adjourned. FINRA agreed to adjourn the remainder
+of the testimony to a later date, and issued subsequent requests, pursuant to FINRA Rule 8210,
+for Stuart to appear again to complete his testimony. However, Stuart failed to appear to
+complete his testimony. As a result, he violated FINRA Rules 8210 and 2010.
+RESPONDENT AND JURISDICTION
+4.
+
+Stuart first registered with FINRA in 1998. From December 2007 to November 3,
+
+2022, he was registered with FINRA through an association with Richfield Orion in several
+capacities, including as a General Securities Principal. On November 3, 2022, Richfield Orion
+filed a Uniform Termination Notice for Securities Industry Registration (Form U5) stating that
+Stuart had voluntarily terminated his association with the firm.
+5.
+
+Although Stuart is no longer registered or associated with a FINRA member, he
+
+remains subject to FINRA’s jurisdiction for purposes of this proceeding, pursuant to Article V,
+Section 4 of FINRA’s By-Laws, because (1) the Complaint was filed within two years after
+
+2
+
+November 3, 2022, which was the effective date of termination of his registration with Richfield
+Orion, and (2) the Complaint charges him with misconduct committed while he was registered or
+associated with a FINRA member.
+FACTS
+A.
+
+Stuart failed to establish, maintain, and enforce WSPs reasonably designed to
+achieve compliance with FINRA Rule 2111 and Reg BI.
+6.
+
+During the relevant period, Stuart served as Richfield Orion’s CEO and CCO, and
+
+he was the majority owner of the firm.
+7.
+
+As Richfield Orion’s CCO, Stuart was responsible for establishing and
+
+maintaining the firm’s WSPs, other than its financial and operations procedures. He was also
+responsible for reviewing and testing the WSPs “on at least an annual basis … to be sure that all
+rules are addressed.”
+8.
+
+Richfield Orion’s WSPs recognized that factors such as the turnover rate and cost-
+
+to-equity ratio “may provide a basis for finding that … activity [in a customer’s account] was
+excessive.” However, the WSPs did not provide any guidance about how to calculate those ratios
+or identify what ratios were suggestive of excessive trading.
+9.
+
+The WPSs required Richfield Orion’s compliance department to review “active
+
+accounts” on a quarterly basis, but they did not specify what steps the firm should take to
+supervise trades recommended in such accounts. For example, the WPSs did not specify when,
+or in what circumstances, principals of the firm should contact customers with actively traded
+accounts or restrict the commissions that could be charged in actively traded accounts.
+10.
+
+The WSPs also did not identify alerts that Richfield Orion received from its
+
+clearing firm that were relevant to identifying potential excessive trading, including a
+“Turnover” alert (which identified accounts in which the account turnover exceeded certain
+
+3
+
+percentage thresholds) and a “Commission Velocity” alert (which identified accounts in which
+commissions charged over the preceding 90 days exceeded certain percentage thresholds). The
+WSPs likewise did not provide guidance as to how principals at the firm should review those
+alerts or the steps the firm should take after identifying red flags that an account was being
+excessively traded.
+11.
+
+Stuart did not update the WSPs to address Reg BI following its June 30, 2020
+
+effective date.
+12.
+
+As a result, the WSPs in effect between June 30, 2020, and August 2021 did not
+
+provide any guidance as to how Richfield Orion or its representatives should determine whether
+recommended trades might place the broker-dealer’s interest ahead of the retail customer’s
+interest, such as identifying what cost-to-equity ratio or turnover rate would be suggestive of
+excessive trading. The WSPs also did not provide guidance about how the firm or its
+representatives should consider reasonably available alternatives in determining whether to
+recommend a transaction or series of transactions.
+B.
+
+Stuart failed to identify or respond reasonably to red flags of potential excessive
+trading in two Richfield Orion customer accounts.
+13.
+
+During the relevant period, Stuart was CCO and the sole member of Richfield
+
+Orion’s compliance department.
+14.
+
+During the relevant period, Stuart was solely responsible for supervising Richfield
+
+Orion’s registered representatives.
+15.
+
+As CCO, Stuart was required to monitor trade blotters and customer account
+
+records for potential excessive trading and review commission reports for each of the firm’s
+registered representatives in an effort to detect possible churning.
+
+4
+
+16.
+
+Richfield Orion’s WSPs also required that the firm’s compliance department, of
+
+which Stuart was the sole member, review “active accounts” on at least a quarterly basis,
+including by reviewing the type, size and frequency of trades in those accounts.
+17.
+
+The WSPs further required that the compliance department review “at least
+
+quarterly” the exception reports provided by Richfield Orion’s clearing firm.
+18.
+
+Richfield Orion received from its clearing firm “Commission Velocity” alerts,
+
+which identified accounts in which the commissions charged over the preceding 90 days
+exceeded percentage thresholds based on a customer’s investment objective (e.g., 4% for
+accounts with an investment objective or growth, or 6% for accounts with an investment
+objective of speculation).
+19.
+
+Richfield Orion also received “Turnover” alerts, which identified accounts in
+
+which the turnover in the account exceeded percentage thresholds based on a customer’s
+investment objective (e.g., 200% for accounts with an investment objective or growth, or 300%
+for accounts with an investment objective of speculation).
+20.
+
+During the relevant period, Stuart was the only principal at Richfield Orion who
+
+accessed the portal through which Richfield Orion’s clearing firm made the Commission
+Velocity and Turnover alerts available to the firm.
+21.
+
+Stuart did not review the Commission Velocity or Turnover alerts.
+
+22.
+
+Stuart manually reviewed Richfield Orion’s daily transactions, but his review
+
+focused on determining whether the individual commissions for particular trades on each day
+were excessive, rather than reviewing trading activity over a period of time to determine whether
+the account was being excessively traded.
+
+5
+
+23.
+
+During the relevant period, Stuart failed to identify or investigate red flags of
+
+possible excessive trading activity in two customer accounts, as alleged below.
+Customer A
+24.
+
+Customer A was 62 years old when she opened an account at Richfield Orion in
+
+25.
+
+In or around August 2018, Registered Representative 1 became the representative
+
+2016.
+
+of record on Customer A’s account.
+26.
+
+Stuart supervised Registered Representative 1.
+
+27.
+
+Although Customer A’s new account form stated that Customer A’s primary
+
+investment objective was speculation and that she had a high risk tolerance, Customer A’s actual
+goal for opening an account at Richfield Orion was to grow her investments, and she did not
+discuss her investment objective or risk tolerance with Registered Representative 1.
+28.
+
+Between September 2018 and January 2021, Richfield Orion received more than
+
+540 Commission Velocity and Turnover alerts from its clearing firm showing that Customer A’s
+account had commission velocity and turnover rates that exceeded the thresholds set by Richfield
+Orion’s clearing firm.
+29.
+
+For example, in August 2019, Richfield Orion received alerts showing that
+
+Customer A’s account had a commission velocity of 34% over the prior 90 days and a turnover
+rate of 8. At that time, Registered Representative 1 had executed 389 trades in Customer A’s
+account during the preceding 12 months, which had caused her to pay commissions of
+$102,173.41 (and total trade-related costs of $109,734.05 when including postage fees).
+30.
+
+Stuart did not review any Commission Velocity or Turnover report relating to
+
+trading in Customer A’s account.
+
+6
+
+31.
+
+During the relevant period, Stuart did not take any actions to confirm that the
+
+trading in Customer A’s account was consistent with her investment profile.
+32.
+
+Stuart also did not speak with Customer A about the trading activity in her
+
+account.
+33.
+
+Stuart also did not speak with Registered Representative 1 about his trading in
+
+Customer A’s account, nor did Stuart restrict the commissions that Registered Representative 1
+could charge Customer A.
+34.
+
+Following Richfield Orion’s receipt of the August 2019 Commission Velocity and
+
+Turnover alerts concerning Customer A’s account (which showed that she had been charged
+commissions equal to 34% of her account value), Registered Representative 1 executed an
+additional 535 trades in Customer A’s account, which required her to pay an additional $118,600
+in commissions and trade costs.
+35.
+
+Between September 2018 and January 2021, Registered Representative 1
+
+recommended and executed about 900 trades in Customer’s A account, which caused her to pay
+approximately $236,500 in total costs, including approximately $220,000 in commissions, and
+resulted in losses of $368,159.
+36.
+
+The trades recommended in Customer A’s account resulted in an annualized cost-
+
+to-equity ratio of 31% and turnover rate of 7.
+Customer B
+37.
+
+Customer B was a 77-year-old retiree when she opened her account at Richfield
+
+Orion in 2018.
+38.
+
+Customer B had a moderate risk tolerance and did not wish to have an actively
+
+traded account.
+
+7
+
+39.
+
+Registered Representative 1 was the representative of record on Customer B’s
+
+account.
+40.
+
+Between July 2020 and August 2021, Richfield Orion received more than 290
+
+alerts from its clearing firm showing that Customer B’s account had commission velocity and
+turnover rates that exceeded the thresholds set by Richfield Orion’s clearing firm.
+41.
+
+For example, on October 8, 2020, Richfield Orion received an alert showing that
+
+Brown’s account had a commission velocity of 20.59%. Subsequent alerts showed that the
+commission velocity thereafter never dipped below 20%, but in fact steadily increased.
+42.
+
+By December 2020, Richfield Orion began to regularly receive alerts that
+
+Brown’s account had turnover rates above 6.
+43.
+
+By the time the firm received the December 17, 2020 alert that showed
+
+commission velocity and turnover rates well in excess of the clearing firm’s thresholds,
+Registered Representative 1 had already executed 41 trades in Customer B’s account, which
+caused Customer B to pay commissions of $5,553.83.
+44.
+
+Stuart did not review any Commission Velocity or Turnover alert related to
+
+trading in Customer B’s account.
+45.
+
+Stuart did not take any actions to confirm that the trading in Customer B’s
+
+account was consistent with her investment profile.
+46.
+
+Stuart did not speak with Customer B to confirm that the trading in her account
+
+was consistent with her investment profile.
+47.
+
+Stuart also did not restrict the commissions that Registered Representative 1 could
+
+charge in Customer B’s account.
+
+8
+
+48.
+
+Following Richfield Orion’s receipt of the December 17, 2020 alert, Registered
+
+Representative 1 recommended and executed an additional 102 trades in Customer B’s account,
+which required her to pay an additional $14,647.06 in commissions.
+49.
+
+Between July 1, 2020 and August 16, 2021, the trades recommended in Customer
+
+B’s account resulted in an annualized cost-to-equity ratio of 31% and a turnover rate of 7.
+Customer B incurred total costs of approximately $22,350 and losses of $1,766 during this
+period.
+C.
+
+Stuart refused to appear for testimony requested pursuant to FINRA Rule 8210.
+50.
+
+On April 29, 2022, in connection with its investigation into Stuart’s supervision of
+
+Registered Representative 1, FINRA requested pursuant to FINRA Rule 8210 that Stuart appear
+for on-the-record testimony on May 18, 2022.
+51.
+
+FINRA sent the April 29 testimony request to Stuart’s last known residential
+
+address listed in FINRA’s Central Registration Depository (CRD) (the CRD Address) by firstclass U.S. mail and first-class certified mail, return receipt requested, and a copy to Stuart’s
+Richfield Orion email address.
+52.
+
+Stuart appeared for on-the-record testimony on May 18, 2022, but requested that
+
+the testimony be adjourned before the testimony was complete. Notably, FINRA had not yet had
+an opportunity to question Stuart about his supervision of the trading in the accounts of
+Customers A and B, among other topics.
+53.
+
+FINRA agreed to adjourn the remainder of Stuart’s testimony to a future time.
+
+54.
+
+On May 23, 2022, Stuart agreed to resume his on-the-record testimony on June
+
+10, 2022.
+
+9
+
+55.
+
+On June 10, shortly before his testimony was to resume, Stuart notified FINRA
+
+that he was unable to appear for testimony because of a family emergency.
+56.
+
+At Stuart’s request, FINRA agreed to postpone Stuart’s testimony until June 23,
+
+57.
+
+On June 22, 2022, Stuart informed FINRA that he was not able to appear for
+
+2022.
+
+testimony on June 23.
+58.
+
+On June 22, 2022, FINRA sent an email to Stuart offering the choice of testifying
+
+on June 23 or rescheduling his testimony for June 29 or July 1, 2022.
+59.
+
+Stuart did not respond to FINRA’s June 22 email.
+
+60.
+
+Stuart did not appear for testimony on June 23, 2022.
+
+61.
+
+On June 23, 2022, in connection with its investigation, FINRA sent Stuart a letter
+
+pursuant to FINRA Rule 8210, requesting that he appear for on-the-record testimony on July 1,
+2022.
+62.
+
+FINRA sent Stuart the June 23 testimony request by first-class U.S. mail and first-
+
+class certified mail, return receipt requested, to Stuart’s CRD Address and a copy to Stuart’s
+Richfield Orion email address, from which Stuart had previously communicated with FINRA
+Staff.
+63.
+
+On June 23, 2022, Stuart replied to FINRA’s email (which had attached a copy of
+
+the June 23 testimony request), stating that he would not appear for testimony, because of a
+medical condition.
+64.
+
+On June 24, 2022, FINRA replied to Stuart’s email and stated that FINRA was
+
+unable to adjourn his testimony again without setting a date for Stuart to resume his testimony.
+
+10
+
+FINRA invited Stuart to propose a date during the week of July 5 for the continuation of his
+testimony.
+65.
+
+Stuart replied by email on June 24, 2022, stating that he would resume testimony
+
+when his condition allowed; however, Stuart did not propose any date for his testimony.
+66.
+
+On June 27, 2022, FINRA issued a second request pursuant to FINRA Rule 8210
+
+and in connection with its investigation scheduling Stuart’s testimony for July 6.
+67.
+
+The June 27 testimony request stated that it was “a second request for testimony
+
+pursuant to FINRA Rule 8210 and replaces the second request for testimony dated June 23,
+2022.”
+68.
+
+FINRA sent the June 27 testimony request by first-class U.S. mail and first-class
+
+certified mail, return receipt requested, to the CRD Address. In addition, FINRA sent a copy of
+the June 27 testimony request to Stuart’s Richfield Orion email address.
+69.
+
+According to USPS tracking information, the June 27 testimony request sent via
+
+certified mail, return receipt requested, was “unclaimed” by Stuart.
+70.
+
+The June 27 testimony request sent by first-class U.S. mail was not returned to
+
+FINRA.
+71.
+
+On June 28, 2022, Stuart replied to FINRA’s email (which had attached a copy of
+
+the June 27 testimony request) from his Richfield Orion email address, and provided an update
+on his condition. In the email, Stuart did not request that FINRA reschedule his testimony nor
+did he propose an alternate date for his testimony.
+72.
+
+On July 5, 2022, FINRA Staff sent an email to Stuart’s Richfield Orion email
+
+address and stated that Stuart may be subject to an expedited or formal disciplinary proceeding
+should he fail to appear for testimony on July 6, 2022.
+
+11
+
+73.
+
+Stuart did not appear for testimony on July 6, nor did he request that FINRA
+
+reschedule his testimony.
+74.
+
+On July 12, Stuart emailed a letter from a physician requesting that FINRA delay
+
+his testimony for 30 to 45 days.
+75.
+
+On July 14, 2022, following its receipt of Stuart’s July 12 email, FINRA sent
+
+Stuart another request, pursuant to FINRA Rule 8210, that he appear for testimony in connection
+with FINRA’s investigation on August 26, 2022, 46 days from the date of Stuart’s July 12 email.
+76.
+
+The July 14 testimony request stated that it was “a third request for testimony
+
+pursuant to FINRA Rule 8210” and that Stuart may be subject to an expedited or formal
+disciplinary proceeding should he fail to appear for testimony on August 26.
+77.
+
+FINRA sent the July 14 testimony request by first-class U.S. mail and first-class
+
+certified mail, return receipt requested, to the CRD address.
+78.
+
+FINRA also sent a copy of the July 14 testimony request to Stuart at his Richfield
+
+Orion email address.
+79.
+
+According to USPS tracking information, the July 14 testimony request sent via
+
+certified mail, return receipt requested was “unclaimed” by Stuart and was returned to FINRA.
+80.
+
+The July 14 testimony request sent via first-class U.S. mail was not returned to
+
+FINRA.
+81.
+
+FINRA did not receive any notification that the copy of the July 14 testimony
+
+request sent via email to Stuart was undeliverable.
+82.
+
+On August 24, 2022, Stuart sent an email to FINRA from his Richfield Orion
+
+email address and stated that he would not appear for testimony on August 26. Stuart did not
+
+12
+
+propose any alternative date for his testimony, nor did he claim that his medical condition
+prevented him from testifying.
+83.
+
+On August 25, 2022, FINRA sent Stuart a letter stating that: (a) Stuart had not set
+
+forth any reason why he could not appear for testimony; (b) FINRA would proceed with Stuart’s
+testimony as scheduled on August 26; and (c) Stuart may be subject to an expedited or formal
+disciplinary proceeding should he fail to appear.
+84.
+
+Stuart did not appear for testimony on August 26, 2022, nor did he request that
+
+FINRA reschedule the testimony.
+85.
+
+Stuart’s failure to appear and provide testimony to FINRA impeded FINRA’s
+
+investigation into Richfield Orion and Stuart’s supervision of trading in customer accounts for
+potentially excessive trading, including in Customer A’s and Customer B’s accounts.
+FIRST CAUSE OF ACTION
+Failure to Supervise
+(Violation of FINRA Rules 3110(a) and (b) and 2010)
+86.
+
+The Department of Enforcement realleges and incorporates by reference all
+
+previous paragraphs.
+87.
+
+FINRA Rule 3110(a) requires that member firms “establish and maintain a system
+
+to supervise the activities of each associated person that is reasonably designed to achieve
+compliance with applicable securities laws and regulations, and with applicable FINRA rules.”
+88.
+
+FINRA Rule 3110(b) requires that member firms “establish, maintain, and
+
+enforce written procedures to supervise the types of business in which it engages and the
+activities of its associated persons that are reasonably designed to achieve compliance with
+applicable securities laws and regulations, and with applicable FINRA rules.”
+
+13
+
+89.
+
+Rule 3110 also requires that a firm’s designated supervisors exercise reasonable
+
+supervision.
+90.
+
+To comply with this supervisory obligation, a firm’s designated supervisors must
+
+reasonably investigate red flags of potential misconduct and take appropriate action when
+misconduct has occurred.
+91.
+
+FINRA Rule 2111 requires an associated person to “have a reasonable basis to
+
+believe that a recommended transaction or investment strategy involving a security or securities
+is suitable for the customer, based on the information obtained through the reasonable diligence
+of the member or associated person to ascertain the customer’s investment profile.”
+92.
+
+FINRA Rule 2111, former Supplementary Material 2111.05(c), which was in
+
+effect from May 1, 2014 through June 29, 2020, provided: “Quantitative suitability requires a
+member or associated person who has actual or de facto control over a customer account to have
+a reasonable basis for believing that a series of recommended transactions, even if suitable when
+viewed in isolation, are not excessive and unsuitable for the customer when taken together in
+light of the customer’s investment profile, as delineated in Rule 2111(a).”
+93. Since June 30, 2020, broker-dealers and their associated persons have been required
+to comply with Reg BI under the Exchange Act. Reg BI’s Best Interest Obligation requires a
+broker, dealer, or a natural person associated with a broker or dealer, when making a
+recommendation of any securities transaction or investment strategy involving securities
+(including account recommendations) to a retail customer, to act in the best interest of that retail
+customer at the time the recommendation is made, without placing the financial or other interest
+of the broker, dealer, or associated person making the recommendation ahead of the interest of
+the retail customer.
+
+14
+
+94. Reg BI defines a retail customer as “a natural person, or the legal representative of
+such person, who: (i) Receives a recommendation of any securities transaction or investment
+strategy involving securities from a broker or dealer; and (ii) Uses the recommendation primarily
+for personal, family, or household purposes.”
+95.
+
+Pursuant to the Care Obligation, as set forth in Exchange Act Rule 15l-
+
+1(a)(2)(ii)(C), an associated person of a broker or dealer is required to exercise reasonable
+diligence, care, and skill to:
+Have a reasonable basis to believe that a series of recommended
+transactions, even if in the retail customer’s best interest when viewed in
+isolation, is not excessive and is in the retail customer’s best interest when
+taken together in light of the retail customer’s investment profile and does
+not place the financial or other interest of the broker, dealer, or such
+natural person making the series of recommendations ahead of the interest
+of the retail customer.
+96. The Care Obligation applies to a series of recommended transactions regardless of
+whether the broker-dealer or associated person exercises control over the customer’s account.
+97.
+
+A violation of FINRA Rule 3110 is also a violation of FINRA Rule 2010, which
+
+requires associated persons to “observe high standards of commercial honor and just and
+equitable principles of trade” in the conduct of their business.
+98.
+
+From September 2018 through August 2021, Stuart was the principal responsible
+
+for ensuring that Richfield Orion had systems and procedures, including WSPs, reasonably
+designed to achieve compliance with applicable securities laws and regulations, including
+FINRA Rule 2111 and Reg BI.
+99.
+
+During that time, Stuart failed to establish, maintain, and enforce a supervisory
+
+system, including WSPs, that was reasonably designed to achieve compliance with Reg BI and
+FINRA Rule 2111, as they pertain to excessive trading.
+
+15
+
+100.
+
+For the reasons alleged above in paragraphs 6-12, Stuart failed to ensure that the
+
+firm’s WSPs were reasonably designed to achieve compliance with Reg BI and FINRA Rule
+2111.
+101.
+
+Moreover, Stuart did not update the WSPs to address Reg BI at any point between
+
+June 30, 2020, which is when Reg BI went into effect, and August 2021. For the reasons alleged
+above in paragraphs 6 through 12, Stuart failed to ensure that the firm’s WSPs were reasonably
+designed to ensure compliance with Reg BI during this period.
+102.
+
+Stuart also failed to reasonably supervise trading in Customer A’s and Customer
+
+B’s accounts, including failing to identify and respond reasonably to red flags of potentially
+excessive trading in these two customer accounts during the relevant period, as alleged above in
+paragraphs 13 through 49.
+103.
+
+Based on the foregoing, Stuart violated FINRA Rules 3110(a) and (b) and 2010.
+SECOND CAUSE OF ACTION
+Failure to Appear for Testimony
+(Violation of FINRA Rules 8210 and 2010)
+
+104.
+
+The Department of Enforcement realleges and incorporates by reference all
+
+previous paragraphs.
+105.
+
+FINRA Rule 8210(a)(1) provides that FINRA staff may “require a … person
+
+associated with a member, or any other person subject to FINRA’s jurisdiction … to testify at a
+location specified by FINRA staff … with respect to any matter involved in [an] investigation,
+complaint, examination or proceeding[.]”
+106.
+
+FINRA Rule 8210(c) provides that “[n]o member or person shall fail to provide
+
+… testimony … pursuant to this Rule.”
+
+16
+
+107.
+
+A violation of FINRA Rule 8210 also constitutes a violation of FINRA Rule
+
+108.
+
+While associated with Richfield Orion and subject to FINRA’s jurisdiction, Stuart
+
+2010.
+
+failed to appear and provide testimony requested pursuant to FINRA Rule 8210 on two
+occasions—namely, July 6, 2022 and August 26, 2022.
+109.
+
+Stuart’s testimony was material to FINRA’s investigation concerning Richfield
+
+Orion’s and Stuart’s supervision of trading in customer accounts for potentially excessive
+trading, including in Customer A’s and Customer B’s accounts.
+110.
+
+Stuart’s failure to appear for testimony impeded FINRA investigation because
+
+Staff was unable to question Stuart about Richfield Orion’s and Stuart’s supervision of trading in
+customer accounts for potentially excessive trading, including in Customer A’s and Customer
+B’s accounts.
+111.
+
+Based on the foregoing, Stuart violated FINRA Rules 8210 and 2010.
+RELIEF REQUESTED
+
+WHEREFORE, the Department of Enforcement respectfully requests that the Panel:
+A.
+
+make findings of fact and conclusions of law that Respondent committed the
+violations charged and alleged herein;
+
+B.
+
+order that one or more of the sanctions provided under FINRA Rule 8310(a),
+including monetary sanctions, be imposed; and
+
+C.
+
+order that Respondent bears such costs of proceeding as are deemed fair and
+appropriate under the circumstances in accordance with FINRA Rule 8330.
+
+17
+
+FINRA DEPARTMENT OF ENFORCEMENT
+Date: October 27, 2023
+
+___________________________________
+Matthew M. Ryan
+Principal Counsel
+FINRA Department of Enforcement
+1601 Market St., Suite 2700
+Philadelphia, PA 19103-2339
+Phone: (215) 209-7094
+E-mail: matthew.ryan@finra.org
+Melissa J. Turitz
+Director
+FINRA Department of Enforcement
+581 Main St., Suite 710
+Woodbridge, NJ 07095
+Phone: (732) 596-2005
+E-mail: melissa.turitz@finra.org
+Jeff Fauci
+Chief Counsel
+FINRA Department of Enforcement
+99 High St., Suite 900
+Boston, MA 02110
+Phone: (617) 532-3428
+E-mail: jeff.fauci@finra.org
+
+18
+
+
