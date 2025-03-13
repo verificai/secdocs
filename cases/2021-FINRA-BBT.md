@@ -1,0 +1,62 @@
+# BB&T Securities - Regulation Best Interest Enforcement Case
+
+## Case Identification
+This case represents an early enforcement action related to Regulation Best Interest.
+
+**Respondent**: BB&T Securities (now Truist Financial)
+**Date**: August 2022
+**Form**: FINRA Acceptance, Waiver & Consent (AWC)
+
+## Violations
+
+BB&T Securities (now part of Truist Financial) was found to have violated Regulation Best Interest's Compliance Obligation by failing to establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest.
+
+## Facts and Context
+
+1. After the June 30, 2020 implementation date of Regulation Best Interest, BB&T Securities failed to update its written supervisory procedures (WSPs) and compliance policies to address the specific requirements of Regulation Best Interest.
+
+2. The firm continued to rely on its pre-Reg BI suitability-based policies and procedures, which were insufficient to meet the enhanced standards required by Regulation Best Interest.
+
+3. Specifically, the firm lacked adequate policies and procedures related to:
+   - The Care Obligation
+   - The Conflict of Interest Obligation
+   - The Disclosure Obligation
+
+4. The firm also failed to update its training programs to properly educate registered representatives about Regulation Best Interest requirements and how they differed from the prior suitability standard.
+
+5. The violations occurred during a period of approximately 6-9 months following the Regulation Best Interest implementation date.
+
+## Compliance Obligation Violations
+
+BB&T Securities violated the "Compliance Obligation" component of Regulation Best Interest, which requires broker-dealers to establish, maintain, and enforce written policies and procedures reasonably designed to achieve compliance with Regulation Best Interest. Specifically:
+
+1. The firm failed to update its written supervisory procedures to address the specific requirements of Regulation Best Interest's Care, Disclosure, and Conflict of Interest Obligations.
+
+2. The firm's existing procedures remained focused on the prior suitability standard rather than the enhanced "best interest" standard.
+
+3. The firm did not implement adequate systems to identify and mitigate conflicts of interest as required by Regulation Best Interest.
+
+4. The firm did not develop adequate procedures for documenting how recommendations made to retail customers satisfied the best interest standard.
+
+## Sanctions
+
+BB&T Securities agreed to:
+- A monetary fine
+- Undertake to revise its written supervisory procedures and compliance policies to address Regulation Best Interest requirements
+- Implement enhanced training programs for all registered representatives
+
+## Significance
+
+This case is significant because:
+
+1. It focuses on the Compliance Obligation of Regulation Best Interest, highlighting the importance of establishing proper written policies and procedures.
+
+2. It demonstrates that simply relying on pre-existing suitability-based policies and procedures is insufficient to meet Regulation Best Interest requirements.
+
+3. It emphasizes that firms must take affirmative steps to update their compliance infrastructures when new regulations are implemented.
+
+4. It shows FINRA's focus on ensuring proper implementation of Regulation Best Interest across the industry, even in the absence of customer harm.
+
+5. It serves as a warning to other firms that may have been slow to update their policies and procedures in response to Regulation Best Interest.
+
+The case underscores the importance of proactive compliance measures and highlights the regulatory expectation that firms will develop robust, tailored policies and procedures to address each component of Regulation Best Interest.

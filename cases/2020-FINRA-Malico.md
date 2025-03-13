@@ -1,0 +1,59 @@
+# FINRA's First Regulation Best Interest Enforcement Case - Charles Malico
+
+## Case Identification
+This case represents FINRA's first enforcement action related to Regulation Best Interest (Reg BI).
+
+**Respondent**: Charles Vincent Malico (CRD #1507282)
+**Firm**: Network 1 Financial Securities, Inc.
+**Date**: September 2022
+
+## Violations
+
+Charles Malico was found to have willfully violated Rule 15l-1(a) of the Securities Exchange Act of 1934 (Regulation Best Interest) and FINRA Rule 2010 by recommending a series of excessive transactions in a retail customer's account that were not in the customer's best interest.
+
+## Facts and Context
+
+1. The case involved a 63-year-old customer who opened an account with Malico in October 2020, after Regulation Best Interest went into effect (June 30, 2020).
+
+2. Malico made numerous recommendations to the customer that resulted in excessive trading in the account, including:
+   - In-and-out trading
+   - Short-term trading of long-term products
+   - Excessive commissions and fees relative to account value
+
+3. The trading activity generated an annualized cost-to-equity ratio of 158%, meaning the customer's account would have needed to appreciate by 158% just to break even after accounting for trading costs.
+
+4. The customer suffered losses of more than $17,500 during the relevant period.
+
+5. FINRA determined Malico's recommendations were excessive in light of the customer's investment profile and needs, and were made to generate trading commissions rather than serve the customer's best interests.
+
+## Care Obligation Violations
+
+Malico violated the "Care Obligation" component of Regulation Best Interest, which requires broker-dealers to exercise reasonable diligence, care, and skill when making recommendations to retail customers. Specifically:
+
+1. He failed to use reasonable diligence to understand the potential risks and rewards of his recommendations.
+
+2. He did not have a reasonable basis to believe his recommendations were in the customer's best interest.
+
+3. The pattern of trading he recommended was objectively unsuitable given:
+   - The high cost-to-equity ratio (158%)
+   - The rapid in-and-out trading pattern
+   - The customer's investment profile
+
+## Sanctions
+
+Malico agreed to:
+- A six-month suspension from association with any FINRA member
+- A $5,000 fine
+- Pay restitution to the affected customer
+
+## Significance
+
+This case is particularly significant as it represents FINRA's first formal enforcement action under Regulation Best Interest. It demonstrates that:
+
+1. FINRA will use Reg BI to address excessive trading (historically addressed under suitability rules)
+
+2. Quantitative factors such as cost-to-equity ratios will be important in determining Reg BI violations related to excessive trading
+
+3. FINRA is actively enforcing the "best interest" standard that requires brokers to place their customers' interests ahead of their own
+
+The case establishes precedent for how FINRA will apply Regulation Best Interest in cases involving excessive trading and sets expectations for the industry regarding compliance with the relatively new rule.
