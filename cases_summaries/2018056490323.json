@@ -1,27 +1,28 @@
 {
   "Demographics": {
-    "Age": "Two customers (49 and 89)",
+    "Age": "49-year-old merchandiser and 89-year-old retiree (senior)",
     "Employment": "Merchandiser and retiree",
     "IncomeLevel": "NOTSPECIFIED",
-    "InvestmentExperience": "NOTSPECIFIED",
+    "InvestmentExperience": "Conservative (Customer A) and NOTSPECIFIED (Customer B)",
     "NetWorth": "NOTSPECIFIED"
   },
   "InvestmentType": {
-    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
-    "InvestmentPurpose": "Conservative for Customer A, speculation for Customer B",
-    "RiskTolerance": "Conservative (Customer A), High (Customer B)",
-    "InvestmentAccountType": "NOTSPECIFIED"
+    "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+    "InvestmentPurpose": "Conservative (Customer A) and Speculation (Customer B)",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "Brokerage"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "7 (Customer A) and 14 (Customer B)",
+    "CostToEquityRatio": "34% (Customer A) and 35% (Customer B)"
   },
   "FinancialLossSuffered": {
-    "AmountLost": "$58,654 in total realized losses ($25,291 for Customer A, $33,363 for Customer B)",
-    "FeesCommissionsPaid": "$48,056 in total commissions ($19,792 for Customer A, $28,264 for Customer B)",
+    "AmountLost": "$25,291 (Customer A) and $33,363 (Customer B) in realized losses",
+    "FeesCommissionsPaid": "$19,792 (Customer A) and $28,264 (Customer B) in commissions",
     "ImpactOnPortfolio": "Severe"
   },
   "BreachType": {
-    "CareObligationViolation": "Yes",
-    "DisclosureObligationViolation": "NOTSPECIFIED",
-    "ConflictofInterestViolation": "Yes",
-    "ComplianceObligationViolation": "Yes"
+    "CareObligationViolation": "Yes"
   },
-  "Overall summary": "Justin R. Deiter excessively traded two retail customers' accounts between February 2020 and March 2022. For Customer A, a 49-year-old merchandiser described as a 'conservative investor,' Deiter recommended 32 transactions resulting in an annualized turnover rate of 7 and a cost-to-equity ratio of 34%, generating $19,792 in commissions while causing $25,291 in realized losses. Customer A relied on Deiter's advice and always followed his recommendations, giving him de facto control over the account. For Customer B, an 89-year-old retiree with a 'speculation' investment objective, Deiter recommended 28 transactions resulting in an annualized turnover rate of 14 and a cost-to-equity ratio of 35%, generating $28,264 in commissions while causing $33,363 in realized losses. The high cost-to-equity ratios (34% and 35%) indicate the customers' accounts would need to appreciate by those percentages annually just to break even. Deiter was suspended for six months with no monetary sanctions due to his financial situation."
+  "OverallSummary": "Between February 2020 and March 2022, Justin R. Deiter engaged in excessive trading in two retail customers' accounts, including one senior customer. For Customer A, a 49-year-old merchandiser described as a conservative investor, Deiter exercised de facto control over the account and recommended 32 transactions that resulted in an annualized turnover rate of 7 and a cost-to-equity ratio of 34%. This trading generated $19,792 in commissions while causing $25,291 in realized losses. For Customer B, an 89-year-old retiree with a speculation investment objective, Deiter recommended 28 transactions that resulted in an annualized turnover rate of 14 and a cost-to-equity ratio of 35%. This trading generated $28,264 in commissions while causing $33,363 in realized losses. Deiter's actions were found to be excessive and not in the best interest of his customers, willfully violating Regulation Best Interest and FINRA Rules 2111 and 2010."
 }

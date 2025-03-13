@@ -12,16 +12,17 @@
     "RiskTolerance": "NOTSPECIFIED",
     "InvestmentAccountType": "NOTSPECIFIED"
   },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+    "CostToEquityRatio": "NOTSPECIFIED"
+  },
   "FinancialLossSuffered": {
     "AmountLost": "$651,374.51 (total restitution ordered)",
     "FeesCommissionsPaid": "Potentially excessive sales charges",
     "ImpactOnPortfolio": "NOTSPECIFIED"
   },
   "BreachType": {
-    "CareObligationViolation": "Yes",
-    "DisclosureObligationViolation": "Yes",
-    "ConflictofInterestViolation": "NOTSPECIFIED",
-    "ComplianceObligationViolation": "Yes"
+    "CareObligationViolation": "Yes"
   },
-  "Overall summary": "This case involves LPL Financial LLC failing to reasonably supervise direct business transactions from 2012-2019, resulting in approximately 830,000 transactions not being properly monitored for potential sales practice violations. LPL failed to ensure customer information was collected for suitability determinations, sent inaccurate switch letters to approximately 11,300 customers that misstated sales charges, and failed to properly supervise recommendations of Listed BDCs. The firm was ordered to pay $5.5 million in fines and $651,374.51 in restitution to affected customers. The violations included failure to maintain proper supervision, providing inaccurate information to customers, and failing to ensure suitability of recommendations under FINRA Rule 2111 and Regulation Best Interest."
+  "OverallSummary": "This case involves LPL Financial LLC failing to reasonably supervise direct business transactions from 2012-2019, resulting in approximately 830,000 transactions not being properly monitored for potential sales practice violations. LPL failed to ensure customer information was collected for suitability determinations, sent inaccurate switch letters to approximately 11,300 customers that misstated sales charges, and failed to properly supervise recommendations of Listed BDCs. The firm was ordered to pay $5.5 million in fines and $651,374.51 in restitution to affected customers. The violations included failure to maintain proper supervision, providing inaccurate information to customers, and failing to ensure suitability of recommendations under FINRA Rule 2111 and Regulation Best Interest."
 }

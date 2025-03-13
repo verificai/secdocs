@@ -1,27 +1,28 @@
 {
   "Demographics": {
-    "Age": "Two customers (54 and 73)",
-    "Employment": "Retirees",
+    "Age": "54-year-old retiree and 73-year-old (senior)",
+    "Employment": "Retired",
     "IncomeLevel": "NOTSPECIFIED",
     "InvestmentExperience": "NOTSPECIFIED",
     "NetWorth": "NOTSPECIFIED"
   },
   "InvestmentType": {
-    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+    "PrimaryInvestmentRecommended": "NOTSPECIFIED",
     "InvestmentPurpose": "Speculation",
-    "RiskTolerance": "High",
-    "InvestmentAccountType": "NOTSPECIFIED"
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "Brokerage"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "14 (Customer A) and 16 (Customer B)",
+    "CostToEquityRatio": "64% (Customer A) and 80% (Customer B)"
   },
   "FinancialLossSuffered": {
-    "AmountLost": "$204,492 in total realized losses ($95,393 for Customer A, $109,099 for Customer B)",
-    "FeesCommissionsPaid": "$97,981 in total commissions ($28,428 for Customer A, $69,553 for Customer B)",
+    "AmountLost": "$95,393 (Customer A) and $109,099 (Customer B) in realized losses",
+    "FeesCommissionsPaid": "$28,428 (Customer A) and $69,553 (Customer B) in commissions",
     "ImpactOnPortfolio": "Severe"
   },
   "BreachType": {
-    "CareObligationViolation": "Yes",
-    "DisclosureObligationViolation": "NOTSPECIFIED",
-    "ConflictofInterestViolation": "Yes",
-    "ComplianceObligationViolation": "Yes"
+    "CareObligationViolation": "Yes"
   },
-  "Overall summary": "Christopher P. Gallo excessively traded two retail customers' accounts (including one senior customer) between June 30, 2020, and November 2021. For Customer A, a 54-year-old retiree, Gallo recommended 45 transactions resulting in an annualized turnover rate of 14 and a cost-to-equity ratio of 64%, generating $28,428 in commissions while causing $95,393 in realized losses. For Customer B, a 73-year-old customer, Gallo recommended 120 transactions resulting in an annualized turnover rate of 16 and a cost-to-equity ratio of 80%, generating $69,553 in commissions while causing $109,099 in realized losses. Both customers had investment objectives listed as 'speculation,' but the level of trading was deemed excessive and not in their best interests. Despite the high cost-to-equity ratios (64% and 80%), which indicate the customers' accounts would need to appreciate by those percentages annually just to break even, Gallo continued his recommendations. He was suspended for five months with no monetary sanctions due to his financial situation."
+  "OverallSummary": "Between June 30, 2020, and November 2021, Christopher P. Gallo engaged in excessive trading in two retail customers' accounts, including one senior customer. Gallo recommended excessive transactions that resulted in high turnover rates (14-16) and cost-to-equity ratios (64%-80%). For Customer A, a 54-year-old retiree with a speculation investment objective, Gallo recommended 45 transactions that generated $28,428 in commissions while causing $95,393 in realized losses. For Customer B, a 73-year-old with a speculation investment objective, Gallo recommended 120 transactions that generated $69,553 in commissions while causing $109,099 in realized losses. Gallo's actions were found to be excessive and not in the best interest of his customers, willfully violating Regulation Best Interest and FINRA Rule 2010."
 }

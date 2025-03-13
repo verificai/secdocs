@@ -7,21 +7,22 @@
     "NetWorth": "NOTSPECIFIED"
   },
   "InvestmentType": {
-    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+    "PrimaryInvestmentRecommended": "Various stocks including biotechnology and semiconductor companies",
     "InvestmentPurpose": "NOTSPECIFIED",
     "RiskTolerance": "NOTSPECIFIED",
-    "InvestmentAccountType": "NOTSPECIFIED"
+    "InvestmentAccountType": "Brokerage"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "23",
+    "CostToEquityRatio": "104%"
   },
   "FinancialLossSuffered": {
-    "AmountLost": "$41,017 in realized losses",
-    "FeesCommissionsPaid": "$96,496 total trading costs, including $92,847 in commissions",
+    "AmountLost": "$41,017 in total realized losses",
+    "FeesCommissionsPaid": "$96,496 in total trading costs, including $92,847 in commissions",
     "ImpactOnPortfolio": "Severe"
   },
   "BreachType": {
-    "CareObligationViolation": "Yes",
-    "DisclosureObligationViolation": "NOTSPECIFIED",
-    "ConflictofInterestViolation": "Yes",
-    "ComplianceObligationViolation": "Yes"
+    "CareObligationViolation": "Yes"
   },
-  "Overall summary": "Jesse D. Krapf excessively traded a senior business owner's account between October 2019 and April 2022. He recommended 58 transactions resulting in an annualized turnover rate of 23 and an annualized cost-to-equity ratio of 104%, meaning the customer's account would need to appreciate by 104% annually just to break even. Krapf's trading generated $96,496 in total trading costs (including $92,847 in commissions) while causing $41,017 in realized losses. Krapf frequently engaged in in-and-out trading, including recommending nearly $180,000 in biotechnology stock that he then recommended selling just two days later (charging $7,800 in commissions), and recommending $82,000 in semiconductor stock that he recommended selling the same day at a loss (charging $2,000 in commissions). The customer relied on and routinely followed Krapf's recommendations, giving him de facto control of the account. Krapf was suspended for five months with no monetary sanctions due to his financial situation."
+  "OverallSummary": "Between October 2019 and April 2022, Jesse D. Krapf engaged in excessive trading in a senior business owner's account. Krapf exercised de facto control over the account and recommended excessive in-and-out trading that resulted in an annualized turnover rate of 23 and an annualized cost-to-equity ratio of 104%. This trading generated $96,496 in total trading costs (including $92,847 in commissions) while causing $41,017 in realized losses. Specific examples of excessive trading include recommending the purchase of $180,000 in biotechnology stock, then selling it two days later with $7,800 in commissions, followed by purchasing $82,000 in a semiconductor company and selling it the same day for a loss with $2,000 in commissions. Krapf's actions were found to be excessive, unsuitable, and not in the best interest of his customer, violating Regulation Best Interest and FINRA Rules 2111 and 2010."
 }

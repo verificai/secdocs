@@ -1,27 +1,28 @@
 {
   "Demographics": {
-    "Age": "Multiple customers, including seniors (69, 79)",
-    "Employment": "Various (physician, semi-retired banker)",
+    "Age": "Range from 69 to 79, three were seniors",
+    "Employment": "Various (including physician, semi-retired banker)",
     "IncomeLevel": "NOTSPECIFIED",
     "InvestmentExperience": "NOTSPECIFIED",
     "NetWorth": "NOTSPECIFIED"
   },
   "InvestmentType": {
-    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+    "PrimaryInvestmentRecommended": "NOTSPECIFIED",
     "InvestmentPurpose": "Speculation",
-    "RiskTolerance": "High",
-    "InvestmentAccountType": "NOTSPECIFIED"
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "Brokerage"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "Range of 17 to 38 across four customer accounts",
+    "CostToEquityRatio": "Range of 71% to 125% across four customer accounts"
   },
   "FinancialLossSuffered": {
-    "AmountLost": "$735,376 in total realized losses",
-    "FeesCommissionsPaid": "$618,911 total trading costs, including $563,263 in commissions",
+    "AmountLost": "$735,376 in total realized losses across four customer accounts",
+    "FeesCommissionsPaid": "$618,911 in total trading costs, including $563,263 in commissions",
     "ImpactOnPortfolio": "Severe"
   },
   "BreachType": {
-    "CareObligationViolation": "Yes",
-    "DisclosureObligationViolation": "NOTSPECIFIED",
-    "ConflictofInterestViolation": "Yes",
-    "ComplianceObligationViolation": "Yes"
+    "CareObligationViolation": "Yes"
   },
-  "Overall summary": "George Apolonides (also known as George Apollo) excessively traded four customers' accounts (including three senior customers) between March 2016 and April 2022. His trading resulted in extremely high turnover rates (17 to 38) and cost-to-equity ratios (71% to 125%), generating $618,911 in total trading costs (including $563,263 in commissions) while causing $735,376 in realized losses. For example, he recommended 357 transactions in a 69-year-old physician's account, resulting in an annualized turnover rate of 31 and a cost-to-equity ratio of 114%, generating $229,352 in trading costs while causing $326,684 in realized losses. In another case, he recommended 127 transactions in a 79-year-old semi-retired banker's account. Apolonides exercised de facto control over the accounts as customers relied on and routinely followed his recommendations. The level of trading was found to be excessive, unsuitable, and not in the customers' best interests. Apolonides was suspended for 11 months with no monetary sanctions due to his financial situation."
+  "OverallSummary": "Between March 2016 and April 2022, George Apolonides (also known as George Apollo) engaged in excessive trading in four customer accounts, three of whom were seniors. Apolonides exercised de facto control over these accounts and recommended excessive transactions that resulted in high turnover rates (17 to 38) and cost-to-equity ratios (71% to 125%). These trading practices generated $618,911 in total trading costs (including $563,263 in commissions) while causing $735,376 in realized losses across the four accounts. Specific examples include a 69-year-old physician who suffered $326,684 in losses with a 114% cost-to-equity ratio and a 79-year-old semi-retired banker who lost $115,721 with a 76% cost-to-equity ratio. Apolonides's actions were found to be excessive, unsuitable, and not in the best interest of his customers, violating Regulation Best Interest and FINRA Rules 2111 and 2010."
 }

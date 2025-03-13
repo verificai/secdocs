@@ -7,21 +7,22 @@
     "NetWorth": "NOTSPECIFIED"
   },
   "InvestmentType": {
-    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+    "PrimaryInvestmentRecommended": "NOTSPECIFIED",
     "InvestmentPurpose": "NOTSPECIFIED",
     "RiskTolerance": "NOTSPECIFIED",
-    "InvestmentAccountType": "NOTSPECIFIED"
+    "InvestmentAccountType": "Brokerage"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "14",
+    "CostToEquityRatio": "55%"
   },
   "FinancialLossSuffered": {
     "AmountLost": "$141,051 in realized losses",
-    "FeesCommissionsPaid": "$92,237 total trading costs, including $83,484 in commissions",
+    "FeesCommissionsPaid": "$92,237 in total trading costs, including $83,484 in commissions",
     "ImpactOnPortfolio": "Severe"
   },
   "BreachType": {
-    "CareObligationViolation": "Yes",
-    "DisclosureObligationViolation": "NOTSPECIFIED",
-    "ConflictofInterestViolation": "Yes",
-    "ComplianceObligationViolation": "Yes"
+    "CareObligationViolation": "Yes"
   },
-  "Overall summary": "Joao A. Pinto recommended excessive and unsuitable trading in a 68-year-old retired customer's account from January 2020 through June 2021. Pinto's high-frequency trading resulted in an annualized turnover rate of 14 and an annualized cost-to-equity ratio of 55%, meaning the customer's account would need to grow by 55% annually just to break even. The trading generated $92,237 in costs (including $83,484 in commissions) and caused $141,051 in realized losses. Pinto exercised de facto control over the account as the customer routinely followed his recommendations. FINRA found Pinto willfully violated Regulation Best Interest (for conduct after June 30, 2020) and FINRA Rule 2111 (for conduct before June 30, 2020). He was suspended for three months with no monetary sanctions due to his financial situation."
+  "OverallSummary": "From January 2020 through June 2021, Joao A. Pinto engaged in excessive trading in a 68-year-old retired customer's account. Pinto exercised de facto control over the account and recommended high-frequency trading that resulted in an annualized turnover rate of 14 and an annualized cost-to-equity ratio of 55%. This excessive trading generated $92,237 in total trading costs (including $83,484 in commissions) and caused $141,051 in realized losses. The high cost-to-equity ratio meant the customer's account would have needed to grow by 55% annually just to break even. Pinto's actions were found to be excessive, unsuitable, and not in the best interest of the customer, violating Regulation Best Interest and FINRA Rules 2111 and 2010."
 }

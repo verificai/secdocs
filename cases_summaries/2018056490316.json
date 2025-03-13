@@ -1,27 +1,28 @@
 {
   "Demographics": {
-    "Age": "Multiple customers, including seniors (78, 65, 58)",
-    "Employment": "Various (retirees, real estate professional, contractor)",
+    "Age": "Range from 58 to 78, four were seniors",
+    "Employment": "Mixed (including retirees and professionals)",
     "IncomeLevel": "NOTSPECIFIED",
     "InvestmentExperience": "NOTSPECIFIED",
     "NetWorth": "NOTSPECIFIED"
   },
   "InvestmentType": {
-    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
-    "InvestmentPurpose": "Various (aggressive growth/aggressive income, speculation)",
-    "RiskTolerance": "High",
-    "InvestmentAccountType": "NOTSPECIFIED"
+    "PrimaryInvestmentRecommended": "NOTSPECIFIED",
+    "InvestmentPurpose": "Varied (aggressive growth/aggressive income, speculation)",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "Brokerage"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "Range of 10 to 21 across six customer accounts",
+    "CostToEquityRatio": "Range of 38% to 82% across six customer accounts"
   },
   "FinancialLossSuffered": {
-    "AmountLost": "Over $1.03 million in total realized losses",
-    "FeesCommissionsPaid": "$958,948 total trading costs, including $849,576 in commissions",
+    "AmountLost": "Over $1.03 million in total realized losses across six customer accounts",
+    "FeesCommissionsPaid": "$958,948 in total trading costs, including $849,576 in commissions",
     "ImpactOnPortfolio": "Severe"
   },
   "BreachType": {
-    "CareObligationViolation": "Yes",
-    "DisclosureObligationViolation": "Yes",
-    "ConflictofInterestViolation": "Yes",
-    "ComplianceObligationViolation": "Yes"
+    "CareObligationViolation": "Yes"
   },
-  "Overall summary": "Kostas Tsamos (also known as Gus Tsamos) excessively traded six customers' accounts (including four senior customers) between February 2016 and April 2022. His trading resulted in extremely high turnover rates (10 to 21) and cost-to-equity ratios (38% to 82%), generating $958,948 in total trading costs (including $849,576 in commissions) while causing over $1.03 million in realized losses. For example, he recommended 439 transactions in a 78-year-old retiree's account over six years, resulting in an annualized turnover rate of 18 and cost-to-equity ratio of 52%, generating $182,860 in trading costs while causing $123,622 in realized losses. Tsamos exercised de facto control over the accounts as customers relied on and routinely followed his recommendations. The level of trading was found to be excessive, unsuitable, and not in the customers' best interests. Tsamos was suspended for 17 months with no monetary sanctions due to his financial situation."
+  "OverallSummary": "Between February 2016 and April 2022, Kostas Tsamos (also known as Gus Tsamos) engaged in excessive trading in six customer accounts, four of whom were seniors. Tsamos exercised de facto control over these accounts and recommended excessive transactions that resulted in high turnover rates (10 to 21) and cost-to-equity ratios (38% to 82%). These trading practices generated $958,948 in total trading costs (including $849,576 in commissions) while causing over $1.03 million in realized losses across the six accounts. Specific examples include a 78-year-old retiree who suffered $123,622 in losses with a 52% cost-to-equity ratio, a 65-year-old real estate professional who lost $253,388 with a 38% cost-to-equity ratio, and a 58-year-old contractor who lost $343,960 with an 82% cost-to-equity ratio. Tsamos's actions were found to be excessive, unsuitable, and not in the best interest of his customers, violating Regulation Best Interest and FINRA Rules 2111 and 2010."
 }
