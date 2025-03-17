@@ -1,0 +1,28 @@
+{
+  "Demographics": {
+    "Age": "NOTSPECIFIED",
+    "Employment": "NOTSPECIFIED",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "Private Placements",
+    "InvestmentPurpose": "NOTSPECIFIED",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "NOTSPECIFIED"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+    "CostToEquityRatio": "NOTSPECIFIED"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "NOTSPECIFIED",
+    "FeesCommissionsPaid": "NOTSPECIFIED",
+    "ImpactOnPortfolio": "NOTSPECIFIED"
+  },
+  "BreachType": {
+    "CareObligationViolation": "Yes"
+  },
+  "OverallSummary": "This is a regulatory action against SI Securities, LLC rather than a specific customer case. The firm violated FINRA rules related to private placement offerings, including failing to terminate an offering when a material change occurred, failing to return funds directly to investors, failing to file required documents with FINRA, failing to maintain customer complaint files, failing to report customer complaints, and failing to establish proper supervisory systems for Form CRS compliance."
+}

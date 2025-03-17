@@ -1,0 +1,86 @@
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "Above 6 (exact figure not specified)",
+      "CostToEquityRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$393,969",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer 1 was subjected to unauthorized and excessive trading by a registered representative at Kayan Securities between 2018 and 2019. The representative engaged in in-and-out trading primarily in a single stock, and the account had a turnover rate above the recognized excessive trading benchmark of six. The customer's account was designated as a 'pattern day trader' account, and the representative marked nearly all trades as 'unsolicited.' Customer 1 lost $393,969 as a result of the unauthorized and excessive trading and filed a written complaint with the firm in June 2019. Despite red flags and the representative's admission of unauthorized trading, Kayan Securities and its CCO Kim failed to reasonably investigate the trading or to disclose the customer complaint to FINRA. The firm is being ordered to pay $50,000 in partial restitution to Customer 1."
+  },
+  {
+    "Demographics": {
+      "Age": "Senior",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "Above 6 (exact figure not specified)",
+      "CostToEquityRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer 2, a senior investor, was subjected to unauthorized and excessive trading by a registered representative at Kayan Securities in 2020. The representative engaged in in-and-out trading primarily in a single stock, and the account appeared on three monthly active account reports with a turnover rate above six. After the third such report, the firm's CCO Kim sent a letter to Customer 2, who immediately responded and complained about unauthorized trading. The representative admitted to unauthorized trading in the account, and the firm fined the representative but failed to disclose the customer complaint to FINRA or to update the representative's Form U4/U5 with information about the complaint. Customer 2 filed another written complaint in January 2021 and again in April 2021."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "Above 6 (exact figure not specified)",
+      "CostToEquityRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer 3 was subjected to unauthorized and excessive trading by a registered representative at Kayan Securities in 2019. The representative engaged in in-and-out trading primarily in a single stock, with nearly all transactions marked as 'unsolicited.' The account had a turnover rate above the recognized excessive trading benchmark of six. When the firm's CCO Kim noticed the trading activity, he only had the representative obtain a revised account application from Customer 3, changing the investment objective and risk tolerance to conform to the trading rather than investigating whether the trading was authorized. After the representative was barred by FINRA in April 2021, Customer 3 notified the firm that the representative had engaged in unauthorized trading in his account."
+  }
+]

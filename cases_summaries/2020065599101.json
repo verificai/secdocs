@@ -1,0 +1,86 @@
+[
+  {
+    "Demographics": {
+      "Age": "75",
+      "Employment": "Retired aircraft maintenance worker",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "Limited",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "Retirement savings",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "31.5",
+      "CostToEquityRatio": "103.49%"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$131,979 in realized losses",
+      "FeesCommissionsPaid": "$120,388 (including $101,806 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer A was a 75-year-old retired aircraft maintenance worker with limited investment experience who opened an account at SW Financial in December 2016. He viewed his assets at SW Financial as his retirement savings. From December 2016 through July 2018, the representative effected 174 trades in Customer A's account, resulting in an annualized cost-to-equity ratio of 103.49% and an annualized turnover rate of 31.5. Although the account had an average monthly funded equity of approximately $70,000, the representative purchased over $3.6 million in securities. The trading generated total costs of $120,388, including $101,806 in commissions, and caused $131,979 in realized losses. As a result, Customer A lost the majority of his retirement savings and was forced to sell his home and downsize to raise funds for expenses."
+  },
+  {
+    "Demographics": {
+      "Age": "72",
+      "Employment": "Owner of an air conditioning company",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "No recent investment experience",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "20.92",
+      "CostToEquityRatio": "79.88%"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$76,866 in realized losses",
+      "FeesCommissionsPaid": "$59,032 (including $50,936 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer B was a 72-year-old owner of an air conditioning company with no recent investment experience who opened an account at SW Financial in April 2016. From April 2016 through May 2019, the representative effected 145 trades in Customer B's account, resulting in an annualized cost-to-equity ratio of 79.88% and an annualized turnover rate of 20.92. Although the account had an average monthly funded equity of approximately $26,000, the representative purchased over $1.7 million in securities. The trading generated total costs of $59,032, including $50,936 in commissions, and caused $76,866 in realized losses."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Pre-IPO Private Placements",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "NOTSPECIFIED"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "Undisclosed compensation to broker of 5% beyond disclosed 10% commission plus half of carried interest",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "From January 2018 to December 2021, SW Financial sold pre-IPO private placement offerings to 171 investors, including 163 retail customers, totaling approximately $21.3 million. The firm misrepresented its compensation arrangement, stating it would receive only a 10% sales commission while secretly agreeing to receive an additional 5% in selling compensation and half of any carried interest. Additionally, SW Financial failed to conduct reasonable due diligence on the offerings, not verifying whether the issuer actually possessed the pre-IPO shares being sold or confirming whether the markups (which reached 25-39% for some offerings) were reasonable or properly disclosed. The undisclosed compensation arrangement resulted in approximately $2 million in additional compensation for SW Financial."
+  }
+]

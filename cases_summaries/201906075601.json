@@ -1,0 +1,86 @@
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Market Orders (affected by \"collaring\" practice)",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "At least $3.75 million collectively",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Moderate"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "From May 2014 to December 2021, Robinhood converted market orders, stop orders, and trailing stop orders into limit orders, a practice known as 'collaring.' While intended to prevent executions at extreme prices, Robinhood's disclosures about this practice were inaccurate or incomplete. From August 2016 to June 2021, over 8.7 million collared orders did not execute and were canceled. Some customers re-entered their market orders and received less favorable executions than they would have initially, resulting in at least $3.75 million in collective losses. The firm failed to adequately disclose how collaring worked despite receiving thousands of customer inquiries about failed order executions."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Trading During Halts",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$5,807 collectively",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "Minor"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "From December 2019 through January 2023, Robinhood Securities executed over 33,000 transactions during approximately 1,200 trading halts and two market-wide trading halts. In approximately 2,200 of these transactions, customers received inferior prices than they would have if the firm had waited until after the halt to execute the trades. Robinhood identified 1,879 affected customers who will receive restitution totaling $5,807."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Account Transfers",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "From November 2018 through July 2022, Robinhood Securities improperly rejected approximately 116,000 customer requests to transfer their accounts to another brokerage firm through the Automated Customer Account Transfer Service (ACATS). The firm rejected transfers for improper reasons including the presence of unsettled transactions, crypto asset holdings in a separate affiliated account, or options that would expire within five days, none of which are valid reasons to reject transfers under FINRA rules."
+  }
+]

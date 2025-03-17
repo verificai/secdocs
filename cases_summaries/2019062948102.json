@@ -1,0 +1,58 @@
+[
+  {
+    "Demographics": {
+      "Age": "62",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "Growth (although the account was marked as speculation)",
+      "RiskTolerance": "Moderate (although the account was marked as high risk)",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "7",
+      "CostToEquityRatio": "31%"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$368,159",
+      "FeesCommissionsPaid": "$236,500 (including approximately $220,000 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer A was a 62-year-old investor whose account was excessively traded between September 2018 and January 2021. Although her account was marked as having a speculation objective and high risk tolerance, her actual goal was to grow her investments. The registered representative executed approximately 900 trades in her account, generating $236,500 in total costs including $220,000 in commissions, and resulting in losses of $368,159. The trading resulted in an annualized cost-to-equity ratio of 31% and turnover rate of 7. James Brett Stuart, the firm's CEO and CCO, failed to review over 540 Commission Velocity and Turnover alerts from the clearing firm showing excessive trading in her account, with some alerts showing commission velocity as high as 34% over 90 days."
+  },
+  {
+    "Demographics": {
+      "Age": "77",
+      "Employment": "Retiree",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "Moderate",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "7",
+      "CostToEquityRatio": "31%"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$1,766",
+      "FeesCommissionsPaid": "$22,350",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer B was a 77-year-old retiree with a moderate risk tolerance who did not wish to have an actively traded account. Between July 2020 and August 2021, the registered representative excessively traded her account, resulting in an annualized cost-to-equity ratio of 31% and turnover rate of 7. She incurred total costs of approximately $22,350 and losses of $1,766 during this period. The firm received over 290 alerts from its clearing firm showing excessive trading in her account, with commission velocity consistently above 20% and eventually exceeding thresholds set by the clearing firm. James Brett Stuart, the firm's CEO and CCO, failed to review these alerts or take any action to confirm the trading was consistent with her investment profile."
+  }
+]

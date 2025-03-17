@@ -1,0 +1,63 @@
+
+For files number 11 through 20 (alphabetical order) in /Users/fettermania/claude/casestxts/, each with a name like 123.txt, please read and summarize what you know about each known affected customer in this format, where each top numbered row is a json object with the obvious keys and values.
+
+[ 
+{ "Demographics":
+
+{ "Age": (e.g., 50-75, senior investors, retirees),
+
+  "Employment": (e.g., working professional, retired, self-employed),
+
+  "IncomeLevel": (low, moderate, high),
+
+  "InvestmentExperience": (low, moderate, high),
+
+  "NetWorth": (low, moderate, high)
+
+},
+
+"InvestmentType": {
+
+  "PrimaryInvestmentRecommended": (e.g., L Bonds, Structured Notes, Excessive Stock Trading)
+
+"InvestmentPurpose": (growth, income, preservation)
+
+"RiskTolerance": (low, moderate, high)
+
+"InvestmentAccountType": (IRA, Brokerage, Retirement)
+},
+
+"AccountInformation": { 
+"AnnualizedPortfolioTurnover" : Annualized Portfolio Turnover for an account ($),
+"CostToEquityRatio": Annualized Cost-to-equity Ratio  (percentage),
+
+},
+
+
+"FinancialLossSuffered":  {
+
+"AmountLost": (specific dollar figures where available),
+
+"FeesCommissionsPaid": (where excessive),
+
+"ImpactOnPortfolio": (severe, moderate, minor),
+
+},
+
+"BreachType": {
+
+"CareObligationViolation": (Yes/No),
+
+},
+
+"OverallSummary": Your overall summary of the case
+
+}]
+
+You can use NOTSPECIFIED if the info is not there.  
+
+Then write that to the file ../secdocs/cases_summaries/123.json  in the directory you got it.
+
+Make sure to use the case number (original file name) instead of 123.
+
+Please let me know as you save each file, but you don't have to talk during this.

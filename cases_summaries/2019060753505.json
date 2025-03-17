@@ -1,0 +1,142 @@
+[
+  {
+    "Demographics": {
+      "Age": "49",
+      "Employment": "Accountant",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "Speculation",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "20",
+      "CostToEquityRatio": "87%"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$80,072",
+      "FeesCommissionsPaid": "$38,513 (including $36,777 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer A was a 49-year-old accountant whose account was excessively traded by Troy Allen Orlando at Spartan Capital Securities from August to November 2018. Despite having speculation as the stated investment objective, the excessive trading resulted in a turnover rate of 20 and a cost-to-equity ratio of 87%, generating $38,513 in trading costs and causing $80,072 in realized losses. The broker exercised de facto control over the account and engaged in quantitatively unsuitable trading."
+  },
+  {
+    "Demographics": {
+      "Age": "63",
+      "Employment": "Real-estate executive",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "NOTSPECIFIED",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "32",
+      "CostToEquityRatio": "172%"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$12,818",
+      "FeesCommissionsPaid": "$24,988 (including $21,305 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer B was a 63-year-old real-estate executive whose account was excessively traded by Troy Allen Orlando at Spartan Capital Securities from January 2018 through February 2019. The excessive trading resulted in an annualized turnover rate of 32 and an annualized cost-to-equity ratio of 172%, generating $24,988 in trading costs and causing $12,818 in realized losses. The broker exercised de facto control over the account and engaged in quantitatively unsuitable trading."
+  },
+  {
+    "Demographics": {
+      "Age": "67",
+      "Employment": "Owner of a car dealership",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "Limited",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "Speculation",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "62",
+      "CostToEquityRatio": "221%"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$37,998",
+      "FeesCommissionsPaid": "$65,934 (including $39,730 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer C was a 67-year-old owner of a car dealership with limited investment knowledge whose account was excessively traded by Troy Allen Orlando at Worden Capital Management from July 2019 through November 2020. Despite having speculation as the stated investment objective, the excessive trading resulted in an annualized turnover rate of 62 and an annualized cost-to-equity ratio of 221%, generating $65,934 in trading costs and causing $37,998 in realized losses. The broker exercised de facto control over the account and engaged in quantitatively unsuitable trading. Customer C previously obtained an arbitration award against Worden related to Orlando's trading."
+  },
+  {
+    "Demographics": {
+      "Age": "48",
+      "Employment": "Engineer",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "Speculation",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "93",
+      "CostToEquityRatio": "279%"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$40,710",
+      "FeesCommissionsPaid": "$62,281 (including $42,929 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer D was a 48-year-old engineer whose account was excessively traded by Troy Allen Orlando at Worden Capital Management from October 2019 through November 2020. Despite having speculation as the stated investment objective, the excessive trading resulted in an annualized turnover rate of 93 and an annualized cost-to-equity ratio of 279%, generating $62,281 in trading costs and causing $40,710 in realized losses. The broker exercised de facto control over the account and engaged in quantitatively unsuitable trading. Customer D previously obtained an arbitration award against Worden related to Orlando's trading."
+  },
+  {
+    "Demographics": {
+      "Age": "71",
+      "Employment": "Truck salesman",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "NOTSPECIFIED",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+      "InvestmentPurpose": "Speculation",
+      "RiskTolerance": "NOTSPECIFIED",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "37",
+      "CostToEquityRatio": "132%"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "$26,852",
+      "FeesCommissionsPaid": "$40,082 (including $24,156 in commissions)",
+      "ImpactOnPortfolio": "Severe"
+    },
+    "BreachType": {
+      "CareObligationViolation": "Yes"
+    },
+    "OverallSummary": "Customer E was a 71-year-old truck salesman whose account was excessively traded by Troy Allen Orlando at Worden Capital Management from July 2019 through November 2020. Despite having speculation as the stated investment objective, the excessive trading resulted in an annualized turnover rate of 37 and an annualized cost-to-equity ratio of 132%, generating $40,082 in trading costs and causing $26,852 in realized losses. The broker exercised de facto control over the account and engaged in quantitatively unsuitable trading. Customer E previously obtained an arbitration award against Worden related to Orlando's trading."
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "Demographics": {
+    "Age": "70+ (opened account at age 60 in 2010, case period was 2020-2021)",
+    "Employment": "NOTSPECIFIED",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "Excessive Stock Trading",
+    "InvestmentPurpose": "NOTSPECIFIED",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "NOTSPECIFIED"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "20.39",
+    "CostToEquityRatio": "37.65%"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "Approximately $12,000 in trading losses",
+    "FeesCommissionsPaid": "$27,566 in commissions",
+    "ImpactOnPortfolio": "Severe"
+  },
+  "BreachType": {
+    "CareObligationViolation": "Yes"
+  },
+  "OverallSummary": "The customer opened an account with Laidlaw & Company (UK) Ltd. in July 2010 at age 60. Between June 2020 and January 2021, when the customer was a senior investor, broker Todd Anthony Cirella recommended 46 transactions that were excessive, unsuitable, and not in the customer's best interest. The broker had de facto control over the account as the customer relied on and routinely followed his recommendations. The trading resulted in an annualized cost-to-equity ratio of 37.65% and an annualized turnover rate of 20.39, generating $27,566 in commissions for the broker and causing approximately $12,000 in trading losses for the customer. The high cost-to-equity ratio meant the customer's account would have needed to grow by more than 37% annually just to break even."
+}

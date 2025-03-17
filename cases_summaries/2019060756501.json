@@ -1,0 +1,28 @@
+{
+  "Demographics": {
+    "Age": "NOTSPECIFIED",
+    "Employment": "NOTSPECIFIED",
+    "IncomeLevel": "NOTSPECIFIED",
+    "InvestmentExperience": "NOTSPECIFIED",
+    "NetWorth": "NOTSPECIFIED"
+  },
+  "InvestmentType": {
+    "PrimaryInvestmentRecommended": "Market Orders (affected by \"collaring\" practice)",
+    "InvestmentPurpose": "NOTSPECIFIED",
+    "RiskTolerance": "NOTSPECIFIED",
+    "InvestmentAccountType": "Brokerage"
+  },
+  "AccountInformation": {
+    "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+    "CostToEquityRatio": "NOTSPECIFIED"
+  },
+  "FinancialLossSuffered": {
+    "AmountLost": "At least $3.75 million collectively",
+    "FeesCommissionsPaid": "NOTSPECIFIED",
+    "ImpactOnPortfolio": "Moderate"
+  },
+  "BreachType": {
+    "CareObligationViolation": "Yes"
+  },
+  "OverallSummary": "This file appears to be a duplicate of case #201906075601, which details Robinhood's practice of 'collaring' market orders and other violations. From May 2014 to December 2021, Robinhood converted market orders into limit orders without adequate disclosure, resulting in many canceled orders and customers paying more or receiving less when they re-entered orders. Customers collectively lost at least $3.75 million due to these practices."
+}
