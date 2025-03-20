@@ -18,11 +18,10 @@ def get_case_data():
     return cases_map
 
 # Load environment variables from .env file
-load_dotenv()
 
 API_KEY = os.getenv("ANTHROPIC_API_KEY")
-API_URL = "https://api.anthropic.com/v1/messages"
-
+if not API_KEY:
+    raise ValueError("ANTHROPIC_API_KEY is not set in the environment variables.")
 
 anthropic_client = anthropic.Anthropic(api_key=API_KEY)
 
