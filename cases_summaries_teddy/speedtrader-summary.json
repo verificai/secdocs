@@ -1,0 +1,81 @@
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "high",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced securities, speculative trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "speculation",
+      "RiskTolerance": "high",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "Ranges from approximately $120,000 to over $1.5 million for 8 customer accounts from China",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "SpeedTrader, Inc., formerly known as Mint Global Markets, Inc.",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2017056224501",
+        "Date": "September 23, 2024",
+        "CareObligationViolation": "No",
+        "TypeofCareObligationViolation": "NOTSPECIFIED"
+      }
+    },
+    "CustomerSummary": "This customer group consists of approximately 850 retail customers who used SpeedTrader's self-directed online brokerage services. The firm catered to 'speculative and high risk only' investors, many of whom actively traded in low-priced securities. SpeedTrader violated FINRA rules by: (1) failing to conduct proper reviews of execution quality beyond price disimprovement; (2) not considering all relevant execution quality factors as required by FINRA Rule 5310.09(b); (3) failing to compare execution quality of existing routing arrangements with competing markets; (4) interjecting third parties between itself and the best markets for customer securities through net trading arrangements; and (5) failing to establish reasonable supervisory systems for best execution compliance. A subset of customers, particularly those based in China, experienced significant financial losses while generating substantial portions of the firm's commissions and AML alerts."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "NOTSPECIFIED",
+      "IncomeLevel": "NOTSPECIFIED",
+      "InvestmentExperience": "high",
+      "NetWorth": "NOTSPECIFIED"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced securities, speculative trading",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "speculation",
+      "RiskTolerance": "high",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "SpeedTrader, Inc., formerly known as Mint Global Markets, Inc.",
+        "Type of Document": "Letter of Acceptance, Waiver, and Consent (AWC)",
+        "Case No.": "2017056224501",
+        "Date": "September 23, 2024",
+        "CareObligationViolation": "No",
+        "TypeofCareObligationViolation": "NOTSPECIFIED"
+      }
+    },
+    "CustomerSummary": "This customer group consists of 37 customers who were permitted to simultaneously open accounts at two different clearing firms. SpeedTrader failed to reasonably review the trading activity in over 25% of those accounts for red flags of suspicious or potentially manipulative activity. In at least one case, a customer engaged in six instances of opposite-side trades in the same security on the same trade date in March 2022, but SpeedTrader did not flag this customer or review these transactions because it failed to properly monitor customers with dual clearing relationships. These violations related to FINRA Rule 3310 (AML requirements) rather than the Care Obligation under Reg BI."
+  },
+  {
+    "OverallSummary": "SpeedTrader's violations affected approximately 850 retail customers and 2 institutional customers. The firm primarily provided self-directed online brokerage services to customers who were 'speculative and high risk only.' The firm committed violations in three main areas, but these were not specifically identified as Care Obligation violations under Reg BI in the document:\n\n1. Best Execution Violations: SpeedTrader failed to meet its best execution obligations required under FINRA Rule 5310. The analytical steps that determined this violation included: (a) examining the firm's execution quality reviews from November 2017 to present, which were initially limited to manual reviews of only 10 randomly selected executions for price disimprovement out of approximately 14,000 executions every two weeks; (b) documenting that even after automation in April 2019, reviews remained limited to price disimprovement; (c) identifying that after June 2023, the firm still failed to consider all required execution quality factors; and (d) determining the firm never compared execution quality of its routing arrangements to competing markets.\n\n2. Interpositioning Violations: From January 2017 to July 2022, SpeedTrader routed customer orders totaling approximately 100 million shares annually to three broker-dealers that traded on a 'net' basis, effectively interjecting third parties between itself and the best markets for customer securities. This violated FINRA Rule 5310(a)(2).\n\n3. AML Program Deficiencies: SpeedTrader failed to establish and implement a reasonably designed AML program. The analytical steps that determined this violation included: (a) identifying that the firm failed to reasonably investigate AML alert patterns, particularly from 13 customers based in China who generated 46% of the firm's commissions and 36% of its AML alerts in 2018; (b) documenting specific instances of suspicious trading patterns that went uninvestigated; and (c) determining that the firm failed to properly monitor accounts with dual clearing relationships.\n\nThe case highlights significant financial impact on a subset of customers, with 8 Chinese customer accounts realizing losses ranging from approximately $120,000 to over $1.5 million from January through September 2018. SpeedTrader received approximately $70,000 annually in payment for order flow from execution venues. The document does not specify the total financial impact across all affected customers."
+  }
+]

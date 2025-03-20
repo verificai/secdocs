@@ -1,0 +1,157 @@
+[
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Single parent with dependent children",
+      "IncomeLevel": "low",
+      "InvestmentExperience": "low",
+      "NetWorth": "low"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced stocks and speculative securities",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
+      "RiskTolerance": "high",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Justin W. Pagel",
+        "Type of Document": "AWC letter",
+        "Case No.": "2022073340901",
+        "Date": "01/17/2025",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      }
+    },
+    "CustomerSummary": "Customer A opened an account with Pagel in 2014 with no prior investment experience. The customer was a single parent with dependent children facing financial hardship. The funds invested were obtained through inheritance or charitable gifts. Customer A instructed Pagel to invest conservatively for anticipated upcoming expenses. Despite this, Pagel instructed the customer to select an investment objective of speculation and high risk tolerance on account documents so he could invest in speculative securities. Between January 2014 and December 2015, Pagel recommended Customer A invest all or a significant portion of assets in low-priced stocks or other speculative securities inconsistent with their investment profile, resulting in losses and a customer complaint. The Care Obligation violation consists of recommending investments that were unsuitable given the customer's financial situation, investment objectives, and risk tolerance. The analytical steps to determine this violation were: 1) Examining the customer's stated investment objectives (conservative) versus what was documented (speculation), 2) Comparing the customer's financial situation (single parent, financial hardship) with the high-risk recommendations, 3) Evaluating the consistency between investments and the customer's needs (funds for upcoming expenses), and 4) Assessing the outcome (losses and complaints)."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Single parent with dependent children",
+      "IncomeLevel": "low",
+      "InvestmentExperience": "low",
+      "NetWorth": "low"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced stocks and speculative securities",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
+      "RiskTolerance": "high",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Justin W. Pagel",
+        "Type of Document": "AWC letter",
+        "Case No.": "2022073340901",
+        "Date": "01/17/2025",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      }
+    },
+    "CustomerSummary": "Customer B opened an account with Pagel in 2014 with no prior investment experience. The customer was a single parent with dependent children facing financial hardship. The funds invested were obtained through inheritance or charitable gifts. Customer B instructed Pagel to invest conservatively for anticipated upcoming expenses. Despite this, Pagel instructed the customer to select an investment objective of speculation and high risk tolerance on account documents so he could invest in speculative securities. Between March 2014 and September 2014, Pagel recommended Customer B invest all or a significant portion of assets in low-priced stocks or other speculative securities inconsistent with their investment profile, resulting in losses and a customer complaint. The Care Obligation violation consists of recommending investments that were unsuitable given the customer's financial situation, investment objectives, and risk tolerance. The analytical steps to determine this violation were: 1) Examining the customer's stated investment objectives (conservative) versus what was documented (speculation), 2) Comparing the customer's financial situation (single parent, financial hardship) with the high-risk recommendations, 3) Evaluating the consistency between investments and the customer's needs (funds for upcoming expenses), and 4) Assessing the outcome (losses and complaints)."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Single parent with dependent children",
+      "IncomeLevel": "low",
+      "InvestmentExperience": "low",
+      "NetWorth": "low"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced stocks and speculative securities",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "Anticipated upcoming expenses (home down payment or child's college tuition)",
+      "RiskTolerance": "high",
+      "InvestmentAccountType": "Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "severe"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Justin W. Pagel",
+        "Type of Document": "AWC letter",
+        "Case No.": "2022073340901",
+        "Date": "01/17/2025",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      }
+    },
+    "CustomerSummary": "Customer C opened an account with Pagel in 2016 with no prior investment experience. The customer was a single parent with dependent children facing financial hardship. The funds invested were obtained through inheritance or charitable gifts. Customer C instructed Pagel to invest conservatively for anticipated upcoming expenses. Despite this, Pagel instructed the customer to select an investment objective of speculation and high risk tolerance on account documents so he could invest in speculative securities. Between August 2016 and February 2019, Pagel recommended Customer C invest all or a significant portion of assets in low-priced stocks or other speculative securities inconsistent with their investment profile, resulting in losses and a customer complaint. The Care Obligation violation consists of recommending investments that were unsuitable given the customer's financial situation, investment objectives, and risk tolerance. The analytical steps to determine this violation were: 1) Examining the customer's stated investment objectives (conservative) versus what was documented (speculation), 2) Comparing the customer's financial situation (single parent, financial hardship) with the high-risk recommendations, 3) Evaluating the consistency between investments and the customer's needs (funds for upcoming expenses), and 4) Assessing the outcome (losses and complaints)."
+  },
+  {
+    "Demographics": {
+      "Age": "NOTSPECIFIED",
+      "Employment": "Self-employed",
+      "IncomeLevel": "low",
+      "InvestmentExperience": "low",
+      "NetWorth": "low"
+    },
+    "InvestmentType": {
+      "PrimaryInvestmentRecommended": "Low-priced stocks and speculative securities",
+      "RiskProfileofPrimaryRecommendedInvestment": "high",
+      "InvestmentPurpose": "Balanced growth",
+      "RiskTolerance": "moderate",
+      "InvestmentAccountType": "IRA and Brokerage"
+    },
+    "AccountInformation": {
+      "AnnualizedPortfolioTurnover": "NOTSPECIFIED",
+      "CostToEquityRatio": "NOTSPECIFIED",
+      "HighRiskInvestmentRatio": "NOTSPECIFIED"
+    },
+    "FinancialLossSuffered": {
+      "AmountLost": "NOTSPECIFIED",
+      "FeesCommissionsPaid": "NOTSPECIFIED",
+      "ImpactOnPortfolio": "NOTSPECIFIED"
+    },
+    "Breach": {
+      "ExistenceofLegalBreach": "Yes",
+      "Case Information": {
+        "Name of Party": "Justin W. Pagel",
+        "Type of Document": "AWC letter",
+        "Case No.": "2022073340901",
+        "Date": "01/17/2025",
+        "CareObligationViolation": "Yes",
+        "TypeofCareObligationViolation": "Inappropriate Investment Recommendations Relative to Client Profile"
+      }
+    },
+    "CustomerSummary": "Customer D opened two accounts with Pagel in November 2022, including an individual retirement account. Customer D was self-employed with an annual income of less than $50,000 and a net worth of less than $100,000 (both being the lowest options on the form). Customer D selected an investment objective of balanced growth with moderate risk tolerance and informed Pagel that he wanted to make only safe investments. Customer D had no prior investment experience and no other assets held outside the firm. Between November 2022 and August 2023, Pagel recommended that Customer D purchase positions in low-priced stocks and other speculative securities inconsistent with Customer D's investment profile. The Care Obligation violation consists of recommending investments that were not in the customer's best interest given their investment profile. The analytical steps to determine this violation were: 1) Examining the customer's investment objectives (balanced growth, moderate risk) versus the actual recommendations (speculative securities), 2) Evaluating the customer's financial situation (low income and net worth) against the high-risk nature of the recommendations, 3) Considering the customer's expressed preference for safe investments, and 4) Noting the customer's lack of investment experience and limited financial resources."
+  },
+  {
+    "OverallSummary": "This case involves Care Obligation violations by Justin W. Pagel, a former General Securities Representative with Feltl & Company. Pagel violated FINRA Rule 2111 (pre-June 30, 2020) and willfully violated Regulation BI's Care Obligation (Rule 15l-1(a)(1)) of the Securities Exchange Act of 1934 (post-June 30, 2020) by making unsuitable investment recommendations to four customers between January 2014 and August 2023. The violations affected four identified customers who shared similar characteristics: limited investment experience, financial hardship, and conservative investment objectives. For the first three customers (A, B, and C), who were all single parents with dependent children, Pagel manipulated the account opening process by instructing them to select investment objectives of speculation and high risk tolerance despite their expressed desire for conservative investments to fund specific upcoming needs (home down payment or college tuition). For Customer D, a self-employed individual with low income and net worth, Pagel recommended speculative securities despite the customer's expressed desire for safe investments and moderate risk tolerance. The analytical steps to determine these violations included: 1) Comparing stated versus documented investment objectives, 2) Evaluating the consistency between customer financial situations and investment recommendations, 3) Assessing the suitability of high-risk investments given customers' stated needs and time horizons, and 4) Reviewing the impact on customers (losses and complaints). In addition to the Care Obligation violations, Pagel exercised discretion without written authorization in 360 trades across 47 customer accounts and mismarked 587 solicited trades as unsolicited in over 50 customer accounts. The violations resulted in customer complaints, with Pagel and the firm making payments totaling $26,000 in connection with two of the complaints. As a result of these violations, Pagel received a ten-month suspension from associating with any FINRA member in all capacities."
+  }
+]
