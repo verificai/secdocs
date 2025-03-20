@@ -1,0 +1,94 @@
+```json
+[
+  {
+    "Date": "2023-01-15",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 7500
+  },
+  {
+    "Date": "2023-02-20",
+    "PrimaryInvestmentRecommended": "Growth Stock Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000
+  },
+  {
+    "Date": "2023-03-10",
+    "PrimaryInvestmentRecommended": "Cryptocurrency ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 3000
+  },
+  {
+    "Date": "2023-04-05",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000
+  },
+  {
+    "Date": "2023-06-18",
+    "PrimaryInvestmentRecommended": "Corporate Bonds",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 7500
+  },
+  {
+    "Date": "2023-08-22",
+    "PrimaryInvestmentRecommended": "S&P 500 Index Fund",
+    "RiskProfileofPrimaryRecommendedInvestment": "moderate",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 10000
+  },
+  {
+    "Date": "2023-10-15",
+    "PrimaryInvestmentRecommended": "Certificate of Deposit (CD)",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 2500
+  },
+  {
+    "Date": "2023-12-01",
+    "PrimaryInvestmentRecommended": "Savings Account",
+    "RiskProfileofPrimaryRecommendedInvestment": "low",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 5000
+  },
+  {
+    "Date": "2024-01-10",
+    "PrimaryInvestmentRecommended": "Technology Sector ETF",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "Brokerage",
+    "BoughtOrSold": "Sold",
+    "TotalAmount": 2000
+  },
+  {
+    "Date": "2024-02-05",
+    "PrimaryInvestmentRecommended": "Real Estate Investment Trust (REIT)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "Balanced growth",
+    "InvestmentAccoutType": "IRA",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 4500
+  }
+]
+```

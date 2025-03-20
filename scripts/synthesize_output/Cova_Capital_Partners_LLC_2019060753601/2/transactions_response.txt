@@ -1,0 +1,40 @@
+```json
+[
+  {
+    "Date": "2023-02-15",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 150000
+  },
+  {
+    "Date": "2023-05-20",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 100000
+  },
+  {
+    "Date": "2023-09-08",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 200000
+  },
+  {
+    "Date": "2024-01-12",
+    "PrimaryInvestmentRecommended": "Private placement offering by Issuer 3 (pre-IPO shares of Company B)",
+    "RiskProfileofPrimaryRecommendedInvestment": "high",
+    "InvestmentPurpose": "growth",
+    "InvestmentAccountType": "Individual Brokerage",
+    "BoughtOrSold": "Bought",
+    "TotalAmount": 125000
+  }
+]
+```

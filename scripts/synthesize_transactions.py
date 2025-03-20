@@ -13,8 +13,8 @@ def get_case_data():
             filepath = os.path.join(CASES_DIR, filename)
             with open(filepath, "r") as file:
                 data = json.load(file)
-
-    cases_map[filename] = data
+        print("READING FILENAME: ", filename)
+        cases_map[filename] = data
     return cases_map
 
 # Load environment variables from .env file

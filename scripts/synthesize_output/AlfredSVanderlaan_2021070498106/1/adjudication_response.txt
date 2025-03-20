@@ -1,0 +1,20 @@
+Based on the provided information, the following violations occurred under section (2)(ii) - the Care Obligation:
+
+1. **Mismatch between risk tolerance and recommended investments (2)(ii)(B)**:
+   The customer's risk tolerance is listed as "Moderate," but several high and very high-risk investments were recommended and purchased, including:
+   - GWG L Bonds (high risk) for $250,000
+   - Hedge Fund (high risk) for $120,000
+   - Real Estate Investment Trust (REIT) (high risk) for $120,000
+   - Technology Sector ETF (high risk) for $60,000
+   - Cryptocurrency ETF (high risk) for $24,000
+   - Private Equity Fund (very high risk) for $36,000
+
+   These recommendations do not have a reasonable basis to believe they are in this particular customer's best interest based on their investment profile, specifically their stated moderate risk tolerance.
+
+2. **Excessive transactions potentially not in customer's best interest (2)(ii)(C)**:
+   The series of transactions from March 2023 to May 2024 shows a pattern of recommendations that, when taken together, significantly overweight the portfolio toward high-risk investments despite the customer's moderate risk tolerance. The total amount invested in high or very high-risk products exceeds 20% of the portfolio allocation according to the allocation data, which appears excessive given the customer's risk profile.
+
+3. **Lack of reasonable basis for GWG L Bond recommendation (2)(ii)(A)(B)**:
+   The initial large recommendation of GWG L Bonds for $250,000 does not appear to have a reasonable basis as being in the best interest of this customer with moderate risk tolerance, and the later sale of a portion of these bonds ($75,000) could indicate that this investment was indeed unsuitable.
+
+These violations indicate that the broker or dealer failed to exercise reasonable diligence, care, and skill in making recommendations that align with the customer's investment profile, particularly regarding risk tolerance.

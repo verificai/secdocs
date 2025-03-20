@@ -1,0 +1,11 @@
+Based on section (2)(ii) of § 240.15l-1 Regulation Best Interest (the "Care obligation"), the following violations occurred:
+
+1. **Mismatch between investment purpose and recommended investments**: The customer's stated investment purpose is "Anticipated upcoming expenses (home down payment or child's college tuition)" which suggests a short-term need for liquidity. However, 70% of the portfolio is allocated to high-risk investments (Technology Sector ETF, Growth Stock Fund, Cryptocurrency ETF). These high-risk investments are inappropriate for short-term goals as they have high volatility and could result in significant losses when the funds are needed.
+
+2. **Unsuitable risk level for financial situation**: The customer has a low income ($45K/year), low net worth ($75K), high mortgage ($180K), and personal loans, yet 70% of their small portfolio ($15K total) is in high-risk investments. This excessive risk allocation fails to consider the customer's financial vulnerability and limited capacity to absorb losses.
+
+3. **Excessive transactions**: The broker recommended six separate transactions within six months for a small portfolio of $15K, which could generate unnecessary transaction costs that deplete the customer's limited resources.
+
+4. **Inappropriate allocation for education funding**: The customer's stated financial goal is "Education Funding," but the investment selections and high-risk profile contradict prudent education funding strategies, which typically require more stable, preservation-focused investments, especially given the anticipated upcoming expenses.
+
+These recommendations violate the Care obligation because the broker failed to have "a reasonable basis to believe that the recommendation is in the best interest of a particular retail customer based on that retail customer's investment profile and the potential risks, rewards, and costs associated with the recommendation."

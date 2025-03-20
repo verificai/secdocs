@@ -1,0 +1,13 @@
+Violations under section (2)(ii) Care obligation:
+
+1. **Mismatch between investment purpose and recommended products**:
+   - The customer's investment purpose is "Anticipated upcoming expenses" (home down payment or college tuition), yet 65% of the portfolio is allocated to high-risk investments (Growth Stock Fund, Technology Sector ETF, Cryptocurrency ETF) that are inappropriate for short-term needs requiring capital preservation.
+   - This violates section (2)(ii)(B) as these recommendations do not align with the customer's investment profile and specific financial needs.
+
+2. **Inappropriate risk level given financial situation**:
+   - The customer has low income ($35K/year), low net worth ($45K), a significant mortgage ($180K), and personal loans, yet was recommended predominantly high-risk investments.
+   - With 3 family members to support and immediate anticipated expenses, the high allocation to volatile investments violates section (2)(ii)(B) by not considering the customer's limited capacity to absorb losses.
+
+3. **Excessive transactions relative to investment profile**:
+   - The customer invested $12,000 total but the transactions show investments totaling $12,000 across 6 separate transactions within 6 months.
+   - This pattern of transactions, considering the customer's limited financial resources, violates section (2)(ii)(C) as it appears excessive relative to the customer's investment profile.

@@ -1,0 +1,17 @@
+Based on the information provided, there are several violations of the care obligation under section (2)(ii) of Regulation Best Interest:
+
+1. **Violation of (2)(ii)(B) - Recommendations not in the customer's best interest based on their investment profile:**
+   - The customer is 68 years old, retired, with moderate risk tolerance, yet was recommended "GWG L Bonds" with a "high" risk profile.
+   - The customer's financial goal is "Retirement" which typically requires capital preservation and income, not high-risk investments.
+   - The total investment in GWG L Bonds ($160,000) represents approximately 46% of the customer's total investment portfolio ($350,000), which is an excessive concentration in a high-risk product for someone with moderate risk tolerance.
+
+2. **Violation of (2)(ii)(C) - Series of transactions that are excessive:**
+   - The broker recommended five separate purchases of the same high-risk product (GWG L Bonds) over a 13-month period.
+   - This series of transactions created an over-concentration in a single high-risk product across multiple account types (IRA, Individual, and Joint accounts).
+   - The pattern of repeated recommendations for the same high-risk product suggests a failure to consider the cumulative risk to the client's overall portfolio.
+
+3. **Violation of (2)(ii)(A) - Lack of reasonable basis:**
+   - The broker failed to ensure that high-risk GWG L Bonds could be suitable for a 68-year-old retired investor with moderate risk tolerance and retirement goals.
+   - The allocation shown indicates a much more conservative portfolio strategy (mostly low to moderate risk investments) which contradicts the high-risk GWG L Bond transactions, suggesting the broker didn't properly understand or consider how these high-risk bonds would fit within the client's investment profile.
+
+These violations demonstrate that the broker failed to exercise reasonable diligence, care, and skill in making recommendations that aligned with this retired customer's investment profile, risk tolerance, and financial goals.

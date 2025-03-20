@@ -1,0 +1,17 @@
+The violations under section (2)(ii) Care obligation include:
+
+1. Violation of § 240.15l-1(a)(2)(ii)(B): The broker failed to have a reasonable basis to believe that recommending the "Private placement offering by Issuer 2" was in the best interest of this particular customer based on the customer's investment profile. The violations include:
+
+   - Excessive concentration risk: The transactions show repeated investments in a single private placement offering (by Issuer 2) totaling $825,000 (excluding the $75,000 sale). This represents a significant concentration in one investment vehicle, which contradicts sound diversification principles even for an aggressive investor.
+
+   - Inconsistency with allocation preferences: The customer's portfolio allocation shows diversification across multiple investment products, but the transactions reveal a heavy concentration in a single private placement offering, suggesting the broker didn't properly consider the customer's existing allocation strategy.
+
+2. Violation of § 240.15l-1(a)(2)(ii)(C): The broker failed to ensure that the series of transactions was not excessive when taken together:
+
+   - The rapid sequence of large investments in the same high-risk product ($250,000, $100,000, $175,000, and $300,000) over just nine months suggests churning or excessive trading. 
+   
+   - The total invested amount ($825,000) represents approximately 87% of the customer's stated investment portfolio of $950,000, which is an unreasonably high concentration in a single high-risk investment.
+
+   - The broker appears to have placed their financial interests (likely higher commissions from private placements) ahead of the customer's interest in appropriate diversification and risk management.
+
+These transactions failed to properly consider the customer's complete investment profile and created an unreasonable level of concentration risk, even for an investor with an "Aggressive" risk tolerance.

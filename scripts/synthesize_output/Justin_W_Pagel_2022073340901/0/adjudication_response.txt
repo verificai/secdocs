@@ -1,0 +1,24 @@
+# Violations under Section (2)(ii) - Care Obligation
+
+## Violation 1: Misalignment of Investment Recommendations with Customer's Investment Purpose
+
+Under section (2)(ii)(B), the broker failed to have a reasonable basis to believe that the high-risk recommendations were in the best interest of this particular retail customer based on their investment profile.
+
+The customer's investment purpose is "Anticipated upcoming expenses (home down payment or child's college tuition)" which suggests a near-term need for liquidity and capital preservation. However, the broker recommended a portfolio with 70% allocated to moderate-to-very high risk investments:
+- 30% in Technology Sector ETF (High risk)
+- 25% in Growth Stock Fund (Moderate to High risk)
+- 15% in Cryptocurrency ETF (High risk)
+
+These high-risk investments are inappropriate for a customer with anticipated upcoming expenses, as they expose the principal to significant volatility and potential loss in the short term. The customer has low income ($38K/year), low net worth ($65K), and a moderate mortgage ($180K), making capital preservation crucial for their upcoming expenses.
+
+## Violation 2: Excessive Transactions
+
+Under section (2)(ii)(C), the broker failed to have a reasonable basis to believe that the series of recommended transactions was not excessive and was in the customer's best interest.
+
+The transactions show a pattern of frequent buying and selling within a relatively short timeframe (January to August 2023), including:
+- Buying Technology Sector ETF for $4,500 (January) and then selling a portion for $1,200 (April)
+- Buying Cryptocurrency ETF for $2,250 (March) and then selling a portion for $800 (August)
+
+Given the customer's financial situation (low income, low net worth) and immediate investment purpose (upcoming expenses), this level of trading activity appears excessive and likely generated unnecessary transaction costs, potentially reducing the customer's available funds for their stated purpose.
+
+These recommendations appear to prioritize active trading that may benefit the broker through commissions or fees rather than serving the customer's clearly stated need for funds for upcoming major expenses.

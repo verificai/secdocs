@@ -1,4 +1,5 @@
-Read the files customer.json, allocation.json and transaction.json and consdier the law in <LAW></LAW>.  Tell me what violations occurred under section (2)(ii) and why.
+Look at <CUSTOMER></CUSTOMER>, <ALLOCATION></ALLOCATION>, and <TRANSACTIONS></TRANSACTIONS>
+ below and consdier the law in <LAW></LAW>.  Tell me what violations occurred under section (2)(ii) and why.
 
 <LAW>
 § 240.15l-1 Regulation best interest.
@@ -54,4 +55,11 @@ Read the files customer.json, allocation.json and transaction.json and consdier 
 
 (3) Conflict of interest means an interest that might incline a broker, dealer, or a natural person who is an associated person of a broker or dealer —consciously or unconsciously—to make a recommendation that is not disinterested.
 </LAW>
+
+<CUSTOMER>{CUSTOMER}</CUSTOMER>
+
+<ALLOCATION>{ALLOCATION}</ALLOCATION>
+
+<TRANSACTIONS>{TRANSACTIONS}</TRANSACTIONS>
+
 

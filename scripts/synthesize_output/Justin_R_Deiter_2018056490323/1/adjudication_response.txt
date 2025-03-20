@@ -1,0 +1,17 @@
+The violations under section 2(ii), the Care Obligation, are:
+
+1. Violation of section (2)(ii)(B): The broker failed to have a reasonable basis to believe that the recommendations were in the best interest of this 89-year-old retired customer based on their investment profile:
+
+   - Despite the customer's advanced age (89), the broker recommended highly speculative, high-risk investments (75% of portfolio in moderate-to-very high risk investments) including Cryptocurrency ETF (15%), Private Equity Fund (10%), and Hedge Fund (10%).
+   
+   - This allocation is unsuitable for an elderly retired individual with low income ($45K/year), even with their stated "Aggressive" risk tolerance. The broker should have questioned whether this risk tolerance was appropriate given the customer's age and income situation.
+
+2. Violation of section (2)(ii)(C): The series of transactions was excessive and not in the customer's best interest when taken together:
+
+   - The transactions show multiple high-risk investments purchased in quick succession over less than a year, representing a substantial portion of the customer's net worth.
+   
+   - The total investment amount across transactions ($350,000) represents approximately 54% of the customer's total net worth ($650,000), with most allocated to high-risk investments.
+   
+   - The pattern of transactions suggests excessive trading that prioritizes speculative investments inappropriate for an 89-year-old retiree who should typically be focused on capital preservation and income generation rather than aggressive speculation.
+
+These recommendations appear to place the broker's financial interests ahead of the customer's interests, as high-risk products typically generate higher commissions and fees for brokers, violating the fundamental requirement of Regulation Best Interest.

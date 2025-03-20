@@ -1,0 +1,24 @@
+```json
+{
+  "ID": 12345,
+  "Age": 32,
+  "Experience": 3,
+  "Income": 35,
+  "Income Categorical": "Low",
+  "ZIP Code": 60612,
+  "Family members": 3,
+  "Education": "Undergraduate",
+  "Employment": "Working Professional",
+  "Mortgage": 180,
+  "Personal Loan": "Yes",
+  "Securities Account": "Yes",
+  "TD Account": "No",
+  "Online Account": "Yes",
+  "CreditCard": "Yes",
+  "Net Worth": 45,
+  "Investment Portfolio": 12,
+  "Risk Tolerance": "Aggressive",
+  "Financial Goals": "Education Funding",
+  "Wealth Management Service Level": "Basic"
+}
+```

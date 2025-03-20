@@ -1,0 +1,24 @@
+```json
+{
+  "ID": 1234,
+  "Age": 68,
+  "Experience": 20,
+  "Income": 60,
+  "Income Categorical": "Medium",
+  "ZIP Code": 94105,
+  "Family members": 2,
+  "Education": "Undergraduate",
+  "Employment": "Retired",
+  "Mortgage": 150,
+  "Personal Loan": "No",
+  "Securities Account": "Yes",
+  "TD Account": "Yes",
+  "Online Account": "Yes",
+  "CreditCard": "Yes",
+  "Net Worth": 500,
+  "Investment Portfolio": 350,
+  "Risk Tolerance": "Moderate",
+  "Financial Goals": "Retirement",
+  "Wealth Management Service Level": "Premium"
+}
+```

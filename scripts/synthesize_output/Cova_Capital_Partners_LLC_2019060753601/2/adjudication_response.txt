@@ -1,0 +1,14 @@
+# Violations under Section (2)(ii) Care Obligation
+
+The following violations occurred under Section (2)(ii) of Regulation Best Interest:
+
+1. **Violation of (2)(ii)(B) - Reasonable basis for recommendation:**
+   The broker has recommended multiple large investments in "Private placement offering by Issuer 3 (pre-IPO shares of Company B)" totaling $575,000 over less than a year. This represents almost 48% of the customer's total investment portfolio ($1,200,000), creating a highly concentrated position in a single high-risk private placement. This concentration does not align with proper diversification principles, even for an "Aggressive" risk tolerance investor.
+
+2. **Violation of (2)(ii)(C) - Excessive transactions:**
+   While the customer has an "Aggressive" risk tolerance and a "Wealth Growth" financial goal, the repeated transactions in the same high-risk private placement offering (four separate purchases over an 11-month period) appear excessive given:
+   - The large amounts involved ($150,000, $100,000, $200,000, and $125,000)
+   - The highly concentrated position in a single high-risk investment
+   - The lack of diversification across different types of private placements or pre-IPO opportunities
+
+The broker failed to demonstrate reasonable diligence, care, and skill to ensure these recommendations, particularly when viewed as a series of transactions, were in the customer's best interest rather than potentially serving the broker's financial interests (such as earning commissions on these private placement transactions).

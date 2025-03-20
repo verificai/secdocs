@@ -1,0 +1,24 @@
+```json
+{
+  "ID": 12345,
+  "Age": 42,
+  "Experience": 15,
+  "Income": 200,
+  "Income Categorical": "High",
+  "ZIP Code": 94103,
+  "Family members": 3,
+  "Education": "Professional",
+  "Employment": "Working Professional",
+  "Mortgage": 450,
+  "Personal Loan": "No",
+  "Securities Account": "Yes",
+  "TD Account": "Yes",
+  "Online Account": "Yes",
+  "CreditCard": "Yes",
+  "Net Worth": 2500,
+  "Investment Portfolio": 850,
+  "Risk Tolerance": "Aggressive",
+  "Financial Goals": "Wealth Growth",
+  "Wealth Management Service Level": "Premium"
+}
+```

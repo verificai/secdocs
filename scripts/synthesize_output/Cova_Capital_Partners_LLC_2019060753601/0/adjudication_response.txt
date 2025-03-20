@@ -1,0 +1,15 @@
+Based on the information provided, the following violations occurred under section (2)(ii) (Care obligation):
+
+1. **Violation of section (2)(ii)(B)**: The broker recommended a significant allocation to very high-risk investments without a reasonable basis to believe that this recommendation was in the best interest of this particular customer based on their investment profile:
+
+   - While the customer has an "Aggressive" risk tolerance, their investment portfolio of $850,000 represents approximately 34% of their $2.5 million net worth, yet they've been recommended to invest 35% of their portfolio in "very high" risk assets (30% in Private Equity Fund and 5% in Cryptocurrency ETF).
+   
+   - Additionally, the transactions show repeated investments in a private placement offering (pre-IPO shares) totaling $300,000 (transactions from 2023-01-15 and 2023-03-22), which represents illiquid, high-risk investments without evidence that proper diversification was considered.
+
+2. **Violation of section (2)(ii)(C)**: The series of transactions, when viewed together, shows excessive concentration in high-risk investments:
+
+   - The customer has made five transactions within a 7-month period, with three of those being extremely high-risk investments (two private placement offerings and a private equity fund) totaling $525,000, which is approximately 62% of their reported investment portfolio.
+   
+   - This concentration in illiquid, high-risk investments in such a short timeframe does not align with prudent portfolio management principles, even for an investor with aggressive risk tolerance, as it potentially exposes the customer to unnecessary market concentration risk.
+
+These recommendations appear to place the broker's financial interests ahead of the customer's by pushing high-commission, high-risk products without adequate consideration of the customer's overall financial situation and appropriate portfolio diversification.

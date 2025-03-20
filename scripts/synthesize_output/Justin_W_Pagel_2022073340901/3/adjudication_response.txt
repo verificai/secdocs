@@ -1,0 +1,37 @@
+# Violations of Section (2)(ii) Care Obligation
+
+Several violations of the Care Obligation under section (2)(ii) occurred in the recommendations made to this client:
+
+## 1. Risk Profile Mismatch
+
+The customer profile indicates a "Moderate" risk tolerance, yet approximately 35% of the portfolio is allocated to high-risk investments (Technology Sector ETF 15%, REIT 10%, Cryptocurrency ETF 10%). Additionally, the transaction history shows a strong preference for recommending high-risk investments:
+
+- Four of the ten transactions explicitly recommend "high" risk profile investments
+- The earliest transactions (Jan-Apr 2023) are predominantly high-risk investments
+
+This violates section (2)(ii)(B) as there is not a reasonable basis to believe these high-risk recommendations are in the best interest of this particular customer based on their moderate risk tolerance.
+
+## 2. Financial Situation Concerns
+
+The customer has:
+- Low income (45K/year)
+- Existing mortgage (120K)
+- Personal loan obligations
+- Only 150K net worth with 50K investment portfolio
+- Family members to support (3)
+
+Yet the broker recommended:
+- Highly speculative investments like Cryptocurrency ETF
+- Total transaction amounts (45,500K+) that approach the customer's entire investment portfolio value
+
+This violates section (2)(ii)(B) by failing to consider the customer's full investment profile including their limited financial situation.
+
+## 3. Excessive Trading
+
+The transactions show ten separate investment recommendations within a 13-month period (Jan 2023-Feb 2024), which appears excessive for a customer with limited means and moderate risk tolerance. The frequency of these trades, especially given the customer's limited experience (5 years), violates section (2)(ii)(C) regarding excessive transactions.
+
+## 4. Investment Experience Mismatch
+
+With only 5 years of investment experience and characterized as having "low" investment experience in the case data, the recommendation of complex, high-risk products like Cryptocurrency ETF violates section (2)(ii)(B) as it fails to properly account for the customer's limited investment sophistication.
+
+These violations demonstrate a failure to exercise reasonable diligence, care, and skill in making recommendations that are truly in the best interest of this particular retail customer based on their specific investment profile.
