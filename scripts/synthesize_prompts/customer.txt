@@ -1,0 +1,30 @@
+Read this json in <CASE_DATA></CASE_DATA> and come up with a hypothetical record for a customer that would match it.
+
+For the file customer.json, return json and use the keys specified as (Key name, type or enum)
+
+```
+'ID (integer),
+Age (in years),
+Experience (in years),
+Income (in K/year),
+Income Categorical (High,Low,Medium)
+ZIP Code (numeric),
+Family members (integer count),
+Education (Graduate,Professional,Undergraduate,Undergraduate),
+Employment (Retired,Self-Employed,Working Professional),
+Mortgage (in K$),
+Personal Loan (Yes/No),
+Securities Account (Yes/No),
+TD Account (Yes/No),
+Online Account (Yes/No),
+CreditCard (Yes, No)
+Net Worth (in K$)
+Investment Portfolio (in K$)
+Risk Tolerance (Aggressive,Conservative,Moderate),
+Financial Goals (Education Funding,Estate Planning,Retirement,Tax Optimization,Wealth Growth,Wealth Growth)
+Wealth Management Service Level (Basic,Premium,Premium,Private)
+```
+
+<CASE_DATA>{CASE_DATA}</CASE_DATA>
+
+Please just return the json with no commentary.
