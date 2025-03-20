@@ -3,6 +3,8 @@
 ## synthesize_executor.py
 
 - Put Claude-generated case summaries in ../case_summaries_teddy (WILL CHANGE) 
+- set ANTHROPIC_API_KEY in environment
+- From scripts directory, python synthesize_executor.py
 - From this directory, python synthesize_executor.py will create:
   - synthesize_output/<CASE NAME>
   - synthesize_output/<CASE NAME>/<PLAINTIFF INDEX>
