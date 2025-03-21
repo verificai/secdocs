@@ -19,15 +19,15 @@ args = parser.parse_args()
 
 CASES_DIR = args.cases_dir
 
-def get_case_data():
+def get_case_data(casefile):
     cases_map = {}
 
     # If a single casefile is specified, load only that
-    if args.casefile:
-        with open(args.casefile, "r") as file:
+    if casefile:
+        with open(casefile, "r") as file:
             data = json.load(file)
-        print("READING FILE:", args.casefile)
-        cases_map[os.path.basename(args.casefile)] = data
+        print("READING FILE:", casefile)
+        cases_map[os.path.basename(casefile)] = data
         return cases_map
 
     # Otherwise, read from the specified directory
@@ -133,7 +133,9 @@ def process_plaintiff(plaintiff_record, plaintiff_index, plaintiff_filename_pref
     
 
     plaintiff_record_cleaned = select_relevant_keys(plaintiff_record)
-
+    if not plaintiff_record_cleaned:
+        return # skip any empty records 
+    
     messages = []
     prompts = load_prompts()
 
@@ -204,7 +206,7 @@ def process_plaintiff(plaintiff_record, plaintiff_index, plaintiff_filename_pref
 
 
 def main():
-    case_data = get_case_data()
+    case_data = get_case_data(args.casefile)
 
     for plaintiff_filename in case_data.keys():
         plaintiff_filename_prefix = plaintiff_filename.replace('.json', '')
@@ -214,5 +216,6 @@ def main():
             for plaintiff_index, plaintiff_record in enumerate(case_data[plaintiff_filename]):
                 process_plaintiff(plaintiff_record, plaintiff_index, plaintiff_filename_prefix)
 
-main()
+if __name__ == "__main__":
+    main()
 
